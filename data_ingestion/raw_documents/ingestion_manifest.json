@@ -1,0 +1,42 @@
+{
+  "bucket": "multimodal-rag-data-nov14",
+  "prefix": "raw",
+  "total_documents": 2,
+  "documents": {
+    "3152577": {
+      "document_id": "3152577",
+      "format": "pdf",
+      "file_count": 1,
+      "files": [
+        "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/3152577/3152577.pdf"
+      ],
+      "total_bytes": 1781024,
+      "related_questions": [
+        {
+          "question_idx": 0,
+          "question": "What is the variation in revenue growth between younger and senior business founders during the early years for those in the 2013 group?",
+          "answer": "Firms founded by younger owners in the 2013 group grew 24.7% between the first and second year, compared to 6.7% for senior business owners.",
+          "question_type": "comparison"
+        }
+      ]
+    },
+    "6002966": {
+      "document_id": "6002966",
+      "format": "pdf",
+      "file_count": 1,
+      "files": [
+        "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6002966/6002966.pdf"
+      ],
+      "total_bytes": 889914,
+      "related_questions": [
+        {
+          "question_idx": 1,
+          "question": "In the context of WAM Active's financials, how does the NTA before tax differ between June 2021 and the previous month, May 2021?",
+          "answer": "The NTA before tax in June 2021 was 101.84c, compared to 101.65c in May 2021, showing an increase of 0.19c.",
+          "question_type": "comparison"
+        }
+      ]
+    }
+  },
+  "metadata_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/metadata/selected_questions_2.json"
+}

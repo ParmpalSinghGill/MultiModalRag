@@ -1,0 +1,9 @@
+**/.terraform/
+**/.build/
+*.tfstate
+*.tfstate.*
+*.tfvars
+!*.tfvars.example
+terraform/backend.hcl
+controller/logs/
+__pycache__/

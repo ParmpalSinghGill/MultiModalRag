@@ -1,0 +1,7 @@
+# Allowlist: secrets, datasets and local artifacts must never reach an image.
+*
+!services/
+!data_ingestion/*.py
+!data_generation/*.py
+**/__pycache__/
+data_generation/evaluate_5_questions.py

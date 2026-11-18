@@ -1,0 +1,53 @@
+{
+  "domain": "commerce_manufacturing",
+  "num_questions": 1,
+  "indices": [
+    0
+  ],
+  "unique_document_ids": [
+    "0355944"
+  ],
+  "format_breakdown": {
+    "pdf_questions": [
+      0
+    ],
+    "image_questions": []
+  },
+  "total_pdfs": 1,
+  "total_images": 0,
+  "total_pages_downloaded": 0,
+  "questions": [
+    {
+      "question_idx": 0,
+      "document_id": "0355944",
+      "format": "pdf",
+      "question": "What are the steps involved in the corrective action process in Hunt Design's QMS?",
+      "answer": "The corrective action process includes the analysis of data, internal audits, implementation of corrective actions, and control of non-conforming products.",
+      "question_type": "factual_retrieval",
+      "answer_type": "image_only",
+      "gt_image_paths_rel": [
+        "images/commerce_manufacturing/0355944/0355944_page_0004.png"
+      ],
+      "longdoc_image_paths_rel": [
+        "images/commerce_manufacturing/0355944/0355944_page_0001.png",
+        "images/commerce_manufacturing/0355944/0355944_page_0002.png",
+        "images/commerce_manufacturing/0355944/0355944_page_0003.png",
+        "images/commerce_manufacturing/0355944/0355944_page_0004.png",
+        "images/commerce_manufacturing/0355944/0355944_page_0005.png"
+      ],
+      "required_images_rel": [
+        "images/commerce_manufacturing/0355944/0355944_page_0001.png",
+        "images/commerce_manufacturing/0355944/0355944_page_0002.png",
+        "images/commerce_manufacturing/0355944/0355944_page_0003.png",
+        "images/commerce_manufacturing/0355944/0355944_page_0004.png",
+        "images/commerce_manufacturing/0355944/0355944_page_0005.png"
+      ],
+      "local_images": [],
+      "local_pdf": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data/commerce_manufacturing/documents/0355944/0355944.pdf",
+      "local_files": [
+        "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data/commerce_manufacturing/documents/0355944/0355944.pdf"
+      ],
+      "gt_local_images": []
+    }
+  ]
+}

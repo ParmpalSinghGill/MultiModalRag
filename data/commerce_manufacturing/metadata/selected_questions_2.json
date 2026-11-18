@@ -1,0 +1,100 @@
+{
+  "domain": "commerce_manufacturing",
+  "num_questions": 2,
+  "indices": [
+    0,
+    1
+  ],
+  "unique_document_ids": [
+    "0355944",
+    "6109033"
+  ],
+  "total_pages_downloaded": 15,
+  "questions": [
+    {
+      "question_idx": 0,
+      "document_id": "0355944",
+      "question": "What are the steps involved in the corrective action process in Hunt Design's QMS?",
+      "answer": "The corrective action process includes the analysis of data, internal audits, implementation of corrective actions, and control of non-conforming products.",
+      "question_type": "factual_retrieval",
+      "answer_type": "image_only",
+      "gt_image_paths_rel": [
+        "images/commerce_manufacturing/0355944/0355944_page_0004.png"
+      ],
+      "longdoc_image_paths_rel": [
+        "images/commerce_manufacturing/0355944/0355944_page_0001.png",
+        "images/commerce_manufacturing/0355944/0355944_page_0002.png",
+        "images/commerce_manufacturing/0355944/0355944_page_0003.png",
+        "images/commerce_manufacturing/0355944/0355944_page_0004.png",
+        "images/commerce_manufacturing/0355944/0355944_page_0005.png"
+      ],
+      "required_images_rel": [
+        "images/commerce_manufacturing/0355944/0355944_page_0001.png",
+        "images/commerce_manufacturing/0355944/0355944_page_0002.png",
+        "images/commerce_manufacturing/0355944/0355944_page_0003.png",
+        "images/commerce_manufacturing/0355944/0355944_page_0004.png",
+        "images/commerce_manufacturing/0355944/0355944_page_0005.png"
+      ],
+      "local_images": [
+        "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data/images/commerce_manufacturing/0355944/0355944_page_0001.png",
+        "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data/images/commerce_manufacturing/0355944/0355944_page_0002.png",
+        "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data/images/commerce_manufacturing/0355944/0355944_page_0003.png",
+        "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data/images/commerce_manufacturing/0355944/0355944_page_0004.png",
+        "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data/images/commerce_manufacturing/0355944/0355944_page_0005.png"
+      ],
+      "gt_local_images": [
+        "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data/images/commerce_manufacturing/0355944/0355944_page_0004.png"
+      ]
+    },
+    {
+      "question_idx": 1,
+      "document_id": "6109033",
+      "question": "What products are advertised by A. Borsig in the Nichi-Doku-K\u014dgy\u014d-K\u014dkoku from 1897?",
+      "answer": "Various industrial machinery such as locomotives and steam engines.",
+      "question_type": "factual_retrieval",
+      "answer_type": "image_only",
+      "gt_image_paths_rel": [
+        "images/commerce_manufacturing/6109033/6109033_page_0007.png"
+      ],
+      "longdoc_image_paths_rel": [
+        "images/commerce_manufacturing/6109033/6109033_page_0001.png",
+        "images/commerce_manufacturing/6109033/6109033_page_0002.png",
+        "images/commerce_manufacturing/6109033/6109033_page_0003.png",
+        "images/commerce_manufacturing/6109033/6109033_page_0004.png",
+        "images/commerce_manufacturing/6109033/6109033_page_0005.png",
+        "images/commerce_manufacturing/6109033/6109033_page_0006.png",
+        "images/commerce_manufacturing/6109033/6109033_page_0007.png",
+        "images/commerce_manufacturing/6109033/6109033_page_0008.png",
+        "images/commerce_manufacturing/6109033/6109033_page_0009.png",
+        "images/commerce_manufacturing/6109033/6109033_page_0010.png"
+      ],
+      "required_images_rel": [
+        "images/commerce_manufacturing/6109033/6109033_page_0001.png",
+        "images/commerce_manufacturing/6109033/6109033_page_0002.png",
+        "images/commerce_manufacturing/6109033/6109033_page_0003.png",
+        "images/commerce_manufacturing/6109033/6109033_page_0004.png",
+        "images/commerce_manufacturing/6109033/6109033_page_0005.png",
+        "images/commerce_manufacturing/6109033/6109033_page_0006.png",
+        "images/commerce_manufacturing/6109033/6109033_page_0007.png",
+        "images/commerce_manufacturing/6109033/6109033_page_0008.png",
+        "images/commerce_manufacturing/6109033/6109033_page_0009.png",
+        "images/commerce_manufacturing/6109033/6109033_page_0010.png"
+      ],
+      "local_images": [
+        "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data/images/commerce_manufacturing/6109033/6109033_page_0001.png",
+        "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data/images/commerce_manufacturing/6109033/6109033_page_0002.png",
+        "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data/images/commerce_manufacturing/6109033/6109033_page_0003.png",
+        "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data/images/commerce_manufacturing/6109033/6109033_page_0004.png",
+        "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data/images/commerce_manufacturing/6109033/6109033_page_0005.png",
+        "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data/images/commerce_manufacturing/6109033/6109033_page_0006.png",
+        "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data/images/commerce_manufacturing/6109033/6109033_page_0007.png",
+        "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data/images/commerce_manufacturing/6109033/6109033_page_0008.png",
+        "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data/images/commerce_manufacturing/6109033/6109033_page_0009.png",
+        "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data/images/commerce_manufacturing/6109033/6109033_page_0010.png"
+      ],
+      "gt_local_images": [
+        "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data/images/commerce_manufacturing/6109033/6109033_page_0007.png"
+      ]
+    }
+  ]
+}

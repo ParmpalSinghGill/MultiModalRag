@@ -1,0 +1,138 @@
+{
+  "domain": "finance",
+  "num_questions": 2,
+  "indices": [
+    0,
+    1
+  ],
+  "unique_document_ids": [
+    "3152577",
+    "6002966"
+  ],
+  "format_breakdown": {
+    "pdf_questions": [
+      0,
+      1
+    ],
+    "image_questions": []
+  },
+  "total_pdfs": 2,
+  "total_images": 0,
+  "total_pages_downloaded": 0,
+  "questions": [
+    {
+      "question_idx": 0,
+      "document_id": "3152577",
+      "format": "pdf",
+      "question": "What is the variation in revenue growth between younger and senior business founders during the early years for those in the 2013 group?",
+      "answer": "Firms founded by younger owners in the 2013 group grew 24.7% between the first and second year, compared to 6.7% for senior business owners.",
+      "question_type": "comparison",
+      "answer_type": "text_only",
+      "gt_image_paths_rel": [
+        "images/finance/3152577/3152577_page_0014.png"
+      ],
+      "longdoc_image_paths_rel": [
+        "images/finance/3152577/3152577_page_0001.png",
+        "images/finance/3152577/3152577_page_0002.png",
+        "images/finance/3152577/3152577_page_0003.png",
+        "images/finance/3152577/3152577_page_0004.png",
+        "images/finance/3152577/3152577_page_0005.png",
+        "images/finance/3152577/3152577_page_0006.png",
+        "images/finance/3152577/3152577_page_0007.png",
+        "images/finance/3152577/3152577_page_0008.png",
+        "images/finance/3152577/3152577_page_0009.png",
+        "images/finance/3152577/3152577_page_0010.png",
+        "images/finance/3152577/3152577_page_0011.png",
+        "images/finance/3152577/3152577_page_0012.png",
+        "images/finance/3152577/3152577_page_0013.png",
+        "images/finance/3152577/3152577_page_0014.png",
+        "images/finance/3152577/3152577_page_0015.png",
+        "images/finance/3152577/3152577_page_0016.png",
+        "images/finance/3152577/3152577_page_0017.png",
+        "images/finance/3152577/3152577_page_0018.png",
+        "images/finance/3152577/3152577_page_0019.png",
+        "images/finance/3152577/3152577_page_0020.png",
+        "images/finance/3152577/3152577_page_0021.png",
+        "images/finance/3152577/3152577_page_0022.png",
+        "images/finance/3152577/3152577_page_0023.png",
+        "images/finance/3152577/3152577_page_0024.png"
+      ],
+      "required_images_rel": [
+        "images/finance/3152577/3152577_page_0001.png",
+        "images/finance/3152577/3152577_page_0002.png",
+        "images/finance/3152577/3152577_page_0003.png",
+        "images/finance/3152577/3152577_page_0004.png",
+        "images/finance/3152577/3152577_page_0005.png",
+        "images/finance/3152577/3152577_page_0006.png",
+        "images/finance/3152577/3152577_page_0007.png",
+        "images/finance/3152577/3152577_page_0008.png",
+        "images/finance/3152577/3152577_page_0009.png",
+        "images/finance/3152577/3152577_page_0010.png",
+        "images/finance/3152577/3152577_page_0011.png",
+        "images/finance/3152577/3152577_page_0012.png",
+        "images/finance/3152577/3152577_page_0013.png",
+        "images/finance/3152577/3152577_page_0014.png",
+        "images/finance/3152577/3152577_page_0015.png",
+        "images/finance/3152577/3152577_page_0016.png",
+        "images/finance/3152577/3152577_page_0017.png",
+        "images/finance/3152577/3152577_page_0018.png",
+        "images/finance/3152577/3152577_page_0019.png",
+        "images/finance/3152577/3152577_page_0020.png",
+        "images/finance/3152577/3152577_page_0021.png",
+        "images/finance/3152577/3152577_page_0022.png",
+        "images/finance/3152577/3152577_page_0023.png",
+        "images/finance/3152577/3152577_page_0024.png"
+      ],
+      "local_images": [],
+      "local_pdf": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data/finance/documents/3152577/3152577.pdf",
+      "local_files": [
+        "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data/finance/documents/3152577/3152577.pdf"
+      ],
+      "gt_local_images": []
+    },
+    {
+      "question_idx": 1,
+      "document_id": "6002966",
+      "format": "pdf",
+      "question": "In the context of WAM Active's financials, how does the NTA before tax differ between June 2021 and the previous month, May 2021?",
+      "answer": "The NTA before tax in June 2021 was 101.84c, compared to 101.65c in May 2021, showing an increase of 0.19c.",
+      "question_type": "comparison",
+      "answer_type": "table_required",
+      "gt_image_paths_rel": [
+        "images/finance/6002966/6002966_page_0009.png",
+        "images/finance/6002966/6002966_page_0010.png"
+      ],
+      "longdoc_image_paths_rel": [
+        "images/finance/6002966/6002966_page_0001.png",
+        "images/finance/6002966/6002966_page_0002.png",
+        "images/finance/6002966/6002966_page_0003.png",
+        "images/finance/6002966/6002966_page_0004.png",
+        "images/finance/6002966/6002966_page_0005.png",
+        "images/finance/6002966/6002966_page_0006.png",
+        "images/finance/6002966/6002966_page_0007.png",
+        "images/finance/6002966/6002966_page_0008.png",
+        "images/finance/6002966/6002966_page_0009.png",
+        "images/finance/6002966/6002966_page_0010.png"
+      ],
+      "required_images_rel": [
+        "images/finance/6002966/6002966_page_0001.png",
+        "images/finance/6002966/6002966_page_0002.png",
+        "images/finance/6002966/6002966_page_0003.png",
+        "images/finance/6002966/6002966_page_0004.png",
+        "images/finance/6002966/6002966_page_0005.png",
+        "images/finance/6002966/6002966_page_0006.png",
+        "images/finance/6002966/6002966_page_0007.png",
+        "images/finance/6002966/6002966_page_0008.png",
+        "images/finance/6002966/6002966_page_0009.png",
+        "images/finance/6002966/6002966_page_0010.png"
+      ],
+      "local_images": [],
+      "local_pdf": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data/finance/documents/6002966/6002966.pdf",
+      "local_files": [
+        "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data/finance/documents/6002966/6002966.pdf"
+      ],
+      "gt_local_images": []
+    }
+  ],
+  "qa_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data/finance/metadata/selected_questions_2.json"
+}

@@ -1,0 +1,174 @@
+{
+  "Comment": "Ingests one queued document at a time per execution. Pipes starts this workflow asynchronously, so failures and deferrals are routed back to SQS here.",
+  "StartAt": "ParseEvent",
+  "States": {
+    "ParseEvent": {
+      "Type": "Task",
+      "Resource": "arn:aws:states:::lambda:invoke",
+      "Parameters": {
+        "FunctionName": "${pipeline_function}",
+        "Payload": { "action": "parse_event", "event.$": "$" }
+      },
+      "ResultSelector": { "documents.$": "$.Payload.documents" },
+      "Retry": [{ "ErrorEquals": ["States.TaskFailed"], "IntervalSeconds": 5, "MaxAttempts": 3, "BackoffRate": 2 }],
+      "Next": "ForEachDocument"
+    },
+    "ForEachDocument": {
+      "Type": "Map",
+      "ItemsPath": "$.documents",
+      "MaxConcurrency": 1,
+      "ItemSelector": {
+        "doc.$": "$$.Map.Item.Value",
+        "execution_id.$": "$$.Execution.Id"
+      },
+      "ItemProcessor": {
+        "ProcessorConfig": { "Mode": "INLINE" },
+        "StartAt": "AcquireSlot",
+        "States": {
+          "AcquireSlot": {
+            "Type": "Task",
+            "Resource": "arn:aws:states:::lambda:invoke",
+            "Parameters": {
+              "FunctionName": "${pipeline_function}",
+              "Payload": { "action": "acquire_slot", "execution_id.$": "$.execution_id" }
+            },
+            "ResultSelector": { "status.$": "$.Payload.status", "slot.$": "$.Payload.slot" },
+            "ResultPath": "$.slot_result",
+            "Retry": [{ "ErrorEquals": ["States.TaskFailed"], "IntervalSeconds": 5, "MaxAttempts": 5, "BackoffRate": 2 }],
+            "Next": "SlotDecision"
+          },
+          "SlotDecision": {
+            "Type": "Choice",
+            "Choices": [
+              { "Variable": "$.slot_result.status", "StringEquals": "ACQUIRED", "Next": "Claim" },
+              { "Variable": "$.slot_result.status", "StringEquals": "DEFERRED", "Next": "ReturnToQueue" }
+            ],
+            "Default": "WaitForSlot"
+          },
+          "WaitForSlot": { "Type": "Wait", "Seconds": 60, "Next": "AcquireSlot" },
+          "ReturnToQueue": {
+            "Type": "Task",
+            "Resource": "arn:aws:states:::sqs:sendMessage",
+            "Parameters": {
+              "QueueUrl": "${queue_url}",
+              "MessageBody": { "document.$": "$.doc" }
+            },
+            "Retry": [{ "ErrorEquals": ["States.ALL"], "IntervalSeconds": 5, "MaxAttempts": 5, "BackoffRate": 2 }],
+            "End": true
+          },
+          "Claim": {
+            "Type": "Task",
+            "Resource": "arn:aws:states:::lambda:invoke",
+            "Parameters": {
+              "FunctionName": "${pipeline_function}",
+              "Payload": { "action": "claim", "doc.$": "$.doc", "execution_id.$": "$.execution_id" }
+            },
+            "ResultSelector": { "status.$": "$.Payload.status" },
+            "ResultPath": "$.claim",
+            "Retry": [{ "ErrorEquals": ["States.TaskFailed"], "IntervalSeconds": 5, "MaxAttempts": 5, "BackoffRate": 2 }],
+            "Catch": [{ "ErrorEquals": ["States.ALL"], "ResultPath": "$.error", "Next": "SendToDlq" }],
+            "Next": "ClaimDecision"
+          },
+          "ClaimDecision": {
+            "Type": "Choice",
+            "Choices": [{ "Variable": "$.claim.status", "StringEquals": "CLAIMED", "Next": "ParseDocument" }],
+            "Default": "ReleaseSlot"
+          },
+          "ParseDocument": {
+            "Type": "Task",
+            "Resource": "arn:aws:states:::ecs:runTask.sync",
+            "TimeoutSeconds": 3600,
+            "Parameters": {
+              "Cluster": "${cluster}",
+              "TaskDefinition": "${parse_task}",
+              "CapacityProviderStrategy": [{ "CapacityProvider": "${capacity_provider}", "Weight": 1 }],
+              "NetworkConfiguration": {
+                "AwsvpcConfiguration": { "Subnets": ${subnets}, "SecurityGroups": ${security_groups}, "AssignPublicIp": "${assign_public_ip}" }
+              },
+              "Overrides": {
+                "ContainerOverrides": [{
+                  "Name": "worker",
+                  "Command.$": "States.Array('parse', '--bucket', $.doc.bucket, '--key', $.doc.key, '--etag', $.doc.etag, '--doc-id', $.doc.doc_id)"
+                }]
+              }
+            },
+            "ResultPath": null,
+            "Retry": [{ "ErrorEquals": ["States.ALL"], "IntervalSeconds": 60, "MaxAttempts": 2, "BackoffRate": 2 }],
+            "Catch": [{ "ErrorEquals": ["States.ALL"], "ResultPath": "$.error", "Next": "MarkFailed" }],
+            "Next": "IndexDocument"
+          },
+          "IndexDocument": {
+            "Type": "Task",
+            "Resource": "arn:aws:states:::ecs:runTask.sync",
+            "TimeoutSeconds": 1800,
+            "Parameters": {
+              "Cluster": "${cluster}",
+              "TaskDefinition": "${index_task}",
+              "CapacityProviderStrategy": [{ "CapacityProvider": "${capacity_provider}", "Weight": 1 }],
+              "NetworkConfiguration": {
+                "AwsvpcConfiguration": { "Subnets": ${subnets}, "SecurityGroups": ${security_groups}, "AssignPublicIp": "${assign_public_ip}" }
+              },
+              "Overrides": {
+                "ContainerOverrides": [{
+                  "Name": "worker",
+                  "Command.$": "States.Array('index', '--bucket', $.doc.bucket, '--key', $.doc.key, '--etag', $.doc.etag, '--doc-id', $.doc.doc_id)"
+                }]
+              }
+            },
+            "ResultPath": null,
+            "Retry": [{ "ErrorEquals": ["States.ALL"], "IntervalSeconds": 60, "MaxAttempts": 2, "BackoffRate": 2 }],
+            "Catch": [{ "ErrorEquals": ["States.ALL"], "ResultPath": "$.error", "Next": "MarkFailed" }],
+            "Next": "MarkComplete"
+          },
+          "MarkComplete": {
+            "Type": "Task",
+            "Resource": "arn:aws:states:::lambda:invoke",
+            "Parameters": {
+              "FunctionName": "${pipeline_function}",
+              "Payload": { "action": "complete", "doc.$": "$.doc", "execution_id.$": "$.execution_id" }
+            },
+            "ResultPath": null,
+            "Retry": [{ "ErrorEquals": ["States.TaskFailed"], "IntervalSeconds": 5, "MaxAttempts": 5, "BackoffRate": 2 }],
+            "Catch": [{ "ErrorEquals": ["States.ALL"], "ResultPath": "$.error", "Next": "SendToDlq" }],
+            "Next": "ReleaseSlot"
+          },
+          "MarkFailed": {
+            "Type": "Task",
+            "Resource": "arn:aws:states:::lambda:invoke",
+            "Parameters": {
+              "FunctionName": "${pipeline_function}",
+              "Payload": { "action": "fail", "doc.$": "$.doc", "execution_id.$": "$.execution_id", "error.$": "$.error" }
+            },
+            "ResultPath": null,
+            "Retry": [{ "ErrorEquals": ["States.TaskFailed"], "IntervalSeconds": 5, "MaxAttempts": 5, "BackoffRate": 2 }],
+            "Catch": [{ "ErrorEquals": ["States.ALL"], "ResultPath": "$.status_update_error", "Next": "SendToDlq" }],
+            "Next": "SendToDlq"
+          },
+          "SendToDlq": {
+            "Type": "Task",
+            "Resource": "arn:aws:states:::sqs:sendMessage",
+            "Parameters": {
+              "QueueUrl": "${dlq_url}",
+              "MessageBody": { "document.$": "$.doc", "error.$": "$.error", "execution_id.$": "$.execution_id" }
+            },
+            "ResultPath": null,
+            "Retry": [{ "ErrorEquals": ["States.ALL"], "IntervalSeconds": 5, "MaxAttempts": 5, "BackoffRate": 2 }],
+            "Next": "ReleaseSlot"
+          },
+          "ReleaseSlot": {
+            "Type": "Task",
+            "Resource": "arn:aws:states:::lambda:invoke",
+            "Parameters": {
+              "FunctionName": "${pipeline_function}",
+              "Payload": { "action": "release_slot", "slot.$": "$.slot_result.slot", "execution_id.$": "$.execution_id" }
+            },
+            "ResultPath": null,
+            "Retry": [{ "ErrorEquals": ["States.TaskFailed"], "IntervalSeconds": 5, "MaxAttempts": 5, "BackoffRate": 2 }],
+            "End": true
+          }
+        }
+      },
+      "End": true
+    }
+  }
+}

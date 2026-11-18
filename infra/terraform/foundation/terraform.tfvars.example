@@ -1,0 +1,23 @@
+state_bucket = "mfrag-prod-tfstate-<account-id>"
+image_tag    = "2026-11-18-1"
+
+# Recipients for budget and alarm notifications.
+alert_emails     = []
+budget_limit_usd = 100
+
+# IAM principals that may assume the ragctl controller role.
+controller_trusted_principal_arns = []
+
+# Only these principals may delete protected S3 objects.
+data_admin_principal_arns = []
+
+# Cost and capability switches.
+enable_nat_gateway = true
+enable_redis       = false
+worker_use_spot    = true
+
+# Set false if the account already records management events in a trail.
+enable_cloudtrail = true
+
+# Set true only if the account has never used OpenSearch Service in a VPC.
+create_opensearch_service_linked_role = false

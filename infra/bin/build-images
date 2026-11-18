@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+# Usage: infra/bin/build-images <image-tag>
+# Builds and pushes the API and worker images. Run from any directory after the
+# foundation stack exists. Tags are immutable, so use a new tag for every build.
+set -euo pipefail
+
+TAG="${1:?usage: build-images <image-tag>}"
+ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/../.." && pwd)"
+FOUNDATION="${ROOT}/infra/terraform/foundation"
+REGION="$(terraform -chdir="${FOUNDATION}" output -raw region)"
+URLS="$(terraform -chdir="${FOUNDATION}" output -json ecr_repository_urls)"
+API_REPO="$(python3 -c 'import json,sys; print(json.loads(sys.argv[1])["api"])' "${URLS}")"
+WORKER_REPO="$(python3 -c 'import json,sys; print(json.loads(sys.argv[1])["worker"])' "${URLS}")"
+
+aws ecr get-login-password --region "${REGION}" \
+  | docker login --username AWS --password-stdin "${API_REPO%%/*}"
+
+docker build --platform linux/amd64 -f "${ROOT}/services/Dockerfile.api" -t "${API_REPO}:${TAG}" "${ROOT}"
+docker build --platform linux/amd64 -f "${ROOT}/services/Dockerfile.worker" -t "${WORKER_REPO}:${TAG}" "${ROOT}"
+docker push "${API_REPO}:${TAG}"
+docker push "${WORKER_REPO}:${TAG}"

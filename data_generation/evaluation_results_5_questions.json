@@ -1,0 +1,417 @@
+{
+  "model_id": "amazon.nova-micro-v1:0",
+  "total_questions": 5,
+  "total_tokens": 11406,
+  "total_cost_usd": 0.000547,
+  "records": [
+    {
+      "question_idx": 0,
+      "document_id": "3152577",
+      "question": "What is the variation in revenue growth between younger and senior business founders during the early years for those in the 2013 group?",
+      "ground_truth_answer": "Firms founded by younger owners in the 2013 group grew 24.7% between the first and second year, compared to 6.7% for senior business owners.",
+      "generated_answer": "According to the provided excerpts, the variation in revenue growth between younger and senior business founders during the early years for those in the 2013 cohort is as follows:\n\n- **Young owners under age 35**: Firms founded by younger owners started smaller but grew faster than those of their older counterparts. Specifically, firms founded by young owners grew at a rate of 24.7 percent between the first and second year of operation ([Doc 3152577, Page 14]).\n\n- **Older owners aged 55 and over**: Firms founded by older business owners grew at a rate of 6.7 percent between the first and second year of operation ([Doc 3152577, Page 14]).\n\nThis indicates that younger business founders experienced significantly higher revenue growth rates in the early years compared to their older counterparts.",
+      "model_id": "amazon.nova-micro-v1:0",
+      "cache_hit": false,
+      "retrieval_latency_ms": 167.23,
+      "generation_latency_ms": 1898.89,
+      "total_latency_ms": 2066.19,
+      "tokens": {
+        "input_tokens": 4838,
+        "output_tokens": 183,
+        "total_tokens": 5021,
+        "estimated_cost_usd": 0.000195
+      },
+      "sources": [
+        {
+          "chunk_id": "3152577_chunk_0020",
+          "document_id": "3152577",
+          "page_numbers": [
+            17
+          ],
+          "content_type": "text_or_table",
+          "neural_class": null,
+          "caption": null,
+          "image_s3_url": null,
+          "score": 29.9235
+        },
+        {
+          "chunk_id": "3152577_chunk_0014",
+          "document_id": "3152577",
+          "page_numbers": [
+            9,
+            10
+          ],
+          "content_type": "text_or_table",
+          "neural_class": null,
+          "caption": null,
+          "image_s3_url": null,
+          "score": 29.5301
+        },
+        {
+          "chunk_id": "3152577_chunk_0012",
+          "document_id": "3152577",
+          "page_numbers": [
+            7,
+            8
+          ],
+          "content_type": "text_or_table",
+          "neural_class": null,
+          "caption": null,
+          "image_s3_url": null,
+          "score": 28.751
+        },
+        {
+          "chunk_id": "3152577_chunk_0017",
+          "document_id": "3152577",
+          "page_numbers": [
+            14,
+            15
+          ],
+          "content_type": "text_or_table",
+          "neural_class": null,
+          "caption": null,
+          "image_s3_url": null,
+          "score": 27.7102
+        },
+        {
+          "chunk_id": "3152577_chunk_0008",
+          "document_id": "3152577",
+          "page_numbers": [
+            5
+          ],
+          "content_type": "text_or_table",
+          "neural_class": null,
+          "caption": null,
+          "image_s3_url": null,
+          "score": 27.2392
+        }
+      ],
+      "figure_links": []
+    },
+    {
+      "question_idx": 1,
+      "document_id": "6002966",
+      "question": "In the context of WAM Active's financials, how does the NTA before tax differ between June 2021 and the previous month, May 2021?",
+      "ground_truth_answer": "The NTA before tax in June 2021 was 101.84c, compared to 101.65c in May 2021, showing an increase of 0.19c.",
+      "generated_answer": "To determine how the Net Tangible Assets (NTA) before tax differ between June 2021 and May 2021 for WAM Active, we will examine the provided excerpts:\n\n- **Excerpt 1** (Page 5): \n  - June 2021, NTA before tax = 144.01c\n  - May 2021, NTA before tax = 143.35c\n  - Difference: 144.01c - 143.35c = 0.66c\n\n- **Excerpt 2** (Page 9): \n  - June 2021, NTA before tax = 121.96c\n  - May 2021, NTA before tax = 120.74c\n  - Difference: 121.96c - 120.74c = 1.22c\n\n- **Excerpt 3** (Page 6): \n  - June 2021, NTA before tax = 272.76c\n  - May 2021, NTA before tax = 267.51c\n  - Difference: 272.76c - 267.51c = 5.25c\n\n- **Excerpt 4** (Page 4): \n  - June 2021, NTA before tax = 189.25c\n  - May 2021, NTA before tax = 186.55c\n  - Difference: 189.25c - 186.55c = 2.70c\n\n- **Excerpt 5** (Page 10): \n  - June 2021, NTA before tax = 101.84c\n  - May 2021, NTA before tax = 101.65c\n  - Difference: 101.84c - 101.65c = 0.19c\n\n**Summary:**\n- For the data in Excerpt 1, the NTA before tax increased by 0.66 cents between May and June 2021.",
+      "model_id": "amazon.nova-micro-v1:0",
+      "cache_hit": false,
+      "retrieval_latency_ms": 13.01,
+      "generation_latency_ms": 1849.92,
+      "total_latency_ms": 1863.01,
+      "tokens": {
+        "input_tokens": 1447,
+        "output_tokens": 512,
+        "total_tokens": 1959,
+        "estimated_cost_usd": 0.000122
+      },
+      "sources": [
+        {
+          "chunk_id": "6002966_chunk_0031",
+          "document_id": "6002966",
+          "page_numbers": [
+            5
+          ],
+          "content_type": "text_or_table",
+          "neural_class": null,
+          "caption": null,
+          "image_s3_url": null,
+          "score": 47.2522
+        },
+        {
+          "chunk_id": "6002966_chunk_0071",
+          "document_id": "6002966",
+          "page_numbers": [
+            9
+          ],
+          "content_type": "text_or_table",
+          "neural_class": null,
+          "caption": null,
+          "image_s3_url": null,
+          "score": 46.6029
+        },
+        {
+          "chunk_id": "6002966_chunk_0039",
+          "document_id": "6002966",
+          "page_numbers": [
+            6
+          ],
+          "content_type": "text_or_table",
+          "neural_class": null,
+          "caption": null,
+          "image_s3_url": null,
+          "score": 45.2997
+        },
+        {
+          "chunk_id": "6002966_chunk_0024",
+          "document_id": "6002966",
+          "page_numbers": [
+            4
+          ],
+          "content_type": "text_or_table",
+          "neural_class": null,
+          "caption": null,
+          "image_s3_url": null,
+          "score": 42.0188
+        },
+        {
+          "chunk_id": "6002966_chunk_0079",
+          "document_id": "6002966",
+          "page_numbers": [
+            10
+          ],
+          "content_type": "text_or_table",
+          "neural_class": null,
+          "caption": null,
+          "image_s3_url": null,
+          "score": 41.4227
+        }
+      ],
+      "figure_links": []
+    },
+    {
+      "question_idx": 2,
+      "document_id": "5510314",
+      "question": "In the World Political Economy blog, which economic concern is tied to the concept of 'Regulatory Expansion' as it pertains to global political and economic discussions?",
+      "ground_truth_answer": "Regulatory Expansion is an economic concern tied to the concept of increased government regulations and their impact on global political and economic discussions, as highlighted in the World Political Economy blog.",
+      "generated_answer": "The provided excerpts do not contain sufficient information to directly answer the question regarding which specific economic concern is tied to the concept of 'Regulatory Expansion' as it pertains to global political and economic discussions in the World Political Economy blog. \n\nFor detailed insights on regulatory expansion and its economic implications, I would recommend consulting the full document from which Excerpt 1 was taken, specifically focusing on the section titled \"Econ Highlight: Regulatory Expansion\" on page 15 of Document 5510314.\n\nIf you need further assistance or have another question, please feel free to ask!",
+      "model_id": "amazon.nova-micro-v1:0",
+      "cache_hit": false,
+      "retrieval_latency_ms": 18.17,
+      "generation_latency_ms": 999.7,
+      "total_latency_ms": 1017.96,
+      "tokens": {
+        "input_tokens": 1030,
+        "output_tokens": 119,
+        "total_tokens": 1149,
+        "estimated_cost_usd": 5.3e-05
+      },
+      "sources": [
+        {
+          "chunk_id": "5510314_chunk_0091",
+          "document_id": "5510314",
+          "page_numbers": [
+            15
+          ],
+          "content_type": "text_or_table",
+          "neural_class": null,
+          "caption": null,
+          "image_s3_url": null,
+          "score": 48.9667
+        },
+        {
+          "chunk_id": "5510314_chunk_0094",
+          "document_id": "5510314",
+          "page_numbers": [
+            16
+          ],
+          "content_type": "text_or_table",
+          "neural_class": null,
+          "caption": null,
+          "image_s3_url": null,
+          "score": 32.9873
+        },
+        {
+          "chunk_id": "5510314_chunk_0031",
+          "document_id": "5510314",
+          "page_numbers": [
+            6
+          ],
+          "content_type": "text_or_table",
+          "neural_class": null,
+          "caption": null,
+          "image_s3_url": null,
+          "score": 28.94
+        },
+        {
+          "chunk_id": "5510314_chunk_0045",
+          "document_id": "5510314",
+          "page_numbers": [
+            8
+          ],
+          "content_type": "text_or_table",
+          "neural_class": null,
+          "caption": null,
+          "image_s3_url": null,
+          "score": 25.493
+        },
+        {
+          "chunk_id": "5510314_chunk_0090",
+          "document_id": "5510314",
+          "page_numbers": [
+            15
+          ],
+          "content_type": "text_or_table",
+          "neural_class": null,
+          "caption": null,
+          "image_s3_url": null,
+          "score": 25.2207
+        }
+      ],
+      "figure_links": []
+    },
+    {
+      "question_idx": 3,
+      "document_id": "4119285",
+      "question": "In what way did the ratio of the US federal budget shortfall to GDP shift between 1980 and 2020 as outlined in the Bruderman report?",
+      "ground_truth_answer": "The federal budget deficit as a percentage of GDP fluctuated, with notable decreases during the early 1990s, early 2000s, and a significant dip around 2020. The deficit decreased notably around 2020 due to economic factors and government actions during the pandemic.",
+      "generated_answer": "The provided excerpts do not contain sufficient information to answer the question regarding the shift in the ratio of the US federal budget shortfall to GDP between 1980 and 2020 as outlined in the Bruderman report. The excerpts focus on the recent trends and implications of the federal budget deficit and debt as of 2020, without providing historical data or trends from 1980 to 2020.\n\nTherefore, based on the available excerpts, I cannot provide a detailed answer to the specific question about the shift in the ratio of the US federal budget shortfall to GDP over the specified period.",
+      "model_id": "amazon.nova-micro-v1:0",
+      "cache_hit": false,
+      "retrieval_latency_ms": 23.55,
+      "generation_latency_ms": 980.92,
+      "total_latency_ms": 1004.53,
+      "tokens": {
+        "input_tokens": 1366,
+        "output_tokens": 127,
+        "total_tokens": 1493,
+        "estimated_cost_usd": 6.6e-05
+      },
+      "sources": [
+        {
+          "chunk_id": "4119285_chunk_0033",
+          "document_id": "4119285",
+          "page_numbers": [
+            6
+          ],
+          "content_type": "text_or_table",
+          "neural_class": null,
+          "caption": null,
+          "image_s3_url": null,
+          "score": 31.2621
+        },
+        {
+          "chunk_id": "4119285_chunk_0036",
+          "document_id": "4119285",
+          "page_numbers": [
+            7
+          ],
+          "content_type": "text_or_table",
+          "neural_class": null,
+          "caption": null,
+          "image_s3_url": null,
+          "score": 26.5903
+        },
+        {
+          "chunk_id": "4119285_chunk_0035",
+          "document_id": "4119285",
+          "page_numbers": [
+            7
+          ],
+          "content_type": "text_or_table",
+          "neural_class": null,
+          "caption": null,
+          "image_s3_url": null,
+          "score": 25.5653
+        },
+        {
+          "chunk_id": "4119285_chunk_0038",
+          "document_id": "4119285",
+          "page_numbers": [
+            7
+          ],
+          "content_type": "text_or_table",
+          "neural_class": null,
+          "caption": null,
+          "image_s3_url": null,
+          "score": 24.9998
+        },
+        {
+          "chunk_id": "4119285_chunk_0040",
+          "document_id": "4119285",
+          "page_numbers": [
+            7
+          ],
+          "content_type": "text_or_table",
+          "neural_class": null,
+          "caption": null,
+          "image_s3_url": null,
+          "score": 24.8687
+        }
+      ],
+      "figure_links": []
+    },
+    {
+      "question_idx": 4,
+      "document_id": "6077605",
+      "question": "What impact do alterations in mating patterns and distribution shifts have on the Gini index and Lorenz curves for income disparity in the years 1960 and 2005?",
+      "ground_truth_answer": "In 2005, changing from assortative to random mating results in a significant drop in the Gini coefficient from 0.43 to 0.34, indicating reduced income inequality. However, in 1960, the change to random mating only slightly reduces the Gini coefficient from 0.34 to 0.33, showing minimal impact on income inequality. These differences are due to changes in marginal distributions and increased assortative mating over time.",
+      "generated_answer": "The provided excerpts detail the impact of changes in mating patterns and labor-force participation on income inequality, as measured by the Gini index and Lorenz curves, for the years 1960 and 2005.\n\n**1960:**\n- When the observed pattern of assortative matching in 1960 is altered to a random pattern, the Gini coefficient drops only slightly from its original value (exact value not provided in the excerpt but noted to be \"little discernible impact\").\n- The Lorenz curve does not show a noticeable shift under this counterfactual experiment ([Doc 6077605, Page 4]).\n\n**2005:**\n- Changing the observed pattern of assortative matching to a random pattern in 2005 results in a marked impact on the income distribution. The Gini coefficient drops from 0.43 to 0.34, and the Lorenz curve shifts noticeably ([Doc 6077605, Page 4]).\n- Additionally, altering the labor-force participation of married females in 2005 has a significant impact on income inequality. When the 1960 levels of married female labor-force participation are imposed on 2005, the Gini coefficient rises from 0.35 to 0.44, indicating a worsening of income inequality. Conversely, when the 2005 levels of married female labor-force participation are applied to 1960, the Gini coefficient drops to 0.33, indicating a reduction in income inequality ([Doc 6077605, Page 5]).\n\nIn summary, changes in mating patterns have a more pronounced effect on income inequality in 2005 compared to 1960, as evidenced by shifts in both the Gini coefficient and the Lorenz curve. Labor-force participation of married females also plays a crucial role in shaping income inequality, particularly in 2005.\n\n**Sources:**\n- [Doc 6077605, Page 4]\n- [Doc 6077605, Page 5]",
+      "model_id": "amazon.nova-micro-v1:0",
+      "cache_hit": false,
+      "retrieval_latency_ms": 12.41,
+      "generation_latency_ms": 1944.17,
+      "total_latency_ms": 1956.68,
+      "tokens": {
+        "input_tokens": 1326,
+        "output_tokens": 458,
+        "total_tokens": 1784,
+        "estimated_cost_usd": 0.000111
+      },
+      "sources": [
+        {
+          "chunk_id": "6077605_chunk_0023",
+          "document_id": "6077605",
+          "page_numbers": [
+            4
+          ],
+          "content_type": "text_or_table",
+          "neural_class": null,
+          "caption": null,
+          "image_s3_url": null,
+          "score": 44.8313
+        },
+        {
+          "chunk_id": "6077605_chunk_0021",
+          "document_id": "6077605",
+          "page_numbers": [
+            3,
+            4
+          ],
+          "content_type": "text_or_table",
+          "neural_class": null,
+          "caption": null,
+          "image_s3_url": null,
+          "score": 40.6333
+        },
+        {
+          "chunk_id": "6077605_chunk_0020",
+          "document_id": "6077605",
+          "page_numbers": [
+            3
+          ],
+          "content_type": "text_or_table",
+          "neural_class": null,
+          "caption": null,
+          "image_s3_url": null,
+          "score": 33.6225
+        },
+        {
+          "chunk_id": "6077605_chunk_0022",
+          "document_id": "6077605",
+          "page_numbers": [
+            4
+          ],
+          "content_type": "text_or_table",
+          "neural_class": null,
+          "caption": null,
+          "image_s3_url": null,
+          "score": 33.4481
+        },
+        {
+          "chunk_id": "6077605_chunk_0031",
+          "document_id": "6077605",
+          "page_numbers": [
+            5
+          ],
+          "content_type": "text_or_table",
+          "neural_class": null,
+          "caption": null,
+          "image_s3_url": null,
+          "score": 32.9084
+        }
+      ],
+      "figure_links": []
+    }
+  ]
+}

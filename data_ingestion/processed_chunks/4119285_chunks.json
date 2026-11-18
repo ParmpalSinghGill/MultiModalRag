@@ -1,0 +1,2739 @@
+{
+  "document_id": "4119285",
+  "filename": "4119285.pdf",
+  "local_path": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf",
+  "page_count": 10,
+  "table_count": 0,
+  "picture_count": 23,
+  "total_chunks": 73,
+  "tokenizer": {
+    "type": "sentence-transformers",
+    "max_tokens": 220
+  },
+  "markdown_text": "Michael Murphy, CFA Chief Investment Officer March 2021\n\n## Bruderman Asset Management LLC\n\n119 Birch Hill Road\n\nLocust Valley, New York 11561\n\n212-244-1460\n\n<!-- image -->\n\nLogo\n\n## The more things change, the more they stay the same: A perspective on what life might be like in a postpandemic world.\n\nOne year into the global coronavirus pandemic, daily life is just beginning to resume. We expect consumers will resume many pre-pandemic activities but that some of the behaviors learned during the pandemic will remain.\n\nIn this report we provide an update on the coronavirus and show that vaccinations are likely to bring herd immunity some time in the coming months but chances are that the coronavirus or its variants are likely to be with us for years to come. We consider what life might be like in a post-pandemic world from the perspective of the three main sectors of the US economy:\n\n- Consumers - Consumer spending comprises about two-thirds of the US economy and there are likely to be long-lasting impacts on how and where consumers spend their money. We show how spending and employment have changed over the past year.\n- Businesses - Corporations were about evenly split between winners and losers last year and pandemic shutdowns hastened the secular changes that were already underway, changes that are likely to improve profits for a large section of companies. Among the losers, higher debt burdens may hobble them for years to come.\n- Government &amp; the economy - Federal stimulus blunted the edge of the pandemic recession, with deficit spending adding nearly 20% to US GDP over the past four quarters. While federal finances might be strained in the short-term, there is little immediate cause for concern and we show that deficits can be beneficial from a financial perspective.\n\n## March 2021\b\n\n## Introduction\n\nAs we enter the twilight of The Great Coronavirus Pandemic of 2020, we offer a perspective on what life might be like for the three main sectors of the US economy - consumers, businesses and government. While the duration of the pandemic is likely to lead to scarring within each of the sectors, many behaviors learned during the pandemic are likely to persist. There will continue to be winners and losers (Exhibit 1).\n\nFor consumers, a large part of their day-to-day existence has shifted to the virtual world during the pandemic with shopping, working and even dating taking place online. We expect some level of retail activity to return to the real world but the pandemic merely accelerated the trend towards e-commerce that was already occurring. Consumers will end the pandemic greener than ever (70% of electricity capacity added in 2021 will be from renewables) and more suburban (an estimated 80,000 people left New York City each month of the pandemic). Overall, consumers will exit the pandemic in relatively healthy financial shape thanks largely to the three rounds of stimulus payments that were made directly to consumers. On the employment front, the US has lost over 9 million jobs, many of them concentrated in just a few sectors. Unfortunately, it may take years for those jobs to return.\n\nPandemic impacts on business were mixed with the winners continuing to win and the most impacted sectors facing an uncertain future. For the winners, the questions surround the degree to which future demand has been pulled forward. Those that saw pandemic revenue bumps may see short-term revenue declines but we expect they will continue to benefit from underlying trends. The most impacted businesses look nothing like how they did when they entered the pandemic with high debt loads hindering investment, possibly for years to come and making them 'zombie-like' businesses. Overall, the pandemic provided a real world laboratory where businesses could experiment with cost cuts, optimal real estate footprints and employee location. Overall, these experiments largely appeared to supplement earnings with higher margins evident in many cases. If 'work-from-home' truly allows employees to work from anywhere, they may face a shock when their New York and San Francisco salaries are adjusted downward to account for local cost of living.\n\nIt has been said, \"In a crisis, everyone's a Keynesian\" and governments around the world directed massive amounts of aid to populations impacted by the virus. In the US, this resulted\n\n## Ex. 1: Pandemic-era winners &amp; losers\n\n## Winners\n\n- Renewables\n- Amazon.com\n- Employers\n- Stock market\n- Air Freight\n- Florida\n\n## Losers\n\n- Fossil fuels\n- Macy's\n- Employees\n- Bond market\n- Airlines\n- New York\n\n<!-- image -->\n\nLogo\n\nin a sharp increase in government debt that many fear is likely to lead to higher taxes in the future. Indeed, President Biden campaigned on a platform that called for higher taxes on high earners but tax professionals don't see much chance of any tax legislation passing in 2021. On the municipal side, state and local governments have seen pandemic hits to their finances, but the implosion of local budgets that was widely expected at the start of the pandemic never materialized. Tax receipts have been higher than anticipated due to better performance of the economy and capital gains arising from the soaring stock market. Overall, government finances are strained but the US government has an almost infinite capacity to issue debt and faster economic growth will reduce debt ratios in the years to come. Finally, inflation is likely to be somewhat higher than pre-pandemic levels due to the Fed's monetary easing and this will reduce debt burdens in the years ahead. Overall, government finances are strained but not stressed.\n\nBefore life returns to normal, of course, the pandemic itself must end. When is that likely to happen? We attempt to answer that question first.\n\n## Coronavirus status in the US\n\nAfter spiking sharply around the November-January holiday period, new virus cases in the US have plunged since. This plunge coincides with the widespread administration of vaccinations that began in early January (Exhibit 2).\n\nConfirmed cases today are about where they were last October, before the holiday-induced spike. Fatalities have also fallen sharply from an early February peak. The pace of fatalities provides a clue that undocumented coronavirus cases have also declined. We've believed that fatality trends have been more telling about virus spread in the past few months than confirmed case counts as the vast majority of virus-related fatalities are likely to be counted while testing only identifies a portion of those who have contracted the virus. This cohort of undocumented cases is a large and probably immune one and it is an important pillar in the move towards herd immunity.\n\nAfter accounting for confirmed cases, fatalities, undocumented cases and vaccinations to date, which makes up the immune population, we can then identify the portion of the US population that remains susceptible to infection and compare it to herd immunity thresholds. This analysis is shown in Exhibit 3 and shows that the immune population could be approaching 50% of the total US population as of March 2021. The coronavirus is thought to have a basic reproduction rate (R0) of between 2 and 4; herd immunity occurs at 1 - (1 / R0). If the virus has an R0 of 2 then the herd immunity threshold of 50% of the population is rapidly approaching. The R0 is probably higher than two so additional vaccinations will be needed but the US announced on March 11 that it was ordering states to make vaccines available to all citizens by May 1. We would estimate that process will be complete perhaps sometime in Q4 of 2021.\n\nEx. 2: US virus cases\n\n<!-- image -->\n\nLine chart\n\nEx. 3: US herd immunity thresholds\n\n<!-- image -->\n\nLine chart\n\nWill the virus disappear after mass vaccinations are delivered? We would guess the virus has probably become endemic and we will see flare ups in the future. First, vaccines are not 100% effective. Efficacy rates vary between 90 - 95% for the three approved vaccines so some portion of the population will not gain immunity even though they have been vaccinated. Second, many eligible vaccine recipients will choose not to be vaccinated leaving a relatively large non-immune population. Third, the US is far ahead of most of the rest of the world in delivering vaccines so coronavirus will continue to spread among unvaccinated populations. Finally, viruses routinely mutate which is likely to ultimately weaken immunity. Follow-up immunizations are likely for years to come.\n\nEx. 4: US payrolls drawdown\n\n<!-- image -->\n\nLogo\n\nIn some senses, then, it is possible that coronavirus never goes away and that we will just become accustomed to containing it. Belief-scarring, or a persistent change in probability expectations for extreme, negative shocks, is likely to be one consequence of the pandemic and that could be an economic headwind in the future.\n\n## Consumers\n\nDespite bearing the brunt of the virus both physically and financially, consumers will exit the pandemic era in pretty good shape with job creation the potential weak link. Job losses at one point totaled over 20 million or 17% of total payrolls before recovering through the year. (Exhibit 4). This drawdown in employment is still currently the largest in US history and it could take years for a full recovery. Recoveries in payroll drawdowns have been lengthening since the 1990s. The US has experienced twelve periods of large job losses since 1939 and through the 1980s, recovery usually took about 10 months, regardless of the depth of the job losses. Since 1990, the recovery period has doubled and jobs lost during the financial crisis took about 4.5 years to recover. The current jobs drawdown is larger than the one experienced during the financial crisis.\n\nJob losses have been concentrated among a few sectors. Leisure, government and education / health care absorbed nearly two-thirds of the nine million net job losses since the start of the pandemic (Exhibit 5). The degree to which these jobs return depends largely on consumer behaviors in the post-pandemic world. Will consumers travel or go to the movies as they did in the past? Will children return to in-person schooling at the rates they did previously? The answers remain to be seen.\n\nApart from issues in the job market, however, consumers are exiting the pandemic in healthy shape. Federal stimulus has offset impacts of job losses and resulted in an increase in personal income of nearly 15% since January 2020. Home prices appreciated 9.7% and job openings have recovered sharply suggesting employers have resumed hiring. Consumers have been cautious with their stimulus payments and have actually saved most of the payments they've received. Spending fell by about half a percent and credit card balances declined as well. Rising incomes and falling expenditures means consumers\n\nEx. 5: Job losses by sector\n\n<!-- image -->\n\nBar chart\n\nNet job losses\n\n## March 2021\b\n\nEx. 6: Consumer comfort index\n\n<!-- image -->\n\nLine chart\n\nhave seen their savings increase by over $4 trillion since the onset of the pandemic and stock market gains provide another $6 trillion of savings. The March 2021 stimulus bill will add $1.9 trillion to these amounts and they collectively amount to about 100% of GDP.\n\nConstructing a simple consumer comfort model consisting of payrolls, job openings, savings, credit usage and home prices shows consumers are in the strongest shape they've been in since at least 2000 (Exhibit 6). Consumers have ample firepower to satisfy pent-up demands which should support continued economic recovery but we expect some caution will remain until the pandemic has been clearly halted.\n\nDespite widespread lockdowns in 2020, consumer spending fell only 0.5% but the spending mix changed dramatically. An examination of detailed Personal Consumption Expenditures reports from the Bureau of Economic Analysis shows homebound consumers sparked a boom in home refurbishment and spending on 'carpets and other floor coverings' rose 27%. They prepared to work at home and two of the categories seeing the largest increases were 'calculators, typewriters and other information processing equipment' and 'computer software and accessories'. They indulged hobbies and spending on things like film supplies, sewing equipment and 'games, toys and hobbies' all rose more than 28% since the pandemic began. Products were likely purchased online as spending on delivery services rose by 43%. The tragic toll of the virus is also evident in consumer spending data; expenditures on 'funeral and burial services' increased by 36% while fear of group travel resulted in increased spending on pleasure aircraft, automobiles, and the category that saw the largest increase, 'other recreational vehicles' which rose 47.6%.\n\nOn the negative side of the spending ledger were some obvious categories: spending on 'motion picture theaters' fell 93.7%; live entertainment dropped 87.3%; and 'US travel outside the United States' was 82.9% lower than 2019. But some less obvious sectors also saw large declines. The category covering medical tourism, 'Medical expenditures of foreigners' showed the largest decline in spending, falling over 95%. Exhibit 7 shows the top and bottom percentage changes in PCE spending categories through January 2021.\n\n<!-- image -->\n\nLogo\n\n## Ex. 7: Pandemic consumer spending by category\n\n<!-- image -->\n\nBar chart\n\n## Ex. 8: Consumer survey results\n\n<!-- image -->\n\nBar chart\n\nThe average of the nearly 400 categories tracked in the PCE reports changed by nearly 17% on an absolute basis, nearly four times greater than any change over the past 20 years. Even if consumers resume previous behaviors, it will take time for categories to return to previous trend values and our best guess is that some of these consumer spending shifts are likely to be permanent. If that occurs, the normal we return to won't be the same as the normal we left.\n\nSome insight into post-pandemic consumer preferences can be gleaned from a survey conducted in September 2020 by IBM (Exhibit 8). The survey queried consumers about a range of issues related to work, transportation and activities. Survey results showed consumers are either using or likely to return to places such as medical offices, restaurants and movie theaters. Work attitudes show employees feel most comfortable when their employers provide clear pandemic planning guidelines. Interestingly, only about 28% expressed a desire to exclusively work remotely; opinion was about equally divided about working from home, working in the office or spending time at home and in the office. The survey showed consumers are also likely to continue behaviors learned during the pandemic such as spending more time at home and using on-line services.\n\nThe survey did yield some interesting data. Consumers are more concerned about the health of their families and, although most consumers will return to previous behaviors,\n\n## March 2021\b\n\nsome 9-10% of respondents stated that they would never return to amusement parks, movie theaters, live sporting events or fitness centers. Losing 10% of a customer base could result in structural shifts in these industries and consumer concern about health suggests caution will persist long after the pandemic has ended, especially if coronavirus has become endemic.\n\n## Business\n\nLike consumers, businesses have also experienced profound shifts as a result of the pandemic. Many sectors were completely off limits during the pandemic and those such as airlines, casinos and hotels saw revenues decline by over 50% in 2020. There were winners, too, with Internet &amp; Direct Marketing (mainly Amazon.com), Health Care Technology and Gold miners seeing revenues up to 24% higher over the year.\n\nAmazon is an example of one of the clear winners during the pandemic. Its revenue rose to $386 billion, more than $100 billion, or 37.6%, higher than it was in 2019. The company hired over 500,000 employees, about 3.7% of the total jobs added during the year. Amazon's massive investment in its Prime delivery service paid off in spades as Americans purchased nearly everything on-line in April and May of last year. The company's ability to grow into that demand surge kept consumers fed, medicated and clothed and surely saved lives by keeping people out of stores.\n\nThe stock market didn't appear to be entirely efficient in allocating returns in 2020 with many of the hardest hit sectors ending up to be some of those with the highest returns. The casinos and gaming industry, for example, saw revenues plunge by 52% in 2020 and yet the average stock price for the ten companies in the group rose by 37% (Exhibit 9).\n\nThe pandemic provided a real-world laboratory that allowed companies to discover which were truly variable expenses and which were fixed. Companies often viewed occupancy costs as being fixed, for example, but many companies were able to reduce costs by not renewing leases, consolidating space or by simply not paying landlords who often faced eviction moratoria that kept them from enforcing lease provisions. Companies in many industries were able to quickly slash travel, entertainment and professional services expenses to match declines in revenue and they were able to maintain or even grow margins without shedding employees. They issued as much debt as they were able to and preserved cash by halting stock repurchase programs, cutting dividends and postponing capital investment. Larger companies were able to use size to their advantage by generating positive cash flow from their working capital. In all, companies saw long-term debt balances soar but they largely held the proceeds in cash. At the end of 2020, US companies held $3.8 trillion of cash on their balance sheets, an increase of 46% from 2019 year-end balances.\n\nEx. 9: Change in revenue vs 2020 industry group return\n\n<!-- image -->\n\nScatter plot\n\n<!-- image -->\n\nLogo\n\nLooking ahead, we believe pandemic lessons learned will be margin accretive for many companies. If they allow some employees to work from home, employment costs are likely to decline as compensation levels fall to adjust to the local costs of where employees live. Recruiting will be enhanced as companies can recruit employees from anywhere in the world. Many companies adopted direct-to-consumer (DTC) strategies to power their on-line presences thereby eliminating distribution costs. The advent of Zoom meetings is likely to reduce at least some business travel as meetings can still be conducted via video. Reduction in these expense items will improve EBITDA margins and we have already begun to see this impact. In Q4 2020, less pandemic-impacted companies saw their EBITDA margins fully recover to pre-pandemic levels and those earnings helped to fuel equity prices.\n\nWe expect that while many of the winners will continue to win, the pandemic losers will face a long road of recovery ahead. Consider the plight of just three companies, American Airlines (AAL), Boeing (BA) and Carnival Cruise Lines (CCL) who saw their revenues plunge by a collective 43% during 2020 with negative free cash flow of over $35 billion. Like other companies, they were able to draw upon available credit facilities to increase their cash and they offset negative cash flow with new net long-term debt. Those debt balances now stand at over $80 billion, however, nearly four full years of the free cash flow they generated prior to the pandemic. Those companies will see future flexibility restricted, foregoing dividends, capital investment or stock repurchases as they pay down debt; they will also be vulnerable to any future economic shocks while their\n\nEx. 10: EBITDA margins of 'winners' and 'losers'\n\n20%\n\n18%\n\n16%\n\n14%\n\nEBITDA as % of revenue (LTM)\n\n2010\n\n2015\n\n2020\n\nLosers\n\nWinners\n\n## March 2021\b\n\nEx. 11: Capital structure of potential zombies\n\n<!-- image -->\n\nLine chart\n\ndebt remains high and their balance sheets heal. We counted nearly 200 companies who increased their LTD in 2020 by more than one year of operating cash flow.\n\nFor these 'zombie-like' companies, we haven't seen much overall change in enterprise value since the start of the pandemic. But for AAL, BA and CCL, there has been a pronounced shift in value from equity holders to debt holders (Exhibit 11). The reversal of that shift may provide investment opportunities but investors could also invest in companies that don't face these issues and perhaps experience lower return volatility.\n\n## Government\n\nIf there was one benefit of the timing of the pandemic it was that it occurred so soon after the financial crisis when lessons learned from that episode were still fresh. The US government moved quickly to support the economy, passing three stimulus bills that added a total of about $5 trillion, or 15%, of gross domestic product (GDP). The Federal Reserve also swung into action, implementing quantitative easing that expanded its balance sheet by $4 trillion and pledging to purchase corporate bonds, high yield bonds, mortgage bonds and treasury bonds, all of which had the impact of thawing credit markets that had become frozen.\n\nThere has been much hand-wringing about this support with investors and prognosticators predicting everything from stock and bond market crashes to hyperinflation and massive tax hikes to pay for government bounty. We don't expect any of those outcomes.\n\nEx. 12: Federal budget deficit as a % of GDP\n\n<!-- image -->\n\nLine chart\n\n<!-- image -->\n\nLogo\n\nThe federal budget deficit has soared as a result of massive stimulus and lower tax receipts and that has led to an explosion of outstanding government debt. This has caused much concern, perhaps due to the US' puritanical heritage that views debt as sinful. But US government debt exists for a simple macroeconomic reason - the US dollar is the world's reserve currency and the US budget deficit (and trade deficit) absorbs excess global liquidity. In times of crisis, investors demand more dollars and the budget deficit creates the supply to meet that demand. As a result of the three US pandemic stimulus bills, the budget deficit has swelled to over 25% of GDP and federal debt now stands at 143% of GDP.\n\nBecause the US finances itself entirely in its own currency, it can issue virtually unlimited amounts of debt. It can issue debt as long as investors demand it, to be more precise. Much of the pandemic stimulus involved direct payments of cash to consumers. These cash payments swelled the money supply (Exhibit 13) which rose along with debt. That liquidity ultimately reinvests in assets which include government bonds. In many ways, the government is creating monetary velocity by issuing debt that results in greater cash holdings that eventually get reinvested back into debt.\n\nEx. 13: Federal government debt &amp; money supply\n\n<!-- image -->\n\nLine chart\n\nEx. 14: Federal government debt / GDP\n\n<!-- image -->\n\nLine chart\n\n## STRATEGY RESEARCH\n\n## March 2021\b\n\nIf we think of net debt, or debt less cash holdings, as we do when looking at corporate credit, the debt / GDP ratios look much less scary with the net debt-to-GDP ratio standing at about 40% of GDP, a hundred points lower than the ratio calculated using gross debt (Exhibit 14). This idea is controversial, flirting with Modern Monetary Theory and Keynes' 'paradox of thrift' but the fiscal responses to the financial crisis and the pandemic show that the explosion of government debt did not cause currency devaluation (the US dollar has appreciated 12% since 2009), hyperinflation (CPI has averaged 1.8% since 2009) or a market collapse (a stock/bond blend has generated average returns of 9.3% since 2009).\n\nMoving away from macroeconomic controversies, we can look at a much simpler measure to show why the higher government debt balance isn't crippling the economy. Interest rates have plunged in recent years and that has dramatically reduced federal borrowing costs. Government cost of debt was 4.5% in 2007 and is 2% today. The US Treasury could issue more than twice as much debt as it did in 2007 and interest costs would be the same. Exhibit 15 shows this trend clearly; federal outlays for interest expense as a percentage of GDP are back to where they were in the 1990s despite a five-fold increase in the debt balance so by debt service measures, the level of federal debt isn't particularly concerning.\n\nThe other typical concern about high debt balances surround the potential for tax increases to be instituted to pay for government spending. Indeed, in March, the Biden Administration announced that it was seeking higher corporate, high income and estate taxes in its next economic plan, due presumably in 2022. While there may be tax increases, those will be made for political reasons, not economic ones.\n\nAnother look at Exhibit 14 shows that there is little historical precedent for using tax increases to reduce federal debt because there is not any need to pay off the federal debt and to do so would be contractionary. The best method to diffuse debt is to grow the underlying economy with moderate (ie 2-2.5%) inflation. This serves to reduce debt / GDP ratios and the modest inflation decreases the future value of outstanding debt, especially over the long horizons over which federal budget decisions are typically made.\n\nEx. 15: Federal debt interest payments / GDP\n\n<!-- image -->\n\nLine chart\n\n<!-- image -->\n\nLogo\n\nGovernments incur budget deficits to increase economic growth and, if they are successful, debt ratios will naturally fall. If the US economy grows at 3% on average for the next 30 years while outstanding debt balances grow at 1.5%, the debt / GDP ratio will fall from 143% to 92%.\n\nInflation is another means of reducing the future value of debt. The current $29 trillion debt balance is worth $15 trillion in 2050 at an inflation rate of 2%, for example. If a budget deficit spurs higher economic growth with some inflation, high apparent debt ratios begin to fade quickly.\n\nA more interesting question than the morality of debt or macroeconomic theoretical debate is whether deficit spending makes financial sense. Companies issue debt to fund projects that generate future cash flow. The returns on those growth investments are calculated using the standard financial metrics, net present value (NPV),internal rate of return (IRR) and payback periods. Do the same concepts apply to federal finances?\n\nWe can test whether government deficit spending generates positive IRRs by constructing a simple example using economic data from the financial crisis. Outstanding US debt balances increased by about $3 trillion during 2008 and 2009. At the end of 2009, US GDP stood at $15.3 trillion so the stimulus provided by deficit spending added about 20% of GDP. Without deficit spending, the economy would have been $12.4 trillion.\n\nOver the past ten years, federal tax receipts have averaged about $2.9 trillion per year, or about 16.5% of annual GDP. We can measure the financial profitability of deficit spending by measuring the difference between what GDP actually was at the end of 2020 and where it would have been had it begun with a $3 trillion smaller base (where GDP would have been without debt financing). We can then measure the difference in tax receipts to determine federal cash inflows that offset the 2009 increase in the deficit. Tax receipts average $592 billion per year higher with deficit spending than without. Deficit spending generates positive IRR (14.1% after ten years, Exhibit 16), positive NPV (+$1.7 trillion) and a payback period of about 6.5 years.\n\nDeficits are misunderstood because government finances are not like consumer or business finances. The government is the\n\nEx. 16: Deficit spending cumulative 10y IRR\n\n<!-- image -->\n\nLine chart\n\n## STRATEGY RESEARCH\n\n## March 2021\b\n\nlender of last resort and the economy grows faster with deficit spending than without it. That makes the economy better off overall, even if it looks worse for the government sector.\n\n## Conclusion\n\nAfter a year of sickness, tragedy and despair, life for most Americans is about to return to normal but that normal is unlikely to completely mirror the lives we left a year ago. Consumers are likely to have ingrained some of the fears and behaviors developed over the pandemic and changes in job markets and spending preferences could become permanent.\n\nBusinesses have emerged from the pandemic and we saw pandemic consumer shifts reinforce many secular trends that had already been in place. Companies on the right side of that balance are entering the post-pandemic era with faster sales growth, higher profits and lower debts. Companies on the other side face a more uncertain future as consumers may not return in full and pandemic-incurred debts are worked off. Ultimately US businesses will resume with some mixture of pre- and post-pandemic norms. Some employees will continue to work remotely while other industries will continue to see a benefit to having a centralized employee pool.\n\nOn the government side of the economy, finances are strained but not stressed. The US government has a large, if not unlimited, capacity to issue debt and investors continue to demand large volumes of Treasury securities. Over time, debt / GDP ratios and other fiscal health measures will improve as pandemic deficit spending helps keep economic growth on track.\n\n<!-- image -->\n\nLogo\n\n## March 2021\b\n\n## References\n\nAnderson, Roy M, Vegvari, Carolin, Truscott, James, Collyer, Benjamin S, \"Challenges in creating herd immunity to SARS-CoV-2 infection by mass vaccination\", The Lancet, Comment, Volume 396, Issue 10263, p1614-1616, November 21, 2020\n\nBauch, Chris T, \"Estimating the COVID-19 R number: a bargain with the devil?, The Lancet Infectious Diseases, Volume 21, Issue 2, p151153, October 22, 2020\n\nDong E, Du H, Gardner L. An interactive web-based dashboard to track COVID-19 in real time. Lancet Inf Dis. 20(5):533-534.\n\nGostin, Lawrence O, 'The Great Coronavirus Pandemic of 2020 - 7 Critical Lessons, The Journal of the American Medical Association, Vol 324, No 18, pp1816-1817, November 10, 2020\n\nIBM Institute for Business Value, \"COVID-19 Consumer Survey\", September 2020, https://www.ibm.com/thought-leadership/institute-business-value/report/covid-19-consumer-survey\n\nKozlowski, Julian, Veldkamp, Laura, Venkateswaran, Venky, 'Scarring Body and Mind: The Long-term Belief-scarring Effects of COVID-19\", NBER Working Paper Series,\n\nWhitaker, Stephane, \"Did the COVID-19 Pandemic Cause an Urban Exodus\", Cleveland Fed District Data Brief, February 5, 2021\n\n## Other sources:\n\nBloomberg LP\n\nBoard of Governors of the Federal Reserve System, H.6 Money Stock Measures\n\nFederal Reserve Bank of Saint Louis\n\nUnited States Bureau of Labor Statistics\n\nUnited States Bureau of Economic Analysis\n\nUnited States Centers for Disease Control and Prevention\n\nUnited States Department of the Treasury, Fiscal Service\n\nUnited States Office of Management and Budget\n\nBruderman Asset Management calculations\n\n<!-- image -->\n\nLogo\n\n## Disclosures\n\nThis material is for your general information. It does not consider the particular investment objectives, financial situation, or needs of individual clients. This material is based upon information obtained from various sources that Bruderman Asset Management, LLC believes to be reliable, but Bruderman Asset Management, LLC makes no representation or warranty with respect to the accuracy or completeness of such information. The mention of a particular security is not intended to represent a specific recommendation, and the view of these holdings may change at any time based on price movements, new research conclusions or changes in risk preference. Views expressed herein are current only as of the date indicated and are subject to change without notice. Forecasts may not be realized due to a variety of factors, including changes in economic growth, corporate profitability, geopolitical conditions, and inflation. Past performance is no guarantee of future results.\n\nAsset allocation and diversification do not assure or guarantee better performance and cannot eliminate the risk of investment losses. Your individual allocation may be different than the allocation mentioned here due to your unique individual circumstances but is targeted to be in the allocation ranges for your objective. The asset allocation referenced in this material may fluctuate based on asset values, portfolio decisions, and account needs. The asset allocation suggestions referenced in this material do not take the place of a comprehensive financial analysis.\n\nIndex performance returns do not reflect any management fees, transaction costs or expenses. Indexes are unmanaged and one cannot invest directly in an index. Past performance does not guarantee future results. S&amp;P 500\u00ae Index includes 500 leading companies in leading industries of the U.S. economy, capturing 75% coverage of U.S. equities. The S&amp;P 500 is a free-float capitalization-weighted index published since 1957 of the prices of 500 large-cap common stocks actively traded in the United States.\n\nSecurities offered through Bruderman Brothers, LLC, an SEC registered broker-dealer, member FINRA and SIPC. Bruderman Asset Management, LLC is an investment adviser registered with the Securities and Exchange Commission (copy of current Form ADV Part 2A is available upon request or at www.advisorinfo.sec.gov) or by contacting Bruderman Asset Management, LLC at (212) 697-2500 with any questions.\n\n<!-- image -->\n\nLogo",
+  "tables": [],
+  "figures": [
+    {
+      "figure_id": "4119285_fig_000",
+      "figure_index": 0,
+      "page_number": 1,
+      "type": "icon_or_logo",
+      "classifier_v2_5": {
+        "top_class": "logo",
+        "confidence": 0.9993,
+        "predictions": [
+          {
+            "class_name": "logo",
+            "confidence": 0.9993
+          },
+          {
+            "class_name": "full_page_image",
+            "confidence": 0.0002
+          },
+          {
+            "class_name": "calendar",
+            "confidence": 0.0001
+          },
+          {
+            "class_name": "icon",
+            "confidence": 0.0001
+          },
+          {
+            "class_name": "stamp",
+            "confidence": 0.0001
+          }
+        ]
+      },
+      "caption": "",
+      "ocr_text": "BRUDERMAN\n\nASSET MANAGEMENT",
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_000.png",
+      "image_dimensions": [
+        441,
+        113
+      ],
+      "bbox": {
+        "l": 349.74,
+        "t": 747.42,
+        "r": 570.24,
+        "b": 691.23,
+        "coord_origin": "CoordOrigin.BOTTOMLEFT"
+      },
+      "s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_000.png",
+      "s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_000.png",
+      "sha256": "f78a8df64939eb791e15f38cef784cdec9b323dba6e2e6fc34afa3a6c0cc46bb"
+    },
+    {
+      "figure_id": "4119285_fig_001",
+      "figure_index": 1,
+      "page_number": 2,
+      "type": "icon_or_logo",
+      "classifier_v2_5": {
+        "top_class": "logo",
+        "confidence": 0.9994,
+        "predictions": [
+          {
+            "class_name": "logo",
+            "confidence": 0.9994
+          },
+          {
+            "class_name": "full_page_image",
+            "confidence": 0.0002
+          },
+          {
+            "class_name": "icon",
+            "confidence": 0.0002
+          },
+          {
+            "class_name": "photograph",
+            "confidence": 0.0001
+          },
+          {
+            "class_name": "stamp",
+            "confidence": 0.0001
+          }
+        ]
+      },
+      "caption": "",
+      "ocr_text": "| BRUDERMAN\n\nASSET MANAGEMENT",
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_001.png",
+      "image_dimensions": [
+        228,
+        58
+      ],
+      "bbox": {
+        "l": 446.36,
+        "t": 752.67,
+        "r": 560.65,
+        "b": 723.48,
+        "coord_origin": "CoordOrigin.BOTTOMLEFT"
+      },
+      "s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_001.png",
+      "s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_001.png",
+      "sha256": "0beeaba32e8b00e5c4146e38d9a033bf4ca6f0d40d373734a8b40248734a8402"
+    },
+    {
+      "figure_id": "4119285_fig_002",
+      "figure_index": 2,
+      "page_number": 2,
+      "type": "chart_graph",
+      "classifier_v2_5": {
+        "top_class": "line_chart",
+        "confidence": 0.9772,
+        "predictions": [
+          {
+            "class_name": "line_chart",
+            "confidence": 0.9772
+          },
+          {
+            "class_name": "bar_chart",
+            "confidence": 0.0209
+          },
+          {
+            "class_name": "scatter_plot",
+            "confidence": 0.0015
+          },
+          {
+            "class_name": "screenshot_from_computer",
+            "confidence": 0.0001
+          },
+          {
+            "class_name": "box_plot",
+            "confidence": 0.0001
+          }
+        ]
+      },
+      "caption": "Ex. 2: US virus cases",
+      "ocr_text": "7,500*\n\n\u2014 Confirmed cases\n5,000= Fatalities\n\n\u2014 Unreported cases\n\n\u2014 Vaccinations\n\n \n\nRolling 7-day cases (thousands)\n\n\u2018Aor 2020 Jul2020 Oct 2020 Jan 2021 Apr 2021",
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_002.png",
+      "image_dimensions": [
+        517,
+        294
+      ],
+      "bbox": {
+        "l": 313.64,
+        "t": 195.07,
+        "r": 572.12,
+        "b": 48.13,
+        "coord_origin": "CoordOrigin.BOTTOMLEFT"
+      },
+      "s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_002.png",
+      "s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_002.png",
+      "sha256": "3dffb45501b255782fa0bf5560847cb729b94a21285ec84993ad25c05a198978"
+    },
+    {
+      "figure_id": "4119285_fig_003",
+      "figure_index": 3,
+      "page_number": 3,
+      "type": "chart_graph",
+      "classifier_v2_5": {
+        "top_class": "line_chart",
+        "confidence": 0.9325,
+        "predictions": [
+          {
+            "class_name": "line_chart",
+            "confidence": 0.9325
+          },
+          {
+            "class_name": "engineering_drawing",
+            "confidence": 0.0218
+          },
+          {
+            "class_name": "bar_chart",
+            "confidence": 0.0198
+          },
+          {
+            "class_name": "flow_chart",
+            "confidence": 0.0127
+          },
+          {
+            "class_name": "table",
+            "confidence": 0.0039
+          }
+        ]
+      },
+      "caption": "Ex. 3: US herd immunity thresholds",
+      "ocr_text": "10; 100%\n\n \n\n \n\n \n\n2\n\n3 5%\n\n2 1s 2 Fatalities\n\n$ 3 \u2014 + Confirmed cases\n\n5 2.0. - A ir 3 \u2014 + Undocumented cases\n\n2 5 + Vaccinations\n\n\u00a330 $ =\u2014 Susceptible population\n\nE40 25%\n3\u2014\u2014\u2014\u2014\u2014\n\ng\nz\n\n\u2018Apr 2020 Jul 2020 Oct 2020 Jan 2021 Apr 2021",
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_003.png",
+      "image_dimensions": [
+        518,
+        297
+      ],
+      "bbox": {
+        "l": 37.97,
+        "t": 696.27,
+        "r": 296.81,
+        "b": 547.92,
+        "coord_origin": "CoordOrigin.BOTTOMLEFT"
+      },
+      "s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_003.png",
+      "s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_003.png",
+      "sha256": "2ecc6b8910c2ebaf0d8d1902f7dd409c0a49c9d9a8c6038da53c02fe6d25e0ca"
+    },
+    {
+      "figure_id": "4119285_fig_004",
+      "figure_index": 4,
+      "page_number": 3,
+      "type": "icon_or_logo",
+      "classifier_v2_5": {
+        "top_class": "logo",
+        "confidence": 0.9997,
+        "predictions": [
+          {
+            "class_name": "logo",
+            "confidence": 0.9997
+          },
+          {
+            "class_name": "full_page_image",
+            "confidence": 0.0001
+          },
+          {
+            "class_name": "icon",
+            "confidence": 0.0001
+          },
+          {
+            "class_name": "stamp",
+            "confidence": 0.0
+          },
+          {
+            "class_name": "page_thumbnail",
+            "confidence": 0.0
+          }
+        ]
+      },
+      "caption": "Ex. 4: US payrolls drawdown",
+      "ocr_text": "BRUDERMAN\n\nASSET MANAGEMENT",
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_004.png",
+      "image_dimensions": [
+        228,
+        59
+      ],
+      "bbox": {
+        "l": 446.33,
+        "t": 752.76,
+        "r": 560.73,
+        "b": 723.4,
+        "coord_origin": "CoordOrigin.BOTTOMLEFT"
+      },
+      "s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_004.png",
+      "s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_004.png",
+      "sha256": "3656177d2d16888961a93943e24a05c8b05106e7b298fb3a6868979a229d94e2"
+    },
+    {
+      "figure_id": "4119285_fig_005",
+      "figure_index": 5,
+      "page_number": 3,
+      "type": "chart_graph",
+      "classifier_v2_5": {
+        "top_class": "bar_chart",
+        "confidence": 0.8523,
+        "predictions": [
+          {
+            "class_name": "bar_chart",
+            "confidence": 0.8523
+          },
+          {
+            "class_name": "line_chart",
+            "confidence": 0.1227
+          },
+          {
+            "class_name": "table",
+            "confidence": 0.017
+          },
+          {
+            "class_name": "screenshot_from_computer",
+            "confidence": 0.0045
+          },
+          {
+            "class_name": "calendar",
+            "confidence": 0.0007
+          }
+        ]
+      },
+      "caption": "Ex. 5: Job losses by sector",
+      "ocr_text": "Job losses as % of working population\n\n0%:\n\n10%:\n\n~15%=\n\n  \n \n\n1340\n\n}940-1980: average recovery\nperiod of 10 months\n\n1960 1980\n\n \n\n  \n\n1930-2020: average recover\nperiod of 20 months\n\n \n\n \n\n \n\nGovernment=\nEduca\nProfessional\n\n \n\nManufacturing=\nOther=\n\nRetail\nConstruction =\nWholesale=\nInfor\n\n \n\nTransportation =\nMining\n\nFinancial=\n\n \n\na\na\na\n\u201ca\n\n|\n\ner\n\nsol\n\n2/000 21000 \u00a2",
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_005.png",
+      "image_dimensions": [
+        1025,
+        308
+      ],
+      "bbox": {
+        "l": 37.5,
+        "t": 197.6,
+        "r": 550.23,
+        "b": 43.65,
+        "coord_origin": "CoordOrigin.BOTTOMLEFT"
+      },
+      "s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_005.png",
+      "s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_005.png",
+      "sha256": "d99c7bf44569221ba21cda65c099554702b44acc86db3beeccd614a971ce9bef"
+    },
+    {
+      "figure_id": "4119285_fig_006",
+      "figure_index": 6,
+      "page_number": 4,
+      "type": "chart_graph",
+      "classifier_v2_5": {
+        "top_class": "line_chart",
+        "confidence": 0.9968,
+        "predictions": [
+          {
+            "class_name": "line_chart",
+            "confidence": 0.9968
+          },
+          {
+            "class_name": "bar_chart",
+            "confidence": 0.0012
+          },
+          {
+            "class_name": "table",
+            "confidence": 0.0009
+          },
+          {
+            "class_name": "screenshot_from_computer",
+            "confidence": 0.0004
+          },
+          {
+            "class_name": "scatter_plot",
+            "confidence": 0.0002
+          }
+        ]
+      },
+      "caption": "Ex. 6: Consumer comfort index",
+      "ocr_text": "\u2018% change year-over-year\n\n409\n\n20%\n\n10%\n\noy\n\n10%\n\n2000\n\n \n\n010",
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_006.png",
+      "image_dimensions": [
+        518,
+        293
+      ],
+      "bbox": {
+        "l": 38.19,
+        "t": 696.11,
+        "r": 296.86,
+        "b": 549.35,
+        "coord_origin": "CoordOrigin.BOTTOMLEFT"
+      },
+      "s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_006.png",
+      "s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_006.png",
+      "sha256": "a6375ce46a8a89e5d14c8f475ddff66e5df00379aaabd82258516ac3e169ad24"
+    },
+    {
+      "figure_id": "4119285_fig_007",
+      "figure_index": 7,
+      "page_number": 4,
+      "type": "icon_or_logo",
+      "classifier_v2_5": {
+        "top_class": "logo",
+        "confidence": 0.9995,
+        "predictions": [
+          {
+            "class_name": "logo",
+            "confidence": 0.9995
+          },
+          {
+            "class_name": "full_page_image",
+            "confidence": 0.0001
+          },
+          {
+            "class_name": "icon",
+            "confidence": 0.0001
+          },
+          {
+            "class_name": "stamp",
+            "confidence": 0.0001
+          },
+          {
+            "class_name": "other",
+            "confidence": 0.0
+          }
+        ]
+      },
+      "caption": "",
+      "ocr_text": "| BRUDERMAN\n\nASSET MANAGEMENT",
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_007.png",
+      "image_dimensions": [
+        228,
+        57
+      ],
+      "bbox": {
+        "l": 446.37,
+        "t": 752.77,
+        "r": 560.59,
+        "b": 724.61,
+        "coord_origin": "CoordOrigin.BOTTOMLEFT"
+      },
+      "s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_007.png",
+      "s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_007.png",
+      "sha256": "7f9437ef928de09f5b2f469122e9ea0261b46f623bc6d63f1e6eb92615e09ebe"
+    },
+    {
+      "figure_id": "4119285_fig_008",
+      "figure_index": 8,
+      "page_number": 4,
+      "type": "chart_graph",
+      "classifier_v2_5": {
+        "top_class": "bar_chart",
+        "confidence": 0.8068,
+        "predictions": [
+          {
+            "class_name": "bar_chart",
+            "confidence": 0.8068
+          },
+          {
+            "class_name": "table",
+            "confidence": 0.1576
+          },
+          {
+            "class_name": "screenshot_from_manual",
+            "confidence": 0.0068
+          },
+          {
+            "class_name": "calendar",
+            "confidence": 0.0046
+          },
+          {
+            "class_name": "line_chart",
+            "confidence": 0.0043
+          }
+        ]
+      },
+      "caption": "",
+      "ocr_text": "\u2018Other recreational vehicles ~\nCalculators, typewriters, and other information processing equipment =\nPleasure boats, aircraft, and other recreational vehicles=\n\nOther delvery services (oy non-US. postal facilities) =\n\nPleasure boats\n\nFuneral and burial services ~\n\nClothing materials~\n\nGames toys, and hobbies =\n\nMotorcycles =\n\nComputer software and accessories =\n\nElementary and secondary schoo! lunches =\n\nSpectator sports=\n\nForeign travel by US. residents (129)\n\nEmployment agency services=\n\nRailway transportation =\n\nUS. travel outside the United States =\n\nAdmissions to specified spectator amusements =\n\nLive entertainment, excluding sports =\n\nMotion picture theaters =\n\nMedical expenditures of foreigners = \u2014\n\n~100% -50% 0% 50x\n\n% change from 01/2020",
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_008.png",
+      "image_dimensions": [
+        507,
+        319
+      ],
+      "bbox": {
+        "l": 322.47,
+        "t": 700.51,
+        "r": 575.86,
+        "b": 541.06,
+        "coord_origin": "CoordOrigin.BOTTOMLEFT"
+      },
+      "s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_008.png",
+      "s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_008.png",
+      "sha256": "516074a9826cadec3f660b2ef8fa870b3839dd6ce33ebff4a7d954fd4d39a8dd"
+    },
+    {
+      "figure_id": "4119285_fig_009",
+      "figure_index": 9,
+      "page_number": 4,
+      "type": "chart_graph",
+      "classifier_v2_5": {
+        "top_class": "bar_chart",
+        "confidence": 0.9985,
+        "predictions": [
+          {
+            "class_name": "bar_chart",
+            "confidence": 0.9985
+          },
+          {
+            "class_name": "table",
+            "confidence": 0.0011
+          },
+          {
+            "class_name": "line_chart",
+            "confidence": 0.0002
+          },
+          {
+            "class_name": "flow_chart",
+            "confidence": 0.0001
+          },
+          {
+            "class_name": "pie_chart",
+            "confidence": 0.0
+          }
+        ]
+      },
+      "caption": "",
+      "ocr_text": "Likely to visit medical offices - as\nLikely to vist estvarans~\nikely to use restaurant delvery~\nLikely to vst movie theaters I\nikelyto order on-ine, pick-up in-store -\nLikely to vist museuns-\nLikely to vist amusement pars~ |\nPrefer employers provide clear pandemic plans-\nMore concemed about fami heat; ~ i\nicing quidelines-\n\n \n\n \n \n \n \n  \n \n \n\n  \n\n \n\n  \n\nPrefer er\n\n \n\nyers provide social dist\n\n \n\n \n\n   \n\nLikely to visit sporting events-\nLikely use grocery celvery-\nMore time watching eev:ion-\n\n   \n\nNore te cooKro-\nMore time shopping on-ine-\nPrefer to work only remotely A\no& 85 ter\n\n% responding",
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_009.png",
+      "image_dimensions": [
+        493,
+        316
+      ],
+      "bbox": {
+        "l": 322.8,
+        "t": 514.55,
+        "r": 569.34,
+        "b": 356.68,
+        "coord_origin": "CoordOrigin.BOTTOMLEFT"
+      },
+      "s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_009.png",
+      "s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_009.png",
+      "sha256": "a162a36e6a3ba89436d34f4ce946a0ee1a04599b0f0a26ddb93b689cb4aa7b4a"
+    },
+    {
+      "figure_id": "4119285_fig_010",
+      "figure_index": 10,
+      "page_number": 5,
+      "type": "chart_graph",
+      "classifier_v2_5": {
+        "top_class": "scatter_plot",
+        "confidence": 0.6085,
+        "predictions": [
+          {
+            "class_name": "scatter_plot",
+            "confidence": 0.6085
+          },
+          {
+            "class_name": "line_chart",
+            "confidence": 0.2636
+          },
+          {
+            "class_name": "engineering_drawing",
+            "confidence": 0.0406
+          },
+          {
+            "class_name": "flow_chart",
+            "confidence": 0.0381
+          },
+          {
+            "class_name": "geographical_map",
+            "confidence": 0.0365
+          }
+        ]
+      },
+      "caption": "Ex. 9: Change in revenue vs 2020 industry group return",
+      "ocr_text": "2020 stock return\n\n150%- \u2018Automotive Retail @ | @ Housewares & Specialties\n\n   \n    \n\nHome Furnishings\nInternet & Direct Marketing Re\n\n \n\njoo Alyminum\nImeractie Meda & Services \u00b0\nee\n5% casinos & caring \u00b0\u00b0 \u00b0\u00b0\n\u00b0 ult\n\u00b0 eB, oo Nii-Sector Holdings\n\n    \n\n\u00a9 og Diversified Banks\n\nMines @ Mortgage REIS\n=50%= Oil & Gas Driling @\n~30% -2% 0% 25% 30%\n\n2020 % change in revenue",
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_010.png",
+      "image_dimensions": [
+        520,
+        319
+      ],
+      "bbox": {
+        "l": 38.26,
+        "t": 198.73,
+        "r": 298.66,
+        "b": 38.91,
+        "coord_origin": "CoordOrigin.BOTTOMLEFT"
+      },
+      "s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_010.png",
+      "s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_010.png",
+      "sha256": "2e57c6b60beab7eb9ee038f29bf16974f0ce8cedd4eb9cf2ac6645c892c45fa3"
+    },
+    {
+      "figure_id": "4119285_fig_011",
+      "figure_index": 11,
+      "page_number": 5,
+      "type": "icon_or_logo",
+      "classifier_v2_5": {
+        "top_class": "logo",
+        "confidence": 0.9994,
+        "predictions": [
+          {
+            "class_name": "logo",
+            "confidence": 0.9994
+          },
+          {
+            "class_name": "full_page_image",
+            "confidence": 0.0002
+          },
+          {
+            "class_name": "icon",
+            "confidence": 0.0002
+          },
+          {
+            "class_name": "photograph",
+            "confidence": 0.0001
+          },
+          {
+            "class_name": "stamp",
+            "confidence": 0.0001
+          }
+        ]
+      },
+      "caption": "",
+      "ocr_text": "| BRUDERMAN\n\nASSET MANAGEMENT",
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_011.png",
+      "image_dimensions": [
+        228,
+        58
+      ],
+      "bbox": {
+        "l": 446.3,
+        "t": 752.72,
+        "r": 560.66,
+        "b": 723.34,
+        "coord_origin": "CoordOrigin.BOTTOMLEFT"
+      },
+      "s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_011.png",
+      "s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_011.png",
+      "sha256": "0beeaba32e8b00e5c4146e38d9a033bf4ca6f0d40d373734a8b40248734a8402"
+    },
+    {
+      "figure_id": "4119285_fig_012",
+      "figure_index": 12,
+      "page_number": 6,
+      "type": "chart_graph",
+      "classifier_v2_5": {
+        "top_class": "line_chart",
+        "confidence": 0.9559,
+        "predictions": [
+          {
+            "class_name": "line_chart",
+            "confidence": 0.9559
+          },
+          {
+            "class_name": "bar_chart",
+            "confidence": 0.0431
+          },
+          {
+            "class_name": "scatter_plot",
+            "confidence": 0.0005
+          },
+          {
+            "class_name": "engineering_drawing",
+            "confidence": 0.0001
+          },
+          {
+            "class_name": "geographical_map",
+            "confidence": 0.0001
+          }
+        ]
+      },
+      "caption": "Ex. 11: Capital structure of potential zombies",
+      "ocr_text": "$300,000\n\nH Cash\n\nE s200000-\n3 Long-term debt\n3 | Market capitalization\n@ $100,000-\n8 \u2014 Free cash low\n\n$0-\n\n \n\ne190 ons 0",
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_012.png",
+      "image_dimensions": [
+        519,
+        307
+      ],
+      "bbox": {
+        "l": 38.1,
+        "t": 704.52,
+        "r": 297.3,
+        "b": 550.9,
+        "coord_origin": "CoordOrigin.BOTTOMLEFT"
+      },
+      "s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_012.png",
+      "s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_012.png",
+      "sha256": "e038f473137be84c9327d95b14ef57ddc8aa504b0338c11c06d84eb60a104de2"
+    },
+    {
+      "figure_id": "4119285_fig_013",
+      "figure_index": 13,
+      "page_number": 6,
+      "type": "chart_graph",
+      "classifier_v2_5": {
+        "top_class": "line_chart",
+        "confidence": 0.9802,
+        "predictions": [
+          {
+            "class_name": "line_chart",
+            "confidence": 0.9802
+          },
+          {
+            "class_name": "bar_chart",
+            "confidence": 0.0182
+          },
+          {
+            "class_name": "screenshot_from_computer",
+            "confidence": 0.0006
+          },
+          {
+            "class_name": "table",
+            "confidence": 0.0004
+          },
+          {
+            "class_name": "scatter_plot",
+            "confidence": 0.0002
+          }
+        ]
+      },
+      "caption": "Ex. 12: Federal budget deficit as a % of GDP",
+      "ocr_text": "10%\n\ndD Jo % wDYEP \u00a5o6pnq jer9pe4",
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_013.png",
+      "image_dimensions": [
+        519,
+        306
+      ],
+      "bbox": {
+        "l": 37.7,
+        "t": 200.47,
+        "r": 297.09,
+        "b": 47.61,
+        "coord_origin": "CoordOrigin.BOTTOMLEFT"
+      },
+      "s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_013.png",
+      "s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_013.png",
+      "sha256": "c953a4ea875810ded7da34953ce07ef2789d98faf8523a0aabb2af585a256b48"
+    },
+    {
+      "figure_id": "4119285_fig_014",
+      "figure_index": 14,
+      "page_number": 6,
+      "type": "icon_or_logo",
+      "classifier_v2_5": {
+        "top_class": "logo",
+        "confidence": 0.9997,
+        "predictions": [
+          {
+            "class_name": "logo",
+            "confidence": 0.9997
+          },
+          {
+            "class_name": "full_page_image",
+            "confidence": 0.0001
+          },
+          {
+            "class_name": "icon",
+            "confidence": 0.0001
+          },
+          {
+            "class_name": "stamp",
+            "confidence": 0.0
+          },
+          {
+            "class_name": "page_thumbnail",
+            "confidence": 0.0
+          }
+        ]
+      },
+      "caption": "",
+      "ocr_text": "BRUDERMAN\n\nASSET MANAGEMENT",
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_014.png",
+      "image_dimensions": [
+        228,
+        59
+      ],
+      "bbox": {
+        "l": 446.27,
+        "t": 752.82,
+        "r": 560.66,
+        "b": 723.5,
+        "coord_origin": "CoordOrigin.BOTTOMLEFT"
+      },
+      "s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_014.png",
+      "s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_014.png",
+      "sha256": "3656177d2d16888961a93943e24a05c8b05106e7b298fb3a6868979a229d94e2"
+    },
+    {
+      "figure_id": "4119285_fig_015",
+      "figure_index": 15,
+      "page_number": 6,
+      "type": "chart_graph",
+      "classifier_v2_5": {
+        "top_class": "line_chart",
+        "confidence": 0.9921,
+        "predictions": [
+          {
+            "class_name": "line_chart",
+            "confidence": 0.9921
+          },
+          {
+            "class_name": "bar_chart",
+            "confidence": 0.0049
+          },
+          {
+            "class_name": "scatter_plot",
+            "confidence": 0.0029
+          },
+          {
+            "class_name": "box_plot",
+            "confidence": 0.0001
+          },
+          {
+            "class_name": "engineering_drawing",
+            "confidence": 0.0
+          }
+        ]
+      },
+      "caption": "Ex. 13: Federal government debt & money supply",
+      "ocr_text": "\u2014 Outstanding debt\n\u2014 M2 money supply",
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_015.png",
+      "image_dimensions": [
+        519,
+        315
+      ],
+      "bbox": {
+        "l": 313.57,
+        "t": 386.43,
+        "r": 573.14,
+        "b": 229.11,
+        "coord_origin": "CoordOrigin.BOTTOMLEFT"
+      },
+      "s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_015.png",
+      "s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_015.png",
+      "sha256": "9b4538e426787036029a8f7cd15158cc0df91a7a7949bb0da2f29cbe31748117"
+    },
+    {
+      "figure_id": "4119285_fig_016",
+      "figure_index": 16,
+      "page_number": 6,
+      "type": "chart_graph",
+      "classifier_v2_5": {
+        "top_class": "line_chart",
+        "confidence": 0.9652,
+        "predictions": [
+          {
+            "class_name": "line_chart",
+            "confidence": 0.9652
+          },
+          {
+            "class_name": "bar_chart",
+            "confidence": 0.0327
+          },
+          {
+            "class_name": "scatter_plot",
+            "confidence": 0.0008
+          },
+          {
+            "class_name": "engineering_drawing",
+            "confidence": 0.0006
+          },
+          {
+            "class_name": "table",
+            "confidence": 0.0001
+          }
+        ]
+      },
+      "caption": "Ex. 14: Federal government debt / GDP",
+      "ocr_text": "(% of GDP)\n\n150%-\n\n100%-\n\n \n\n\u2014 Outstanding debt\nOutstanding debt\nless money supply\n\n2000 2020",
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_016.png",
+      "image_dimensions": [
+        519,
+        304
+      ],
+      "bbox": {
+        "l": 313.4,
+        "t": 199.58,
+        "r": 572.85,
+        "b": 47.38,
+        "coord_origin": "CoordOrigin.BOTTOMLEFT"
+      },
+      "s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_016.png",
+      "s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_016.png",
+      "sha256": "dcf340941fd5f7da6f72aedbe008339d75295652f7e72d49f31b88b67e77db52"
+    },
+    {
+      "figure_id": "4119285_fig_017",
+      "figure_index": 17,
+      "page_number": 7,
+      "type": "chart_graph",
+      "classifier_v2_5": {
+        "top_class": "line_chart",
+        "confidence": 0.9775,
+        "predictions": [
+          {
+            "class_name": "line_chart",
+            "confidence": 0.9775
+          },
+          {
+            "class_name": "bar_chart",
+            "confidence": 0.0214
+          },
+          {
+            "class_name": "scatter_plot",
+            "confidence": 0.0004
+          },
+          {
+            "class_name": "table",
+            "confidence": 0.0003
+          },
+          {
+            "class_name": "screenshot_from_computer",
+            "confidence": 0.0001
+          }
+        ]
+      },
+      "caption": "Ex. 15: Federal debt interest payments / GDP",
+      "ocr_text": "(% of GDP)\n\n \n\n1%\n\n \n\n\u201860\n\n380\n\n2000\n\n2020",
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_017.png",
+      "image_dimensions": [
+        520,
+        305
+      ],
+      "bbox": {
+        "l": 37.62,
+        "t": 200.06,
+        "r": 297.65,
+        "b": 47.25,
+        "coord_origin": "CoordOrigin.BOTTOMLEFT"
+      },
+      "s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_017.png",
+      "s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_017.png",
+      "sha256": "c56333ac973f63fc3aac76e257f9bdf9ffda890d59389648a01086f2baa62f88"
+    },
+    {
+      "figure_id": "4119285_fig_018",
+      "figure_index": 18,
+      "page_number": 7,
+      "type": "icon_or_logo",
+      "classifier_v2_5": {
+        "top_class": "logo",
+        "confidence": 0.9994,
+        "predictions": [
+          {
+            "class_name": "logo",
+            "confidence": 0.9994
+          },
+          {
+            "class_name": "full_page_image",
+            "confidence": 0.0002
+          },
+          {
+            "class_name": "icon",
+            "confidence": 0.0001
+          },
+          {
+            "class_name": "photograph",
+            "confidence": 0.0001
+          },
+          {
+            "class_name": "stamp",
+            "confidence": 0.0001
+          }
+        ]
+      },
+      "caption": "",
+      "ocr_text": "BRUDERMAN\n\nASSET MANAGEMENT",
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_018.png",
+      "image_dimensions": [
+        229,
+        59
+      ],
+      "bbox": {
+        "l": 446.3,
+        "t": 752.81,
+        "r": 560.9,
+        "b": 723.49,
+        "coord_origin": "CoordOrigin.BOTTOMLEFT"
+      },
+      "s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_018.png",
+      "s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_018.png",
+      "sha256": "ac5f47fa1ba20b78b6269c47d74bbbe765e858ca4755955bd66c6404d5c6086f"
+    },
+    {
+      "figure_id": "4119285_fig_019",
+      "figure_index": 19,
+      "page_number": 7,
+      "type": "chart_graph",
+      "classifier_v2_5": {
+        "top_class": "line_chart",
+        "confidence": 0.9935,
+        "predictions": [
+          {
+            "class_name": "line_chart",
+            "confidence": 0.9935
+          },
+          {
+            "class_name": "engineering_drawing",
+            "confidence": 0.0026
+          },
+          {
+            "class_name": "scatter_plot",
+            "confidence": 0.0016
+          },
+          {
+            "class_name": "flow_chart",
+            "confidence": 0.0008
+          },
+          {
+            "class_name": "table",
+            "confidence": 0.0006
+          }
+        ]
+      },
+      "caption": "Ex. 16: Deficit spending cumulative 10y IRR",
+      "ocr_text": "",
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_019.png",
+      "image_dimensions": [
+        519,
+        303
+      ],
+      "bbox": {
+        "l": 313.42,
+        "t": 199.52,
+        "r": 572.98,
+        "b": 47.82,
+        "coord_origin": "CoordOrigin.BOTTOMLEFT"
+      },
+      "s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_019.png",
+      "s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_019.png",
+      "sha256": "e4acf71c3b1ae4b87723fd1d7d9415ce7150006e81b0603d50562721e5475f76"
+    },
+    {
+      "figure_id": "4119285_fig_020",
+      "figure_index": 20,
+      "page_number": 8,
+      "type": "icon_or_logo",
+      "classifier_v2_5": {
+        "top_class": "logo",
+        "confidence": 0.9997,
+        "predictions": [
+          {
+            "class_name": "logo",
+            "confidence": 0.9997
+          },
+          {
+            "class_name": "icon",
+            "confidence": 0.0001
+          },
+          {
+            "class_name": "full_page_image",
+            "confidence": 0.0
+          },
+          {
+            "class_name": "stamp",
+            "confidence": 0.0
+          },
+          {
+            "class_name": "other",
+            "confidence": 0.0
+          }
+        ]
+      },
+      "caption": "",
+      "ocr_text": "BRUDERMAN\n\nASSET MANAGEMENT",
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_020.png",
+      "image_dimensions": [
+        229,
+        59
+      ],
+      "bbox": {
+        "l": 446.11,
+        "t": 752.78,
+        "r": 560.65,
+        "b": 723.53,
+        "coord_origin": "CoordOrigin.BOTTOMLEFT"
+      },
+      "s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_020.png",
+      "s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_020.png",
+      "sha256": "caec2ba4893660a091644e38952902313e6477afb8dfa1cbd7389bdd1049c283"
+    },
+    {
+      "figure_id": "4119285_fig_021",
+      "figure_index": 21,
+      "page_number": 9,
+      "type": "icon_or_logo",
+      "classifier_v2_5": {
+        "top_class": "logo",
+        "confidence": 0.9997,
+        "predictions": [
+          {
+            "class_name": "logo",
+            "confidence": 0.9997
+          },
+          {
+            "class_name": "icon",
+            "confidence": 0.0001
+          },
+          {
+            "class_name": "full_page_image",
+            "confidence": 0.0
+          },
+          {
+            "class_name": "stamp",
+            "confidence": 0.0
+          },
+          {
+            "class_name": "other",
+            "confidence": 0.0
+          }
+        ]
+      },
+      "caption": "",
+      "ocr_text": "BRUDERMAN\n\nASSET MANAGEMENT",
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_021.png",
+      "image_dimensions": [
+        229,
+        59
+      ],
+      "bbox": {
+        "l": 446.11,
+        "t": 752.8,
+        "r": 560.43,
+        "b": 723.55,
+        "coord_origin": "CoordOrigin.BOTTOMLEFT"
+      },
+      "s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_021.png",
+      "s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_021.png",
+      "sha256": "caec2ba4893660a091644e38952902313e6477afb8dfa1cbd7389bdd1049c283"
+    },
+    {
+      "figure_id": "4119285_fig_022",
+      "figure_index": 22,
+      "page_number": 10,
+      "type": "icon_or_logo",
+      "classifier_v2_5": {
+        "top_class": "logo",
+        "confidence": 0.9997,
+        "predictions": [
+          {
+            "class_name": "logo",
+            "confidence": 0.9997
+          },
+          {
+            "class_name": "icon",
+            "confidence": 0.0001
+          },
+          {
+            "class_name": "full_page_image",
+            "confidence": 0.0
+          },
+          {
+            "class_name": "stamp",
+            "confidence": 0.0
+          },
+          {
+            "class_name": "other",
+            "confidence": 0.0
+          }
+        ]
+      },
+      "caption": "",
+      "ocr_text": "BRUDERMAN\n\nASSET MANAGEMENT",
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_022.png",
+      "image_dimensions": [
+        229,
+        59
+      ],
+      "bbox": {
+        "l": 446.0,
+        "t": 752.82,
+        "r": 560.56,
+        "b": 723.49,
+        "coord_origin": "CoordOrigin.BOTTOMLEFT"
+      },
+      "s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_022.png",
+      "s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_022.png",
+      "sha256": "caec2ba4893660a091644e38952902313e6477afb8dfa1cbd7389bdd1049c283"
+    }
+  ],
+  "chunks": [
+    {
+      "chunk_id": "4119285_chunk_0000",
+      "chunk_index": 0,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "Michael Murphy, CFA Chief Investment Officer March 2021",
+      "token_count": 9,
+      "headings": null,
+      "page_numbers": [
+        1
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 55,
+      "word_count": 8,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0001",
+      "chunk_index": 1,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "119 Birch Hill Road\nLocust Valley, New York 11561\n212-244-1460\nLogo",
+      "token_count": 20,
+      "headings": [
+        "Bruderman Asset Management LLC"
+      ],
+      "page_numbers": [
+        1
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 67,
+      "word_count": 11,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0002",
+      "chunk_index": 2,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "One year into the global coronavirus pandemic, daily life is just beginning to resume. We expect consumers will resume many pre-pandemic activities but that some of the behaviors learned during the pandemic will remain.\nIn this report we provide an update on the coronavirus and show that vaccinations are likely to bring herd immunity some time in the coming months but chances are that the coronavirus or its variants are likely to be with us for years to come. We consider what life might be like in a post-pandemic world from the perspective of the three main sectors of the US economy:",
+      "token_count": 125,
+      "headings": [
+        "The more things change, the more they stay the same: A perspective on what life might be like in a postpandemic world."
+      ],
+      "page_numbers": [
+        1
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 590,
+      "word_count": 102,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0003",
+      "chunk_index": 3,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "- Consumers - Consumer spending comprises about two-thirds of the US economy and there are likely to be long-lasting impacts on how and where consumers spend their money. We show how spending and employment have changed over the past year.\n- Businesses - Corporations were about evenly split between winners and losers last year and pandemic shutdowns hastened the secular changes that were already underway, changes that are likely to improve profits for a large section of companies. Among the losers, higher debt burdens may hobble them for years to come.\n- Government & the economy - Federal stimulus blunted the edge of the pandemic recession, with deficit spending adding nearly 20% to US GDP over the past four quarters. While federal finances might be strained in the short-term, there is little immediate cause for concern and we show that deficits can be beneficial from a financial perspective.",
+      "token_count": 176,
+      "headings": [
+        "The more things change, the more they stay the same: A perspective on what life might be like in a postpandemic world."
+      ],
+      "page_numbers": [
+        1
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 905,
+      "word_count": 148,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0004",
+      "chunk_index": 4,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "As we enter the twilight of The Great Coronavirus Pandemic of 2020, we offer a perspective on what life might be like for the three main sectors of the US economy - consumers, businesses and government. While the duration of the pandemic is likely to lead to scarring within each of the sectors, many behaviors learned during the pandemic are likely to persist. There will continue to be winners and losers (Exhibit 1).",
+      "token_count": 89,
+      "headings": [
+        "Introduction"
+      ],
+      "page_numbers": [
+        2
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 419,
+      "word_count": 73,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0005",
+      "chunk_index": 5,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "For consumers, a large part of their day-to-day existence has shifted to the virtual world during the pandemic with shopping, working and even dating taking place online. We expect some level of retail activity to return to the real world but the pandemic merely accelerated the trend towards e-commerce that was already occurring. Consumers will end the pandemic greener than ever (70% of electricity capacity added in 2021 will be from renewables) and more suburban (an estimated 80,000 people left New York City each month of the pandemic). Overall, consumers will exit the pandemic in relatively healthy financial shape thanks largely to the three rounds of stimulus payments that were made directly to consumers. On the employment front, the US has lost over 9 million jobs, many of them concentrated in just a few sectors. Unfortunately, it may take years for those jobs to return.",
+      "token_count": 182,
+      "headings": [
+        "Introduction"
+      ],
+      "page_numbers": [
+        2
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 887,
+      "word_count": 145,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0006",
+      "chunk_index": 6,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "Pandemic impacts on business were mixed with the winners continuing to win and the most impacted sectors facing an uncertain future. For the winners, the questions surround the degree to which future demand has been pulled forward. Those that saw pandemic revenue bumps may see short-term revenue declines but we expect they will continue to benefit from underlying trends. The most impacted businesses look nothing like how they did when they entered the pandemic with high debt loads hindering investment, possibly for years to come and making them 'zombie-like' businesses. Overall, the pandemic provided a real world laboratory where businesses could experiment with cost cuts, optimal real estate footprints and employee location. Overall, these experiments largely appeared to supplement earnings with higher margins evident in many cases. If 'work-from-home' truly allows employees to work from anywhere, they may face a shock when their New York and San Francisco salaries are adjusted downward to account for local cost of living.",
+      "token_count": 193,
+      "headings": [
+        "Introduction"
+      ],
+      "page_numbers": [
+        2
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 1039,
+      "word_count": 159,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0007",
+      "chunk_index": 7,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "It has been said, \"In a crisis, everyone's a Keynesian\" and governments around the world directed massive amounts of aid to populations impacted by the virus. In the US, this resulted",
+      "token_count": 40,
+      "headings": [
+        "Introduction"
+      ],
+      "page_numbers": [
+        2
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 183,
+      "word_count": 31,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0008",
+      "chunk_index": 8,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "- Renewables\n- Amazon.com\n- Employers\n- Stock market\n- Air Freight\n- Florida",
+      "token_count": 17,
+      "headings": [
+        "Winners"
+      ],
+      "page_numbers": [
+        2
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 76,
+      "word_count": 14,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0009",
+      "chunk_index": 9,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "- Fossil fuels\n- Macy's\n- Employees\n- Bond market\n- Airlines\n- New York\nLogo\nin a sharp increase in government debt that many fear is likely to lead to higher taxes in the future. Indeed, President Biden campaigned on a platform that called for higher taxes on high earners but tax professionals don't see much chance of any tax legislation passing in 2021. On the municipal side, state and local governments have seen pandemic hits to their finances, but the implosion of local budgets that was widely expected at the start of the pandemic never materialized. Tax receipts have been higher than anticipated due to better performance of the economy and capital gains arising from the soaring stock market. Overall, government finances are strained but the US government has an almost infinite capacity to issue debt and faster economic growth will reduce debt ratios in the years to come. Finally, inflation is likely to be somewhat higher than pre-pandemic levels due to the Fed's monetary easing and this will reduce debt burdens in the years ahead. Overall, government finances are strained but not stressed.",
+      "token_count": 218,
+      "headings": [
+        "Losers"
+      ],
+      "page_numbers": [
+        2
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 1111,
+      "word_count": 186,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0010",
+      "chunk_index": 10,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "Before life returns to normal, of course, the pandemic itself must end. When is that likely to happen? We attempt to answer that question first.",
+      "token_count": 32,
+      "headings": [
+        "Losers"
+      ],
+      "page_numbers": [
+        2
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 144,
+      "word_count": 25,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0011",
+      "chunk_index": 11,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "After spiking sharply around the November-January holiday period, new virus cases in the US have plunged since. This plunge coincides with the widespread administration of vaccinations that began in early January (Exhibit 2).\nConfirmed cases today are about where they were last October, before the holiday-induced spike. Fatalities have also fallen sharply from an early February peak. The pace of fatalities provides a clue that undocumented coronavirus cases have also declined. We've believed that fatality trends have been more telling about virus spread in the past few months than confirmed case counts as the vast majority of virus-related fatalities are likely to be counted while testing only identifies a portion of those who have contracted the virus. This cohort of undocumented cases is a large and probably immune one and it is an important pillar in the move towards herd immunity.",
+      "token_count": 173,
+      "headings": [
+        "Coronavirus status in the US"
+      ],
+      "page_numbers": [
+        2
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 897,
+      "word_count": 141,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0012",
+      "chunk_index": 12,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "After accounting for confirmed cases, fatalities, undocumented cases and vaccinations to date, which makes up the immune population, we can then identify the portion of the US population that remains susceptible to infection and compare it to herd immunity thresholds. This analysis is shown in Exhibit 3 and shows that the immune population could be approaching 50% of the total US population as of March 2021. The coronavirus is thought to have a basic reproduction rate (R0) of between 2 and 4; herd immunity occurs at 1 - (1 / R0). If the virus has an R0 of 2 then the herd immunity threshold of 50% of the population is rapidly approaching. The R0 is probably higher than two so additional vaccinations will be needed but the US announced on March 11 that it was ordering states to make vaccines available to all citizens by May 1. We would estimate that process will be complete perhaps sometime in Q4 of 2021.\nEx. 2: US virus cases\n\nLine chart\nEx. 3: US herd immunity thresholds\n\nLine chart",
+      "token_count": 213,
+      "headings": [
+        "Coronavirus status in the US"
+      ],
+      "page_numbers": [
+        2,
+        3
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 997,
+      "word_count": 176,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0013",
+      "chunk_index": 13,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "Will the virus disappear after mass vaccinations are delivered? We would guess the virus has probably become endemic and we will see flare ups in the future. First, vaccines are not 100% effective. Efficacy rates vary between 90 - 95% for the three approved vaccines so some portion of the population will not gain immunity even though they have been vaccinated. Second, many eligible vaccine recipients will choose not to be vaccinated leaving a relatively large non-immune population. Third, the US is far ahead of most of the rest of the world in delivering vaccines so coronavirus will continue to spread among unvaccinated populations. Finally, viruses routinely mutate which is likely to ultimately weaken immunity. Follow-up immunizations are likely for years to come.\nEx. 4: US payrolls drawdown\n\nLogo",
+      "token_count": 165,
+      "headings": [
+        "Coronavirus status in the US"
+      ],
+      "page_numbers": [
+        3
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 809,
+      "word_count": 129,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0014",
+      "chunk_index": 14,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "In some senses, then, it is possible that coronavirus never goes away and that we will just become accustomed to containing it. Belief-scarring, or a persistent change in probability expectations for extreme, negative shocks, is likely to be one consequence of the pandemic and that could be an economic headwind in the future.",
+      "token_count": 67,
+      "headings": [
+        "Coronavirus status in the US"
+      ],
+      "page_numbers": [
+        3
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 327,
+      "word_count": 53,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0015",
+      "chunk_index": 15,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "Despite bearing the brunt of the virus both physically and financially, consumers will exit the pandemic era in pretty good shape with job creation the potential weak link. Job losses at one point totaled over 20 million or 17% of total payrolls before recovering through the year. (Exhibit 4). This drawdown in employment is still currently the largest in US history and it could take years for a full recovery. Recoveries in payroll drawdowns have been lengthening since the 1990s. The US has experienced twelve periods of large job losses since 1939 and through the 1980s, recovery usually took about 10 months, regardless of the depth of the job losses. Since 1990, the recovery period has doubled and jobs lost during the financial crisis took about 4.5 years to recover. The current jobs drawdown is larger than the one experienced during the financial crisis.",
+      "token_count": 171,
+      "headings": [
+        "Consumers"
+      ],
+      "page_numbers": [
+        3
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 866,
+      "word_count": 144,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0016",
+      "chunk_index": 16,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "Job losses have been concentrated among a few sectors. Leisure, government and education / health care absorbed nearly two-thirds of the nine million net job losses since the start of the pandemic (Exhibit 5). The degree to which these jobs return depends largely on consumer behaviors in the post-pandemic world. Will consumers travel or go to the movies as they did in the past? Will children return to in-person schooling at the rates they did previously? The answers remain to be seen.\nApart from issues in the job market, however, consumers are exiting the pandemic in healthy shape. Federal stimulus has offset impacts of job losses and resulted in an increase in personal income of nearly 15% since January 2020. Home prices appreciated 9.7% and job openings have recovered sharply suggesting employers have resumed hiring. Consumers have been cautious with their stimulus payments and have actually saved most of the payments they've received. Spending fell by about half a percent and credit card balances declined as well. Rising incomes and falling expenditures means consumers\nEx. 5: Job losses by sector\n\nBar chart",
+      "token_count": 219,
+      "headings": [
+        "Consumers"
+      ],
+      "page_numbers": [
+        3
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 1127,
+      "word_count": 182,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0017",
+      "chunk_index": 17,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "Net job losses",
+      "token_count": 3,
+      "headings": [
+        "Consumers"
+      ],
+      "page_numbers": [
+        3
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 14,
+      "word_count": 3,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0018",
+      "chunk_index": 18,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "Ex. 6: Consumer comfort index\n\nLine chart\nhave seen their savings increase by over $4 trillion since the onset of the pandemic and stock market gains provide another $6 trillion of savings. The March 2021 stimulus bill will add $1.9 trillion to these amounts and they collectively amount to about 100% of GDP.\nConstructing a simple consumer comfort model consisting of payrolls, job openings, savings, credit usage and home prices shows consumers are in the strongest shape they've been in since at least 2000 (Exhibit 6). Consumers have ample firepower to satisfy pent-up demands which should support continued economic recovery but we expect some caution will remain until the pandemic has been clearly halted.",
+      "token_count": 142,
+      "headings": [
+        "March 2021\b"
+      ],
+      "page_numbers": [
+        4
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 712,
+      "word_count": 114,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0019",
+      "chunk_index": 19,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "Despite widespread lockdowns in 2020, consumer spending fell only 0.5% but the spending mix changed dramatically. An examination of detailed Personal Consumption Expenditures reports from the Bureau of Economic Analysis shows homebound consumers sparked a boom in home refurbishment and spending on 'carpets and other floor coverings' rose 27%. They prepared to work at home and two of the categories seeing the largest increases were 'calculators, typewriters and other information processing equipment' and 'computer software and accessories'. They indulged hobbies and spending on things like film supplies, sewing equipment and 'games, toys and hobbies' all rose more than 28% since the pandemic began. Products were likely purchased online as spending on delivery services rose by 43%. The tragic toll of the virus is also evident in consumer spending data; expenditures on 'funeral and burial services' increased by 36% while fear of group travel resulted in increased spending on pleasure aircraft, automobiles, and the category that saw the largest increase, 'other recreational vehicles' which rose 47.6%.",
+      "token_count": 215,
+      "headings": [
+        "March 2021\b"
+      ],
+      "page_numbers": [
+        4
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 1114,
+      "word_count": 165,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0020",
+      "chunk_index": 20,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "On the negative side of the spending ledger were some obvious categories: spending on 'motion picture theaters' fell 93.7%; live entertainment dropped 87.3%; and 'US travel outside the United States' was 82.9% lower than 2019. But some less obvious sectors also saw large declines. The category covering medical tourism, 'Medical expenditures of foreigners' showed the largest decline in spending, falling over 95%. Exhibit 7 shows the top and bottom percentage changes in PCE spending categories through January 2021.\nLogo",
+      "token_count": 105,
+      "headings": [
+        "March 2021\b"
+      ],
+      "page_numbers": [
+        4
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 523,
+      "word_count": 79,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0021",
+      "chunk_index": 21,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "Bar chart",
+      "token_count": 2,
+      "headings": [
+        "Ex. 7: Pandemic consumer spending by category"
+      ],
+      "page_numbers": [
+        4
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 9,
+      "word_count": 2,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0022",
+      "chunk_index": 22,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "Bar chart\nThe average of the nearly 400 categories tracked in the PCE reports changed by nearly 17% on an absolute basis, nearly four times greater than any change over the past 20 years. Even if consumers resume previous behaviors, it will take time for categories to return to previous trend values and our best guess is that some of these consumer spending shifts are likely to be permanent. If that occurs, the normal we return to won't be the same as the normal we left.",
+      "token_count": 96,
+      "headings": [
+        "Ex. 8: Consumer survey results"
+      ],
+      "page_numbers": [
+        4
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 475,
+      "word_count": 86,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0023",
+      "chunk_index": 23,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "Some insight into post-pandemic consumer preferences can be gleaned from a survey conducted in September 2020 by IBM (Exhibit 8). The survey queried consumers about a range of issues related to work, transportation and activities. Survey results showed consumers are either using or likely to return to places such as medical offices, restaurants and movie theaters. Work attitudes show employees feel most comfortable when their employers provide clear pandemic planning guidelines. Interestingly, only about 28% expressed a desire to exclusively work remotely; opinion was about equally divided about working from home, working in the office or spending time at home and in the office. The survey showed consumers are also likely to continue behaviors learned during the pandemic such as spending more time at home and using on-line services.\nThe survey did yield some interesting data. Consumers are more concerned about the health of their families and, although most consumers will return to previous behaviors,",
+      "token_count": 186,
+      "headings": [
+        "Ex. 8: Consumer survey results"
+      ],
+      "page_numbers": [
+        4
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 1016,
+      "word_count": 155,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0024",
+      "chunk_index": 24,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "some 9-10% of respondents stated that they would never return to amusement parks, movie theaters, live sporting events or fitness centers. Losing 10% of a customer base could result in structural shifts in these industries and consumer concern about health suggests caution will persist long after the pandemic has ended, especially if coronavirus has become endemic.",
+      "token_count": 68,
+      "headings": [
+        "March 2021\b"
+      ],
+      "page_numbers": [
+        5
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 367,
+      "word_count": 56,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0025",
+      "chunk_index": 25,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "Like consumers, businesses have also experienced profound shifts as a result of the pandemic. Many sectors were completely off limits during the pandemic and those such as airlines, casinos and hotels saw revenues decline by over 50% in 2020. There were winners, too, with Internet & Direct Marketing (mainly Amazon.com), Health Care Technology and Gold miners seeing revenues up to 24% higher over the year.\nAmazon is an example of one of the clear winners during the pandemic. Its revenue rose to $386 billion, more than $100 billion, or 37.6%, higher than it was in 2019. The company hired over 500,000 employees, about 3.7% of the total jobs added during the year. Amazon's massive investment in its Prime delivery service paid off in spades as Americans purchased nearly everything on-line in April and May of last year. The company's ability to grow into that demand surge kept consumers fed, medicated and clothed and surely saved lives by keeping people out of stores.",
+      "token_count": 211,
+      "headings": [
+        "Business"
+      ],
+      "page_numbers": [
+        5
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 976,
+      "word_count": 162,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0026",
+      "chunk_index": 26,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "The stock market didn't appear to be entirely efficient in allocating returns in 2020 with many of the hardest hit sectors ending up to be some of those with the highest returns. The casinos and gaming industry, for example, saw revenues plunge by 52% in 2020 and yet the average stock price for the ten companies in the group rose by 37% (Exhibit 9).",
+      "token_count": 75,
+      "headings": [
+        "Business"
+      ],
+      "page_numbers": [
+        5
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 351,
+      "word_count": 64,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0027",
+      "chunk_index": 27,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "The pandemic provided a real-world laboratory that allowed companies to discover which were truly variable expenses and which were fixed. Companies often viewed occupancy costs as being fixed, for example, but many companies were able to reduce costs by not renewing leases, consolidating space or by simply not paying landlords who often faced eviction moratoria that kept them from enforcing lease provisions. Companies in many industries were able to quickly slash travel, entertainment and professional services expenses to match declines in revenue and they were able to maintain or even grow margins without shedding employees. They issued as much debt as they were able to and preserved cash by halting stock repurchase programs, cutting dividends and postponing capital investment. Larger companies were able to use size to their advantage by generating positive cash flow from their working capital. In all, companies saw long-term debt balances soar but they largely held the proceeds in cash.",
+      "token_count": 192,
+      "headings": [
+        "Business"
+      ],
+      "page_numbers": [
+        5
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 1003,
+      "word_count": 154,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0028",
+      "chunk_index": 28,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "At the end of 2020, US companies held $3.8 trillion of cash on their balance sheets, an increase of 46% from 2019 year-end balances.\nEx. 9: Change in revenue vs 2020 industry group return\n\nScatter plot\nLogo",
+      "token_count": 50,
+      "headings": [
+        "Business"
+      ],
+      "page_numbers": [
+        5
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 206,
+      "word_count": 37,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0029",
+      "chunk_index": 29,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "Looking ahead, we believe pandemic lessons learned will be margin accretive for many companies. If they allow some employees to work from home, employment costs are likely to decline as compensation levels fall to adjust to the local costs of where employees live. Recruiting will be enhanced as companies can recruit employees from anywhere in the world. Many companies adopted direct-to-consumer (DTC) strategies to power their on-line presences thereby eliminating distribution costs. The advent of Zoom meetings is likely to reduce at least some business travel as meetings can still be conducted via video. Reduction in these expense items will improve EBITDA margins and we have already begun to see this impact. In Q4 2020, less pandemic-impacted companies saw their EBITDA margins fully recover to pre-pandemic levels and those earnings helped to fuel equity prices.",
+      "token_count": 172,
+      "headings": [
+        "Business"
+      ],
+      "page_numbers": [
+        5
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 874,
+      "word_count": 135,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0030",
+      "chunk_index": 30,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "We expect that while many of the winners will continue to win, the pandemic losers will face a long road of recovery ahead. Consider the plight of just three companies, American Airlines (AAL), Boeing (BA) and Carnival Cruise Lines (CCL) who saw their revenues plunge by a collective 43% during 2020 with negative free cash flow of over $35 billion. Like other companies, they were able to draw upon available credit facilities to increase their cash and they offset negative cash flow with new net long-term debt. Those debt balances now stand at over $80 billion, however, nearly four full years of the free cash flow they generated prior to the pandemic. Those companies will see future flexibility restricted, foregoing dividends, capital investment or stock repurchases as they pay down debt; they will also be vulnerable to any future economic shocks while their\nEx. 10: EBITDA margins of 'winners' and 'losers'\n20%\n18%\n16%\n14%\nEBITDA as % of revenue (LTM)\n2010\n2015\n2020\nLosers\nWinners",
+      "token_count": 219,
+      "headings": [
+        "Business"
+      ],
+      "page_numbers": [
+        5
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 992,
+      "word_count": 166,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0031",
+      "chunk_index": 31,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "Ex. 11: Capital structure of potential zombies\n\nLine chart\ndebt remains high and their balance sheets heal. We counted nearly 200 companies who increased their LTD in 2020 by more than one year of operating cash flow.\nFor these 'zombie-like' companies, we haven't seen much overall change in enterprise value since the start of the pandemic. But for AAL, BA and CCL, there has been a pronounced shift in value from equity holders to debt holders (Exhibit 11). The reversal of that shift may provide investment opportunities but investors could also invest in companies that don't face these issues and perhaps experience lower return volatility.",
+      "token_count": 131,
+      "headings": [
+        "March 2021\b"
+      ],
+      "page_numbers": [
+        6
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 645,
+      "word_count": 105,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0032",
+      "chunk_index": 32,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "If there was one benefit of the timing of the pandemic it was that it occurred so soon after the financial crisis when lessons learned from that episode were still fresh. The US government moved quickly to support the economy, passing three stimulus bills that added a total of about $5 trillion, or 15%, of gross domestic product (GDP). The Federal Reserve also swung into action, implementing quantitative easing that expanded its balance sheet by $4 trillion and pledging to purchase corporate bonds, high yield bonds, mortgage bonds and treasury bonds, all of which had the impact of thawing credit markets that had become frozen.\nThere has been much hand-wringing about this support with investors and prognosticators predicting everything from stock and bond market crashes to hyperinflation and massive tax hikes to pay for government bounty. We don't expect any of those outcomes.\nEx. 12: Federal budget deficit as a % of GDP\n\nLine chart\nLogo",
+      "token_count": 191,
+      "headings": [
+        "Government"
+      ],
+      "page_numbers": [
+        6
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 950,
+      "word_count": 156,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0033",
+      "chunk_index": 33,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "The federal budget deficit has soared as a result of massive stimulus and lower tax receipts and that has led to an explosion of outstanding government debt. This has caused much concern, perhaps due to the US' puritanical heritage that views debt as sinful. But US government debt exists for a simple macroeconomic reason - the US dollar is the world's reserve currency and the US budget deficit (and trade deficit) absorbs excess global liquidity. In times of crisis, investors demand more dollars and the budget deficit creates the supply to meet that demand. As a result of the three US pandemic stimulus bills, the budget deficit has swelled to over 25% of GDP and federal debt now stands at 143% of GDP.",
+      "token_count": 146,
+      "headings": [
+        "Government"
+      ],
+      "page_numbers": [
+        6
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 709,
+      "word_count": 123,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0034",
+      "chunk_index": 34,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "Because the US finances itself entirely in its own currency, it can issue virtually unlimited amounts of debt. It can issue debt as long as investors demand it, to be more precise. Much of the pandemic stimulus involved direct payments of cash to consumers. These cash payments swelled the money supply (Exhibit 13) which rose along with debt. That liquidity ultimately reinvests in assets which include government bonds. In many ways, the government is creating monetary velocity by issuing debt that results in greater cash holdings that eventually get reinvested back into debt.\nEx. 13: Federal government debt & money supply\n\nLine chart\nEx. 14: Federal government debt / GDP\n\nLine chart",
+      "token_count": 134,
+      "headings": [
+        "Government"
+      ],
+      "page_numbers": [
+        6
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 690,
+      "word_count": 112,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0035",
+      "chunk_index": 35,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "If we think of net debt, or debt less cash holdings, as we do when looking at corporate credit, the debt / GDP ratios look much less scary with the net debt-to-GDP ratio standing at about 40% of GDP, a hundred points lower than the ratio calculated using gross debt (Exhibit 14). This idea is controversial, flirting with Modern Monetary Theory and Keynes' 'paradox of thrift' but the fiscal responses to the financial crisis and the pandemic show that the explosion of government debt did not cause currency devaluation (the US dollar has appreciated 12% since 2009), hyperinflation (CPI has averaged 1.8% since 2009) or a market collapse (a stock/bond blend has generated average returns of 9.3% since 2009).",
+      "token_count": 160,
+      "headings": [
+        "March 2021\b"
+      ],
+      "page_numbers": [
+        7
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 710,
+      "word_count": 119,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0036",
+      "chunk_index": 36,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "Moving away from macroeconomic controversies, we can look at a much simpler measure to show why the higher government debt balance isn't crippling the economy. Interest rates have plunged in recent years and that has dramatically reduced federal borrowing costs. Government cost of debt was 4.5% in 2007 and is 2% today. The US Treasury could issue more than twice as much debt as it did in 2007 and interest costs would be the same. Exhibit 15 shows this trend clearly; federal outlays for interest expense as a percentage of GDP are back to where they were in the 1990s despite a five-fold increase in the debt balance so by debt service measures, the level of federal debt isn't particularly concerning.",
+      "token_count": 144,
+      "headings": [
+        "March 2021\b"
+      ],
+      "page_numbers": [
+        7
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 706,
+      "word_count": 121,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0037",
+      "chunk_index": 37,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "The other typical concern about high debt balances surround the potential for tax increases to be instituted to pay for government spending. Indeed, in March, the Biden Administration announced that it was seeking higher corporate, high income and estate taxes in its next economic plan, due presumably in 2022. While there may be tax increases, those will be made for political reasons, not economic ones.\nAnother look at Exhibit 14 shows that there is little historical precedent for using tax increases to reduce federal debt because there is not any need to pay off the federal debt and to do so would be contractionary. The best method to diffuse debt is to grow the underlying economy with moderate (ie 2-2.5%) inflation. This serves to reduce debt / GDP ratios and the modest inflation decreases the future value of outstanding debt, especially over the long horizons over which federal budget decisions are typically made.\nEx. 15: Federal debt interest payments / GDP\n\nLine chart\nLogo",
+      "token_count": 190,
+      "headings": [
+        "March 2021\b"
+      ],
+      "page_numbers": [
+        7
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 992,
+      "word_count": 164,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0038",
+      "chunk_index": 38,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "Governments incur budget deficits to increase economic growth and, if they are successful, debt ratios will naturally fall. If the US economy grows at 3% on average for the next 30 years while outstanding debt balances grow at 1.5%, the debt / GDP ratio will fall from 143% to 92%.\nInflation is another means of reducing the future value of debt. The current $29 trillion debt balance is worth $15 trillion in 2050 at an inflation rate of 2%, for example. If a budget deficit spurs higher economic growth with some inflation, high apparent debt ratios begin to fade quickly.\nA more interesting question than the morality of debt or macroeconomic theoretical debate is whether deficit spending makes financial sense. Companies issue debt to fund projects that generate future cash flow. The returns on those growth investments are calculated using the standard financial metrics, net present value (NPV),internal rate of return (IRR) and payback periods. Do the same concepts apply to federal finances?",
+      "token_count": 202,
+      "headings": [
+        "March 2021\b"
+      ],
+      "page_numbers": [
+        7
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 1001,
+      "word_count": 163,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0039",
+      "chunk_index": 39,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "We can test whether government deficit spending generates positive IRRs by constructing a simple example using economic data from the financial crisis. Outstanding US debt balances increased by about $3 trillion during 2008 and 2009. At the end of 2009, US GDP stood at $15.3 trillion so the stimulus provided by deficit spending added about 20% of GDP. Without deficit spending, the economy would have been $12.4 trillion.",
+      "token_count": 84,
+      "headings": [
+        "March 2021\b"
+      ],
+      "page_numbers": [
+        7
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 423,
+      "word_count": 68,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0040",
+      "chunk_index": 40,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "Over the past ten years, federal tax receipts have averaged about $2.9 trillion per year, or about 16.5% of annual GDP. We can measure the financial profitability of deficit spending by measuring the difference between what GDP actually was at the end of 2020 and where it would have been had it begun with a $3 trillion smaller base (where GDP would have been without debt financing). We can then measure the difference in tax receipts to determine federal cash inflows that offset the 2009 increase in the deficit. Tax receipts average $592 billion per year higher with deficit spending than without. Deficit spending generates positive IRR (14.1% after ten years, Exhibit 16), positive NPV (+$1.7 trillion) and a payback period of about 6.5 years.\nDeficits are misunderstood because government finances are not like consumer or business finances. The government is the\nEx. 16: Deficit spending cumulative 10y IRR\n\nLine chart",
+      "token_count": 196,
+      "headings": [
+        "March 2021\b"
+      ],
+      "page_numbers": [
+        7
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 927,
+      "word_count": 151,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0041",
+      "chunk_index": 41,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "lender of last resort and the economy grows faster with deficit spending than without it. That makes the economy better off overall, even if it looks worse for the government sector.",
+      "token_count": 35,
+      "headings": [
+        "March 2021\b"
+      ],
+      "page_numbers": [
+        8
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 182,
+      "word_count": 31,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0042",
+      "chunk_index": 42,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "After a year of sickness, tragedy and despair, life for most Americans is about to return to normal but that normal is unlikely to completely mirror the lives we left a year ago. Consumers are likely to have ingrained some of the fears and behaviors developed over the pandemic and changes in job markets and spending preferences could become permanent.\nBusinesses have emerged from the pandemic and we saw pandemic consumer shifts reinforce many secular trends that had already been in place. Companies on the right side of that balance are entering the post-pandemic era with faster sales growth, higher profits and lower debts. Companies on the other side face a more uncertain future as consumers may not return in full and pandemic-incurred debts are worked off. Ultimately US businesses will resume with some mixture of pre- and post-pandemic norms. Some employees will continue to work remotely while other industries will continue to see a benefit to having a centralized employee pool.",
+      "token_count": 192,
+      "headings": [
+        "Conclusion"
+      ],
+      "page_numbers": [
+        8
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 994,
+      "word_count": 162,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0043",
+      "chunk_index": 43,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "On the government side of the economy, finances are strained but not stressed. The US government has a large, if not unlimited, capacity to issue debt and investors continue to demand large volumes of Treasury securities. Over time, debt / GDP ratios and other fiscal health measures will improve as pandemic deficit spending helps keep economic growth on track.\nLogo",
+      "token_count": 69,
+      "headings": [
+        "Conclusion"
+      ],
+      "page_numbers": [
+        8
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 367,
+      "word_count": 60,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0044",
+      "chunk_index": 44,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "Anderson, Roy M, Vegvari, Carolin, Truscott, James, Collyer, Benjamin S, \"Challenges in creating herd immunity to SARS-CoV-2 infection by mass vaccination\", The Lancet, Comment, Volume 396, Issue 10263, p1614-1616, November 21, 2020\nBauch, Chris T, \"Estimating the COVID-19 R number: a bargain with the devil?, The Lancet Infectious Diseases, Volume 21, Issue 2, p151153, October 22, 2020\nDong E, Du H, Gardner L. An interactive web-based dashboard to track COVID-19 in real time. Lancet Inf Dis. 20(5):533-534.\nGostin, Lawrence O, 'The Great Coronavirus Pandemic of 2020 - 7 Critical Lessons, The Journal of the American Medical Association, Vol 324, No 18, pp1816-1817, November 10, 2020",
+      "token_count": 208,
+      "headings": [
+        "References"
+      ],
+      "page_numbers": [
+        9
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 689,
+      "word_count": 105,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0045",
+      "chunk_index": 45,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "IBM Institute for Business Value, \"COVID-19 Consumer Survey\", September 2020, https://www.ibm.com/thought-leadership/institute-business-value/report/covid-19-consumer-survey\nKozlowski, Julian, Veldkamp, Laura, Venkateswaran, Venky, 'Scarring Body and Mind: The Long-term Belief-scarring Effects of COVID-19\", NBER Working Paper Series,\nWhitaker, Stephane, \"Did the COVID-19 Pandemic Cause an Urban Exodus\", Cleveland Fed District Data Brief, February 5, 2021",
+      "token_count": 131,
+      "headings": [
+        "References"
+      ],
+      "page_numbers": [
+        9
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 458,
+      "word_count": 49,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0046",
+      "chunk_index": 46,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "Bloomberg LP\nBoard of Governors of the Federal Reserve System, H.6 Money Stock Measures\nFederal Reserve Bank of Saint Louis\nUnited States Bureau of Labor Statistics\nUnited States Bureau of Economic Analysis\nUnited States Centers for Disease Control and Prevention\nUnited States Department of the Treasury, Fiscal Service\nUnited States Office of Management and Budget\nBruderman Asset Management calculations\nLogo",
+      "token_count": 66,
+      "headings": [
+        "Other sources:"
+      ],
+      "page_numbers": [
+        9
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 411,
+      "word_count": 60,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0047",
+      "chunk_index": 47,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "This material is for your general information. It does not consider the particular investment objectives, financial situation, or needs of individual clients. This material is based upon information obtained from various sources that Bruderman Asset Management, LLC believes to be reliable, but Bruderman Asset Management, LLC makes no representation or warranty with respect to the accuracy or completeness of such information. The mention of a particular security is not intended to represent a specific recommendation, and the view of these holdings may change at any time based on price movements, new research conclusions or changes in risk preference. Views expressed herein are current only as of the date indicated and are subject to change without notice. Forecasts may not be realized due to a variety of factors, including changes in economic growth, corporate profitability, geopolitical conditions, and inflation. Past performance is no guarantee of future results.",
+      "token_count": 175,
+      "headings": [
+        "Disclosures"
+      ],
+      "page_numbers": [
+        10
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 978,
+      "word_count": 146,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0048",
+      "chunk_index": 48,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "Asset allocation and diversification do not assure or guarantee better performance and cannot eliminate the risk of investment losses. Your individual allocation may be different than the allocation mentioned here due to your unique individual circumstances but is targeted to be in the allocation ranges for your objective. The asset allocation referenced in this material may fluctuate based on asset values, portfolio decisions, and account needs. The asset allocation suggestions referenced in this material do not take the place of a comprehensive financial analysis.\nIndex performance returns do not reflect any management fees, transaction costs or expenses. Indexes are unmanaged and one cannot invest directly in an index. Past performance does not guarantee future results. S&P 500\u00ae Index includes 500 leading companies in leading industries of the U.S. economy, capturing 75% coverage of U.S. equities. The S&P 500 is a free-float capitalization-weighted index published since 1957 of the prices of 500 large-cap common stocks actively traded in the United States.",
+      "token_count": 200,
+      "headings": [
+        "Disclosures"
+      ],
+      "page_numbers": [
+        10
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 1075,
+      "word_count": 160,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_chunk_0049",
+      "chunk_index": 49,
+      "document_id": "4119285",
+      "chunk_type": "text_or_table",
+      "text": "Securities offered through Bruderman Brothers, LLC, an SEC registered broker-dealer, member FINRA and SIPC. Bruderman Asset Management, LLC is an investment adviser registered with the Securities and Exchange Commission (copy of current Form ADV Part 2A is available upon request or at www.advisorinfo.sec.gov) or by contacting Bruderman Asset Management, LLC at (212) 697-2500 with any questions.\nLogo",
+      "token_count": 91,
+      "headings": [
+        "Disclosures"
+      ],
+      "page_numbers": [
+        10
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 402,
+      "word_count": 57,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf"
+    },
+    {
+      "chunk_id": "4119285_figchunk_000",
+      "chunk_index": 50,
+      "document_id": "4119285",
+      "chunk_type": "figure_graph",
+      "text": "## Visual Chart / Graph: Figure on Page 1\n- Source Document: 4119285.pdf (Page 1)\n- Neural Classification: Logo (99.9% confidence) [Model: DocumentFigureClassifier-v2.5]\n- Visual Category: Icon Or Logo\n- Extracted Chart Text & Data Points:\nBRUDERMAN\n\nASSET MANAGEMENT\n- Image File: /media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_000.png\n- S3 Image URL: https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_000.png\n- S3 URI: s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_000.png",
+      "token_count": 126,
+      "headings": [
+        "Figure"
+      ],
+      "page_numbers": [
+        1
+      ],
+      "has_table": false,
+      "has_image": true,
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_000.png",
+      "caption": "",
+      "ocr_text": "BRUDERMAN\n\nASSET MANAGEMENT",
+      "figure_type": "icon_or_logo",
+      "neural_class": "logo",
+      "classification_confidence": 0.9993,
+      "char_length": 406,
+      "word_count": 43,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf",
+      "image_s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_000.png",
+      "image_s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_000.png",
+      "image_sha256": "f78a8df64939eb791e15f38cef784cdec9b323dba6e2e6fc34afa3a6c0cc46bb"
+    },
+    {
+      "chunk_id": "4119285_figchunk_001",
+      "chunk_index": 51,
+      "document_id": "4119285",
+      "chunk_type": "figure_graph",
+      "text": "## Visual Chart / Graph: Figure on Page 2\n- Source Document: 4119285.pdf (Page 2)\n- Neural Classification: Logo (99.9% confidence) [Model: DocumentFigureClassifier-v2.5]\n- Visual Category: Icon Or Logo\n- Extracted Chart Text & Data Points:\n| BRUDERMAN\n\nASSET MANAGEMENT\n- Image File: /media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_001.png\n- S3 Image URL: https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_001.png\n- S3 URI: s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_001.png",
+      "token_count": 127,
+      "headings": [
+        "Figure"
+      ],
+      "page_numbers": [
+        2
+      ],
+      "has_table": false,
+      "has_image": true,
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_001.png",
+      "caption": "",
+      "ocr_text": "| BRUDERMAN\n\nASSET MANAGEMENT",
+      "figure_type": "icon_or_logo",
+      "neural_class": "logo",
+      "classification_confidence": 0.9994,
+      "char_length": 408,
+      "word_count": 44,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf",
+      "image_s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_001.png",
+      "image_s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_001.png",
+      "image_sha256": "0beeaba32e8b00e5c4146e38d9a033bf4ca6f0d40d373734a8b40248734a8402"
+    },
+    {
+      "chunk_id": "4119285_figchunk_002",
+      "chunk_index": 52,
+      "document_id": "4119285",
+      "chunk_type": "figure_graph",
+      "text": "## Visual Chart / Graph: Ex. 2: US virus cases\n- Source Document: 4119285.pdf (Page 2)\n- Neural Classification: Line Chart (97.7% confidence) [Model: DocumentFigureClassifier-v2.5]\n- Visual Category: Chart Graph\n- Caption / Title: Ex. 2: US virus cases\n- Extracted Chart Text & Data Points:\n7,500*\n\n\u2014 Confirmed cases\n5,000= Fatalities\n\n\u2014 Unreported cases\n\n\u2014 Vaccinations\n\n \n\nRolling 7-day cases (thousands)\n\n\u2018Aor 2020 Jul2020 Oct 2020 Jan 2021 Apr 2021\n- Image File: /media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_002.png\n- S3 Image URL: https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_002.png\n- S3 URI: s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_002.png",
+      "token_count": 182,
+      "headings": [
+        "Ex. 2: US virus cases"
+      ],
+      "page_numbers": [
+        2
+      ],
+      "has_table": false,
+      "has_image": true,
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_002.png",
+      "caption": "Ex. 2: US virus cases",
+      "ocr_text": "7,500*\n\n\u2014 Confirmed cases\n5,000= Fatalities\n\n\u2014 Unreported cases\n\n\u2014 Vaccinations\n\n \n\nRolling 7-day cases (thousands)\n\n\u2018Aor 2020 Jul2020 Oct 2020 Jan 2021 Apr 2021",
+      "figure_type": "chart_graph",
+      "neural_class": "line_chart",
+      "classification_confidence": 0.9772,
+      "char_length": 591,
+      "word_count": 74,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf",
+      "image_s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_002.png",
+      "image_s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_002.png",
+      "image_sha256": "3dffb45501b255782fa0bf5560847cb729b94a21285ec84993ad25c05a198978"
+    },
+    {
+      "chunk_id": "4119285_figchunk_003",
+      "chunk_index": 53,
+      "document_id": "4119285",
+      "chunk_type": "figure_graph",
+      "text": "## Visual Chart / Graph: Ex. 3: US herd immunity thresholds\n- Source Document: 4119285.pdf (Page 3)\n- Neural Classification: Line Chart (93.2% confidence) [Model: DocumentFigureClassifier-v2.5]\n- Visual Category: Chart Graph\n- Caption / Title: Ex. 3: US herd immunity thresholds\n- Extracted Chart Text & Data Points:\n10; 100%\n\n \n\n \n\n \n\n2\n\n3 5%\n\n2 1s 2 Fatalities\n\n$ 3 \u2014 + Confirmed cases\n\n5 2.0. - A ir 3 \u2014 + Undocumented cases\n\n2 5 + Vaccinations\n\n\u00a330 $ =\u2014 Susceptible population\n\nE40 25%\n3\u2014\u2014\u2014\u2014\u2014\n\ng\nz\n\n\u2018Apr 2020 Jul 2020 Oct 2020 Jan 2021 Apr 2021\n- Image File: /media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_003.png\n- S3 Image URL: https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_003.png\n- S3 URI: s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_003.png",
+      "token_count": 213,
+      "headings": [
+        "Ex. 3: US herd immunity thresholds"
+      ],
+      "page_numbers": [
+        3
+      ],
+      "has_table": false,
+      "has_image": true,
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_003.png",
+      "caption": "Ex. 3: US herd immunity thresholds",
+      "ocr_text": "10; 100%\n\n \n\n \n\n \n\n2\n\n3 5%\n\n2 1s 2 Fatalities\n\n$ 3 \u2014 + Confirmed cases\n\n5 2.0. - A ir 3 \u2014 + Undocumented cases\n\n2 5 + Vaccinations\n\n\u00a330 $ =\u2014 Susceptible population\n\nE40 25%\n3\u2014\u2014\u2014\u2014\u2014\n\ng\nz\n\n\u2018Apr 2020 Jul 2020 Oct 2020 Jan 2021 Apr 2021",
+      "figure_type": "chart_graph",
+      "neural_class": "line_chart",
+      "classification_confidence": 0.9325,
+      "char_length": 687,
+      "word_count": 101,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf",
+      "image_s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_003.png",
+      "image_s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_003.png",
+      "image_sha256": "2ecc6b8910c2ebaf0d8d1902f7dd409c0a49c9d9a8c6038da53c02fe6d25e0ca"
+    },
+    {
+      "chunk_id": "4119285_figchunk_004",
+      "chunk_index": 54,
+      "document_id": "4119285",
+      "chunk_type": "figure_graph",
+      "text": "## Visual Chart / Graph: Ex. 4: US payrolls drawdown\n- Source Document: 4119285.pdf (Page 3)\n- Neural Classification: Logo (100.0% confidence) [Model: DocumentFigureClassifier-v2.5]\n- Visual Category: Icon Or Logo\n- Caption / Title: Ex. 4: US payrolls drawdown\n- Extracted Chart Text & Data Points:\nBRUDERMAN\n\nASSET MANAGEMENT\n- Image File: /media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_004.png\n- S3 Image URL: https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_004.png\n- S3 URI: s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_004.png",
+      "token_count": 147,
+      "headings": [
+        "Ex. 4: US payrolls drawdown"
+      ],
+      "page_numbers": [
+        3
+      ],
+      "has_table": false,
+      "has_image": true,
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_004.png",
+      "caption": "Ex. 4: US payrolls drawdown",
+      "ocr_text": "BRUDERMAN\n\nASSET MANAGEMENT",
+      "figure_type": "icon_or_logo",
+      "neural_class": "logo",
+      "classification_confidence": 0.9997,
+      "char_length": 465,
+      "word_count": 53,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf",
+      "image_s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_004.png",
+      "image_s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_004.png",
+      "image_sha256": "3656177d2d16888961a93943e24a05c8b05106e7b298fb3a6868979a229d94e2"
+    },
+    {
+      "chunk_id": "4119285_figchunk_005",
+      "chunk_index": 55,
+      "document_id": "4119285",
+      "chunk_type": "figure_graph",
+      "text": "## Visual Chart / Graph: Ex. 5: Job losses by sector\n- Source Document: 4119285.pdf (Page 3)\n- Neural Classification: Bar Chart (85.2% confidence) [Model: DocumentFigureClassifier-v2.5]\n- Visual Category: Chart Graph\n- Caption / Title: Ex. 5: Job losses by sector\n- Extracted Chart Text & Data Points:\nJob losses as % of working population\n\n0%:\n\n10%:\n\n~15%=\n\n  \n \n\n1340\n\n}940-1980: average recovery\nperiod of 10 months\n\n1960 1980\n\n \n\n  \n\n1930-2020: average recover\nperiod of 20 months\n\n \n\n \n\n \n\nGovernment=\nEduca\nProfessional\n\n \n\nManufacturing=\nOther=\n\nRetail\nConstruction =\nWholesale=\nInfor\n\n \n\nTransportation =\nMining\n\nFinancial=\n\n \n\na\na\na\n\u201ca\n\n|\n\ner\n\nsol\n\n2/000 21000 \u00a2\n- Image File: /media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_005.png\n- S3 Image URL: https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_005.png\n- S3 URI: s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_005.png",
+      "token_count": 218,
+      "headings": [
+        "Ex. 5: Job losses by sector"
+      ],
+      "page_numbers": [
+        3
+      ],
+      "has_table": false,
+      "has_image": true,
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_005.png",
+      "caption": "Ex. 5: Job losses by sector",
+      "ocr_text": "Job losses as % of working population\n\n0%:\n\n10%:\n\n~15%=\n\n  \n \n\n1340\n\n}940-1980: average recovery\nperiod of 10 months\n\n1960 1980\n\n \n\n  \n\n1930-2020: average recover\nperiod of 20 months\n\n \n\n \n\n \n\nGovernment=\nEduca\nProfessional\n\n \n\nManufacturing=\nOther=\n\nRetail\nConstruction =\nWholesale=\nInfor\n\n \n\nTransportation =\nMining\n\nFinancial=\n\n \n\na\na\na\n\u201ca\n\n|\n\ner\n\nsol\n\n2/000 21000 \u00a2",
+      "figure_type": "chart_graph",
+      "neural_class": "bar_chart",
+      "classification_confidence": 0.8523,
+      "char_length": 810,
+      "word_count": 103,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf",
+      "image_s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_005.png",
+      "image_s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_005.png",
+      "image_sha256": "d99c7bf44569221ba21cda65c099554702b44acc86db3beeccd614a971ce9bef"
+    },
+    {
+      "chunk_id": "4119285_figchunk_006",
+      "chunk_index": 56,
+      "document_id": "4119285",
+      "chunk_type": "figure_graph",
+      "text": "## Visual Chart / Graph: Ex. 6: Consumer comfort index\n- Source Document: 4119285.pdf (Page 4)\n- Neural Classification: Line Chart (99.7% confidence) [Model: DocumentFigureClassifier-v2.5]\n- Visual Category: Chart Graph\n- Caption / Title: Ex. 6: Consumer comfort index\n- Extracted Chart Text & Data Points:\n\u2018% change year-over-year\n\n409\n\n20%\n\n10%\n\noy\n\n10%\n\n2000\n\n \n\n010\n- Image File: /media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_006.png\n- S3 Image URL: https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_006.png\n- S3 URI: s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_006.png",
+      "token_count": 159,
+      "headings": [
+        "Ex. 6: Consumer comfort index"
+      ],
+      "page_numbers": [
+        4
+      ],
+      "has_table": false,
+      "has_image": true,
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_006.png",
+      "caption": "Ex. 6: Consumer comfort index",
+      "ocr_text": "\u2018% change year-over-year\n\n409\n\n20%\n\n10%\n\noy\n\n10%\n\n2000\n\n \n\n010",
+      "figure_type": "chart_graph",
+      "neural_class": "line_chart",
+      "classification_confidence": 0.9968,
+      "char_length": 508,
+      "word_count": 60,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf",
+      "image_s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_006.png",
+      "image_s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_006.png",
+      "image_sha256": "a6375ce46a8a89e5d14c8f475ddff66e5df00379aaabd82258516ac3e169ad24"
+    },
+    {
+      "chunk_id": "4119285_figchunk_007",
+      "chunk_index": 57,
+      "document_id": "4119285",
+      "chunk_type": "figure_graph",
+      "text": "## Visual Chart / Graph: Figure on Page 4\n- Source Document: 4119285.pdf (Page 4)\n- Neural Classification: Logo (100.0% confidence) [Model: DocumentFigureClassifier-v2.5]\n- Visual Category: Icon Or Logo\n- Extracted Chart Text & Data Points:\n| BRUDERMAN\n\nASSET MANAGEMENT\n- Image File: /media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_007.png\n- S3 Image URL: https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_007.png\n- S3 URI: s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_007.png",
+      "token_count": 128,
+      "headings": [
+        "Figure"
+      ],
+      "page_numbers": [
+        4
+      ],
+      "has_table": false,
+      "has_image": true,
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_007.png",
+      "caption": "",
+      "ocr_text": "| BRUDERMAN\n\nASSET MANAGEMENT",
+      "figure_type": "icon_or_logo",
+      "neural_class": "logo",
+      "classification_confidence": 0.9995,
+      "char_length": 409,
+      "word_count": 44,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf",
+      "image_s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_007.png",
+      "image_s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_007.png",
+      "image_sha256": "7f9437ef928de09f5b2f469122e9ea0261b46f623bc6d63f1e6eb92615e09ebe"
+    },
+    {
+      "chunk_id": "4119285_figchunk_008",
+      "chunk_index": 58,
+      "document_id": "4119285",
+      "chunk_type": "figure_graph",
+      "text": "## Visual Chart / Graph: Figure on Page 4\n- Source Document: 4119285.pdf (Page 4)\n- Neural Classification: Bar Chart (80.7% confidence) [Model: DocumentFigureClassifier-v2.5]\n- Visual Category: Chart Graph\n- Extracted Chart Text & Data Points:\n\u2018Other recreational vehicles ~\nCalculators, typewriters, and other information processing equipment =\nPleasure boats, aircraft, and other recreational vehicles=\n\nOther delvery services (oy non-US. postal facilities) =\n\nPleasure boats\n\nFuneral and burial services ~\n\nClothing materials~\n\nGames toys, and hobbies =\n\nMotorcycles =\n\nComputer software and accessories =\n\nElementary and secondary schoo! lunches =\n\nSpectator sports=\n\nForeign travel by US. residents (129)\n\nEmployment agency services=\n\nRailway transportation =\n\nUS. travel outside the United States =\n\nAdmissions to specified spectator amusements =\n\nLive entertainment, excluding sports =\n\nMotion picture theaters =\n\nMedical expenditures of foreigners = \u2014\n\n~100% -50% 0% 50x\n\n% change from 01/2020\n- Image File: /media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_008.png\n- S3 Image URL: https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_008.png\n- S3 URI: s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_008.png",
+      "token_count": 266,
+      "headings": [
+        "Figure"
+      ],
+      "page_numbers": [
+        4
+      ],
+      "has_table": false,
+      "has_image": true,
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_008.png",
+      "caption": "",
+      "ocr_text": "\u2018Other recreational vehicles ~\nCalculators, typewriters, and other information processing equipment =\nPleasure boats, aircraft, and other recreational vehicles=\n\nOther delvery services (oy non-US. postal facilities) =\n\nPleasure boats\n\nFuneral and burial services ~\n\nClothing materials~\n\nGames toys, and hobbies =\n\nMotorcycles =\n\nComputer software and accessories =\n\nElementary and secondary schoo! lunches =\n\nSpectator sports=\n\nForeign travel by US. residents (129)\n\nEmployment agency services=\n\nRailway transportation =\n\nUS. travel outside the United States =\n\nAdmissions to specified spectator amusements =\n\nLive entertainment, excluding sports =\n\nMotion picture theaters =\n\nMedical expenditures of foreigners = \u2014\n\n~100% -50% 0% 50x\n\n% change from 01/2020",
+      "figure_type": "chart_graph",
+      "neural_class": "bar_chart",
+      "classification_confidence": 0.8068,
+      "char_length": 1140,
+      "word_count": 144,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf",
+      "image_s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_008.png",
+      "image_s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_008.png",
+      "image_sha256": "516074a9826cadec3f660b2ef8fa870b3839dd6ce33ebff4a7d954fd4d39a8dd"
+    },
+    {
+      "chunk_id": "4119285_figchunk_009",
+      "chunk_index": 59,
+      "document_id": "4119285",
+      "chunk_type": "figure_graph",
+      "text": "## Visual Chart / Graph: Figure on Page 4\n- Source Document: 4119285.pdf (Page 4)\n- Neural Classification: Bar Chart (99.9% confidence) [Model: DocumentFigureClassifier-v2.5]\n- Visual Category: Chart Graph\n- Extracted Chart Text & Data Points:\nLikely to visit medical offices - as\nLikely to vist estvarans~\nikely to use restaurant delvery~\nLikely to vst movie theaters I\nikelyto order on-ine, pick-up in-store -\nLikely to vist museuns-\nLikely to vist amusement pars~ |\nPrefer employers provide clear pandemic plans-\nMore concemed about fami heat; ~ i\nicing quidelines-\n\n \n\n \n \n \n \n  \n \n \n\n  \n\n \n\n  \n\nPrefer er\n\n \n\nyers provide social dist\n\n \n\n \n\n   \n\nLikely to visit sporting events-\nLikely use grocery celvery-\nMore time watching eev:ion-\n\n   \n\nNore te cooKro-\nMore time shopping on-ine-\nPrefer to work only remotely A\no& 85 ter\n\n% responding\n- Image File: /media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_009.png\n- S3 Image URL: https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_009.png\n- S3 URI: s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_009.png",
+      "token_count": 266,
+      "headings": [
+        "Figure"
+      ],
+      "page_numbers": [
+        4
+      ],
+      "has_table": false,
+      "has_image": true,
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_009.png",
+      "caption": "",
+      "ocr_text": "Likely to visit medical offices - as\nLikely to vist estvarans~\nikely to use restaurant delvery~\nLikely to vst movie theaters I\nikelyto order on-ine, pick-up in-store -\nLikely to vist museuns-\nLikely to vist amusement pars~ |\nPrefer employers provide clear pandemic plans-\nMore concemed about fami heat; ~ i\nicing quidelines-\n\n \n\n \n \n \n \n  \n \n \n\n  \n\n \n\n  \n\nPrefer er\n\n \n\nyers provide social dist\n\n \n\n \n\n   \n\nLikely to visit sporting events-\nLikely use grocery celvery-\nMore time watching eev:ion-\n\n   \n\nNore te cooKro-\nMore time shopping on-ine-\nPrefer to work only remotely A\no& 85 ter\n\n% responding",
+      "figure_type": "chart_graph",
+      "neural_class": "bar_chart",
+      "classification_confidence": 0.9985,
+      "char_length": 982,
+      "word_count": 130,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf",
+      "image_s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_009.png",
+      "image_s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_009.png",
+      "image_sha256": "a162a36e6a3ba89436d34f4ce946a0ee1a04599b0f0a26ddb93b689cb4aa7b4a"
+    },
+    {
+      "chunk_id": "4119285_figchunk_010",
+      "chunk_index": 60,
+      "document_id": "4119285",
+      "chunk_type": "figure_graph",
+      "text": "## Visual Chart / Graph: Ex. 9: Change in revenue vs 2020 industry group return\n- Source Document: 4119285.pdf (Page 5)\n- Neural Classification: Scatter Plot (60.9% confidence) [Model: DocumentFigureClassifier-v2.5]\n- Visual Category: Chart Graph\n- Caption / Title: Ex. 9: Change in revenue vs 2020 industry group return\n- Extracted Chart Text & Data Points:\n2020 stock return\n\n150%- \u2018Automotive Retail @ | @ Housewares & Specialties\n\n   \n    \n\nHome Furnishings\nInternet & Direct Marketing Re\n\n \n\njoo Alyminum\nImeractie Meda & Services \u00b0\nee\n5% casinos & caring \u00b0\u00b0 \u00b0\u00b0\n\u00b0 ult\n\u00b0 eB, oo Nii-Sector Holdings\n\n    \n\n\u00a9 og Diversified Banks\n\nMines @ Mortgage REIS\n=50%= Oil & Gas Driling @\n~30% -2% 0% 25% 30%\n\n2020 % change in revenue\n- Image File: /media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_010.png\n- S3 Image URL: https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_010.png\n- S3 URI: s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_010.png",
+      "token_count": 248,
+      "headings": [
+        "Ex. 9: Change in revenue vs 2020 industry group return"
+      ],
+      "page_numbers": [
+        5
+      ],
+      "has_table": false,
+      "has_image": true,
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_010.png",
+      "caption": "Ex. 9: Change in revenue vs 2020 industry group return",
+      "ocr_text": "2020 stock return\n\n150%- \u2018Automotive Retail @ | @ Housewares & Specialties\n\n   \n    \n\nHome Furnishings\nInternet & Direct Marketing Re\n\n \n\njoo Alyminum\nImeractie Meda & Services \u00b0\nee\n5% casinos & caring \u00b0\u00b0 \u00b0\u00b0\n\u00b0 ult\n\u00b0 eB, oo Nii-Sector Holdings\n\n    \n\n\u00a9 og Diversified Banks\n\nMines @ Mortgage REIS\n=50%= Oil & Gas Driling @\n~30% -2% 0% 25% 30%\n\n2020 % change in revenue",
+      "figure_type": "chart_graph",
+      "neural_class": "scatter_plot",
+      "classification_confidence": 0.6085,
+      "char_length": 865,
+      "word_count": 124,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf",
+      "image_s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_010.png",
+      "image_s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_010.png",
+      "image_sha256": "2e57c6b60beab7eb9ee038f29bf16974f0ce8cedd4eb9cf2ac6645c892c45fa3"
+    },
+    {
+      "chunk_id": "4119285_figchunk_011",
+      "chunk_index": 61,
+      "document_id": "4119285",
+      "chunk_type": "figure_graph",
+      "text": "## Visual Chart / Graph: Figure on Page 5\n- Source Document: 4119285.pdf (Page 5)\n- Neural Classification: Logo (99.9% confidence) [Model: DocumentFigureClassifier-v2.5]\n- Visual Category: Icon Or Logo\n- Extracted Chart Text & Data Points:\n| BRUDERMAN\n\nASSET MANAGEMENT\n- Image File: /media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_011.png\n- S3 Image URL: https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_011.png\n- S3 URI: s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_011.png",
+      "token_count": 128,
+      "headings": [
+        "Figure"
+      ],
+      "page_numbers": [
+        5
+      ],
+      "has_table": false,
+      "has_image": true,
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_011.png",
+      "caption": "",
+      "ocr_text": "| BRUDERMAN\n\nASSET MANAGEMENT",
+      "figure_type": "icon_or_logo",
+      "neural_class": "logo",
+      "classification_confidence": 0.9994,
+      "char_length": 408,
+      "word_count": 44,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf",
+      "image_s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_011.png",
+      "image_s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_011.png",
+      "image_sha256": "0beeaba32e8b00e5c4146e38d9a033bf4ca6f0d40d373734a8b40248734a8402"
+    },
+    {
+      "chunk_id": "4119285_figchunk_012",
+      "chunk_index": 62,
+      "document_id": "4119285",
+      "chunk_type": "figure_graph",
+      "text": "## Visual Chart / Graph: Ex. 11: Capital structure of potential zombies\n- Source Document: 4119285.pdf (Page 6)\n- Neural Classification: Line Chart (95.6% confidence) [Model: DocumentFigureClassifier-v2.5]\n- Visual Category: Chart Graph\n- Caption / Title: Ex. 11: Capital structure of potential zombies\n- Extracted Chart Text & Data Points:\n$300,000\n\nH Cash\n\nE s200000-\n3 Long-term debt\n3 | Market capitalization\n@ $100,000-\n8 \u2014 Free cash low\n\n$0-\n\n \n\ne190 ons 0\n- Image File: /media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_012.png\n- S3 Image URL: https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_012.png\n- S3 URI: s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_012.png",
+      "token_count": 184,
+      "headings": [
+        "Ex. 11: Capital structure of potential zombies"
+      ],
+      "page_numbers": [
+        6
+      ],
+      "has_table": false,
+      "has_image": true,
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_012.png",
+      "caption": "Ex. 11: Capital structure of potential zombies",
+      "ocr_text": "$300,000\n\nH Cash\n\nE s200000-\n3 Long-term debt\n3 | Market capitalization\n@ $100,000-\n8 \u2014 Free cash low\n\n$0-\n\n \n\ne190 ons 0",
+      "figure_type": "chart_graph",
+      "neural_class": "line_chart",
+      "classification_confidence": 0.9559,
+      "char_length": 601,
+      "word_count": 77,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf",
+      "image_s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_012.png",
+      "image_s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_012.png",
+      "image_sha256": "e038f473137be84c9327d95b14ef57ddc8aa504b0338c11c06d84eb60a104de2"
+    },
+    {
+      "chunk_id": "4119285_figchunk_013",
+      "chunk_index": 63,
+      "document_id": "4119285",
+      "chunk_type": "figure_graph",
+      "text": "## Visual Chart / Graph: Ex. 12: Federal budget deficit as a % of GDP\n- Source Document: 4119285.pdf (Page 6)\n- Neural Classification: Line Chart (98.0% confidence) [Model: DocumentFigureClassifier-v2.5]\n- Visual Category: Chart Graph\n- Caption / Title: Ex. 12: Federal budget deficit as a % of GDP\n- Extracted Chart Text & Data Points:\n10%\n\ndD Jo % wDYEP \u00a5o6pnq jer9pe4\n- Image File: /media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_013.png\n- S3 Image URL: https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_013.png\n- S3 URI: s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_013.png",
+      "token_count": 167,
+      "headings": [
+        "Ex. 12: Federal budget deficit as a % of GDP"
+      ],
+      "page_numbers": [
+        6
+      ],
+      "has_table": false,
+      "has_image": true,
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_013.png",
+      "caption": "Ex. 12: Federal budget deficit as a % of GDP",
+      "ocr_text": "10%\n\ndD Jo % wDYEP \u00a5o6pnq jer9pe4",
+      "figure_type": "chart_graph",
+      "neural_class": "line_chart",
+      "classification_confidence": 0.9802,
+      "char_length": 509,
+      "word_count": 67,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf",
+      "image_s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_013.png",
+      "image_s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_013.png",
+      "image_sha256": "c953a4ea875810ded7da34953ce07ef2789d98faf8523a0aabb2af585a256b48"
+    },
+    {
+      "chunk_id": "4119285_figchunk_014",
+      "chunk_index": 64,
+      "document_id": "4119285",
+      "chunk_type": "figure_graph",
+      "text": "## Visual Chart / Graph: Figure on Page 6\n- Source Document: 4119285.pdf (Page 6)\n- Neural Classification: Logo (100.0% confidence) [Model: DocumentFigureClassifier-v2.5]\n- Visual Category: Icon Or Logo\n- Extracted Chart Text & Data Points:\nBRUDERMAN\n\nASSET MANAGEMENT\n- Image File: /media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_014.png\n- S3 Image URL: https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_014.png\n- S3 URI: s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_014.png",
+      "token_count": 127,
+      "headings": [
+        "Figure"
+      ],
+      "page_numbers": [
+        6
+      ],
+      "has_table": false,
+      "has_image": true,
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_014.png",
+      "caption": "",
+      "ocr_text": "BRUDERMAN\n\nASSET MANAGEMENT",
+      "figure_type": "icon_or_logo",
+      "neural_class": "logo",
+      "classification_confidence": 0.9997,
+      "char_length": 407,
+      "word_count": 43,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf",
+      "image_s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_014.png",
+      "image_s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_014.png",
+      "image_sha256": "3656177d2d16888961a93943e24a05c8b05106e7b298fb3a6868979a229d94e2"
+    },
+    {
+      "chunk_id": "4119285_figchunk_015",
+      "chunk_index": 65,
+      "document_id": "4119285",
+      "chunk_type": "figure_graph",
+      "text": "## Visual Chart / Graph: Ex. 13: Federal government debt & money supply\n- Source Document: 4119285.pdf (Page 6)\n- Neural Classification: Line Chart (99.2% confidence) [Model: DocumentFigureClassifier-v2.5]\n- Visual Category: Chart Graph\n- Caption / Title: Ex. 13: Federal government debt & money supply\n- Extracted Chart Text & Data Points:\n\u2014 Outstanding debt\n\u2014 M2 money supply\n- Image File: /media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_015.png\n- S3 Image URL: https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_015.png\n- S3 URI: s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_015.png",
+      "token_count": 151,
+      "headings": [
+        "Ex. 13: Federal government debt & money supply"
+      ],
+      "page_numbers": [
+        6
+      ],
+      "has_table": false,
+      "has_image": true,
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_015.png",
+      "caption": "Ex. 13: Federal government debt & money supply",
+      "ocr_text": "\u2014 Outstanding debt\n\u2014 M2 money supply",
+      "figure_type": "chart_graph",
+      "neural_class": "line_chart",
+      "classification_confidence": 0.9921,
+      "char_length": 516,
+      "word_count": 63,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf",
+      "image_s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_015.png",
+      "image_s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_015.png",
+      "image_sha256": "9b4538e426787036029a8f7cd15158cc0df91a7a7949bb0da2f29cbe31748117"
+    },
+    {
+      "chunk_id": "4119285_figchunk_016",
+      "chunk_index": 66,
+      "document_id": "4119285",
+      "chunk_type": "figure_graph",
+      "text": "## Visual Chart / Graph: Ex. 14: Federal government debt / GDP\n- Source Document: 4119285.pdf (Page 6)\n- Neural Classification: Line Chart (96.5% confidence) [Model: DocumentFigureClassifier-v2.5]\n- Visual Category: Chart Graph\n- Caption / Title: Ex. 14: Federal government debt / GDP\n- Extracted Chart Text & Data Points:\n(% of GDP)\n\n150%-\n\n100%-\n\n \n\n\u2014 Outstanding debt\nOutstanding debt\nless money supply\n\n2000 2020\n- Image File: /media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_016.png\n- S3 Image URL: https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_016.png\n- S3 URI: s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_016.png",
+      "token_count": 163,
+      "headings": [
+        "Ex. 14: Federal government debt / GDP"
+      ],
+      "page_numbers": [
+        6
+      ],
+      "has_table": false,
+      "has_image": true,
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_016.png",
+      "caption": "Ex. 14: Federal government debt / GDP",
+      "ocr_text": "(% of GDP)\n\n150%-\n\n100%-\n\n \n\n\u2014 Outstanding debt\nOutstanding debt\nless money supply\n\n2000 2020",
+      "figure_type": "chart_graph",
+      "neural_class": "line_chart",
+      "classification_confidence": 0.9652,
+      "char_length": 555,
+      "word_count": 69,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf",
+      "image_s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_016.png",
+      "image_s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_016.png",
+      "image_sha256": "dcf340941fd5f7da6f72aedbe008339d75295652f7e72d49f31b88b67e77db52"
+    },
+    {
+      "chunk_id": "4119285_figchunk_017",
+      "chunk_index": 67,
+      "document_id": "4119285",
+      "chunk_type": "figure_graph",
+      "text": "## Visual Chart / Graph: Ex. 15: Federal debt interest payments / GDP\n- Source Document: 4119285.pdf (Page 7)\n- Neural Classification: Line Chart (97.8% confidence) [Model: DocumentFigureClassifier-v2.5]\n- Visual Category: Chart Graph\n- Caption / Title: Ex. 15: Federal debt interest payments / GDP\n- Extracted Chart Text & Data Points:\n(% of GDP)\n\n \n\n1%\n\n \n\n\u201860\n\n380\n\n2000\n\n2020\n- Image File: /media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_017.png\n- S3 Image URL: https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_017.png\n- S3 URI: s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_017.png",
+      "token_count": 156,
+      "headings": [
+        "Ex. 15: Federal debt interest payments / GDP"
+      ],
+      "page_numbers": [
+        7
+      ],
+      "has_table": false,
+      "has_image": true,
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_017.png",
+      "caption": "Ex. 15: Federal debt interest payments / GDP",
+      "ocr_text": "(% of GDP)\n\n \n\n1%\n\n \n\n\u201860\n\n380\n\n2000\n\n2020",
+      "figure_type": "chart_graph",
+      "neural_class": "line_chart",
+      "classification_confidence": 0.9775,
+      "char_length": 518,
+      "word_count": 64,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf",
+      "image_s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_017.png",
+      "image_s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_017.png",
+      "image_sha256": "c56333ac973f63fc3aac76e257f9bdf9ffda890d59389648a01086f2baa62f88"
+    },
+    {
+      "chunk_id": "4119285_figchunk_018",
+      "chunk_index": 68,
+      "document_id": "4119285",
+      "chunk_type": "figure_graph",
+      "text": "## Visual Chart / Graph: Figure on Page 7\n- Source Document: 4119285.pdf (Page 7)\n- Neural Classification: Logo (99.9% confidence) [Model: DocumentFigureClassifier-v2.5]\n- Visual Category: Icon Or Logo\n- Extracted Chart Text & Data Points:\nBRUDERMAN\n\nASSET MANAGEMENT\n- Image File: /media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_018.png\n- S3 Image URL: https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_018.png\n- S3 URI: s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_018.png",
+      "token_count": 127,
+      "headings": [
+        "Figure"
+      ],
+      "page_numbers": [
+        7
+      ],
+      "has_table": false,
+      "has_image": true,
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_018.png",
+      "caption": "",
+      "ocr_text": "BRUDERMAN\n\nASSET MANAGEMENT",
+      "figure_type": "icon_or_logo",
+      "neural_class": "logo",
+      "classification_confidence": 0.9994,
+      "char_length": 406,
+      "word_count": 43,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf",
+      "image_s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_018.png",
+      "image_s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_018.png",
+      "image_sha256": "ac5f47fa1ba20b78b6269c47d74bbbe765e858ca4755955bd66c6404d5c6086f"
+    },
+    {
+      "chunk_id": "4119285_figchunk_019",
+      "chunk_index": 69,
+      "document_id": "4119285",
+      "chunk_type": "figure_graph",
+      "text": "## Visual Chart / Graph: Ex. 16: Deficit spending cumulative 10y IRR\n- Source Document: 4119285.pdf (Page 7)\n- Neural Classification: Line Chart (99.4% confidence) [Model: DocumentFigureClassifier-v2.5]\n- Visual Category: Chart Graph\n- Caption / Title: Ex. 16: Deficit spending cumulative 10y IRR\n- Image File: /media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_019.png\n- S3 Image URL: https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_019.png\n- S3 URI: s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_019.png",
+      "token_count": 138,
+      "headings": [
+        "Ex. 16: Deficit spending cumulative 10y IRR"
+      ],
+      "page_numbers": [
+        7
+      ],
+      "has_table": false,
+      "has_image": true,
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_019.png",
+      "caption": "Ex. 16: Deficit spending cumulative 10y IRR",
+      "ocr_text": "",
+      "figure_type": "chart_graph",
+      "neural_class": "line_chart",
+      "classification_confidence": 0.9935,
+      "char_length": 435,
+      "word_count": 47,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf",
+      "image_s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_019.png",
+      "image_s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_019.png",
+      "image_sha256": "e4acf71c3b1ae4b87723fd1d7d9415ce7150006e81b0603d50562721e5475f76"
+    },
+    {
+      "chunk_id": "4119285_figchunk_020",
+      "chunk_index": 70,
+      "document_id": "4119285",
+      "chunk_type": "figure_graph",
+      "text": "## Visual Chart / Graph: Figure on Page 8\n- Source Document: 4119285.pdf (Page 8)\n- Neural Classification: Logo (100.0% confidence) [Model: DocumentFigureClassifier-v2.5]\n- Visual Category: Icon Or Logo\n- Extracted Chart Text & Data Points:\nBRUDERMAN\n\nASSET MANAGEMENT\n- Image File: /media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_020.png\n- S3 Image URL: https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_020.png\n- S3 URI: s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_020.png",
+      "token_count": 127,
+      "headings": [
+        "Figure"
+      ],
+      "page_numbers": [
+        8
+      ],
+      "has_table": false,
+      "has_image": true,
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_020.png",
+      "caption": "",
+      "ocr_text": "BRUDERMAN\n\nASSET MANAGEMENT",
+      "figure_type": "icon_or_logo",
+      "neural_class": "logo",
+      "classification_confidence": 0.9997,
+      "char_length": 407,
+      "word_count": 43,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf",
+      "image_s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_020.png",
+      "image_s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_020.png",
+      "image_sha256": "caec2ba4893660a091644e38952902313e6477afb8dfa1cbd7389bdd1049c283"
+    },
+    {
+      "chunk_id": "4119285_figchunk_021",
+      "chunk_index": 71,
+      "document_id": "4119285",
+      "chunk_type": "figure_graph",
+      "text": "## Visual Chart / Graph: Figure on Page 9\n- Source Document: 4119285.pdf (Page 9)\n- Neural Classification: Logo (100.0% confidence) [Model: DocumentFigureClassifier-v2.5]\n- Visual Category: Icon Or Logo\n- Extracted Chart Text & Data Points:\nBRUDERMAN\n\nASSET MANAGEMENT\n- Image File: /media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_021.png\n- S3 Image URL: https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_021.png\n- S3 URI: s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_021.png",
+      "token_count": 127,
+      "headings": [
+        "Figure"
+      ],
+      "page_numbers": [
+        9
+      ],
+      "has_table": false,
+      "has_image": true,
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_021.png",
+      "caption": "",
+      "ocr_text": "BRUDERMAN\n\nASSET MANAGEMENT",
+      "figure_type": "icon_or_logo",
+      "neural_class": "logo",
+      "classification_confidence": 0.9997,
+      "char_length": 407,
+      "word_count": 43,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf",
+      "image_s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_021.png",
+      "image_s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_021.png",
+      "image_sha256": "caec2ba4893660a091644e38952902313e6477afb8dfa1cbd7389bdd1049c283"
+    },
+    {
+      "chunk_id": "4119285_figchunk_022",
+      "chunk_index": 72,
+      "document_id": "4119285",
+      "chunk_type": "figure_graph",
+      "text": "## Visual Chart / Graph: Figure on Page 10\n- Source Document: 4119285.pdf (Page 10)\n- Neural Classification: Logo (100.0% confidence) [Model: DocumentFigureClassifier-v2.5]\n- Visual Category: Icon Or Logo\n- Extracted Chart Text & Data Points:\nBRUDERMAN\n\nASSET MANAGEMENT\n- Image File: /media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_022.png\n- S3 Image URL: https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_022.png\n- S3 URI: s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_022.png",
+      "token_count": 127,
+      "headings": [
+        "Figure"
+      ],
+      "page_numbers": [
+        10
+      ],
+      "has_table": false,
+      "has_image": true,
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/4119285/4119285_fig_022.png",
+      "caption": "",
+      "ocr_text": "BRUDERMAN\n\nASSET MANAGEMENT",
+      "figure_type": "icon_or_logo",
+      "neural_class": "logo",
+      "classification_confidence": 0.9997,
+      "char_length": 409,
+      "word_count": 43,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/4119285/4119285.pdf",
+      "image_s3_uri": "s3://multimodal-rag-data-nov14/figures/4119285/4119285_fig_022.png",
+      "image_s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/4119285/4119285_fig_022.png",
+      "image_sha256": "caec2ba4893660a091644e38952902313e6477afb8dfa1cbd7389bdd1049c283"
+    }
+  ]
+}

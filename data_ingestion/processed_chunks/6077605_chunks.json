@@ -1,0 +1,1889 @@
+{
+  "document_id": "6077605",
+  "filename": "6077605.pdf",
+  "local_path": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf",
+  "page_count": 14,
+  "table_count": 5,
+  "picture_count": 5,
+  "total_chunks": 81,
+  "tokenizer": {
+    "type": "sentence-transformers",
+    "max_tokens": 220
+  },
+  "markdown_text": "## Marry Your Like: Assortative Mating and Income Inequality \u2020\n\nBy Jeremy Greenwood, Nezih Guner, Georgi Kocharkov, and Cezar Santos*\n\nHas there been an increase in positive assortative mating on the marriage market since 1960? How does positive assortative mating in the marriage market contribute to income inequality across households? These two questions are addressed here. To answer them, samples of hundreds of thousands of households from the United States Census Bureau are analyzed for the period 1960 to 2005.\n\n## I. The Rise in Positive Assortative Mating\n\nStart with the first question: Has there been a rise in positive assortative mating in marriage across US households? To address this question, consider a regression between a wife's educational level and her husband's. In particular, a regression of the following form is run for the years y = 1960, 1970, 1980, 1990, 2000, 2005:\n\n<!-- formula-not-decoded -->\n\n* Greenwood: Department of Economics, University of Pennsylvania, 3718 Locust Walk, Philadelphia, PA 19104-6297; Guner: MOVE, Facultat d'Economia, Edifici B, Campus de Bellaterra, 08193 Bellaterra, Cerdanyola del Vall\u00e8s, Spain (e-mail: nezih.guner@movebarcelona. eu); Kocharkov: Department of Economics, University of Konstanz, Universit\u00e4tsstr. 10, 78457 Konstanz, Germany (e-mail: georgi@georgikocharkov.com); Santos: Department of Economics, University of Mannheim, L7, 3-5, 68131 Mannheim, Germany (e-mail: santos@uni-mannheim.de). Additionally, Nezih Guner thanks the European Research Council (ERC Grant 263600). Additional information about this research is provided in the online Appendix.\n\n\u2020 Go to http://dx.doi.org/10.1257/aer.104.5.348 to visit the article page for additional materials and author disclosure statement(s).\n\n\u03b3t\n\nFigure 1. The Rise In Positive Assortative Mating, 1960-2005\n\n<!-- image -->\n\nLine chart\n\nNotes: The variables \u03b3t , \u03c4t , and \u03b4t are measures of assortative mating for the years t = 1960, 1970, \u2026 , 2000, 2005. A higher value for a variable shows a higher degree of positive assortative mating. See the text for a description of the variables.\n\nSource: See the online Appendix for a description of the data used in all figures and tables.\n\nHere edu my h and edu my w represent the years of education for the husband and wife in marriage m for year y. The variable yearty is a time dummy. It is set up so that yearty = 1, if t = y, and yearty = 0, if t \u2260 y, where t \u2208 \uf774 \u2261 {1970, 1980, 1990, 2000, 2005}. The coefficient \u03b2 measures the impact of a husband's education on his wife's for the baseline year 1960, since yearty = 0, for all t, when y = 1960. The coefficient \u03b3t gives the additional impact of a husband's education on his wife's relative to the baseline year, 1960. The evolution of \u03b3t over time speaks to changes in the degree of assortative mating. The regression also includes a fixed effect for each year as measured by the constants \u03b1 and \u03b8t. The \u03b8ts control for the secular rise in the educational levels for the married population. The left-hand-side panel of Figure 1 plots the upshot of the regression analysis. As can be seen, \u03b3t rises over time, implying that the degree of assortative mating has increased.\n\nThe levels of education are collapsed into five categories for the rest of the analysis: less than high school (HS-), high school (HS ), some \u00adcollege (C-), college (C ), and post college (C+). Kendall's \u03c4 rank correlation is computed between a husband's and wife's education for each year. The changes in Kendall's \u03c4 over time are illustrated in Figure 1, right-hand-side panel. While the series displays some nonmonotonicity, Kendall's \u03c4 is clearly higher in 2005 relative to 1960.\n\nLast, the pattern of assortative mating between a husband's and wife's educational levels can be examined in a contingency table, as the upper panel in Table 1 does. Each cell in the contingency table for a year gives the observed fraction of married households that occurs in that educational pairing. The diagonal of the contingency table describes the matches that occur when husband and wife have identical educational levels. One can also construct the contingency tables that would obtain for each year if husbands and wives matched randomly. These are presented in the online Appendix for the years 1960 and 2005. Take the sum along the diagonal for each of these two types of matches, actual and random. Next, compute the ratio of the actual to random matches and denote it by \u03b4. This ratio is also plotted in Figure 1, right-handside panel, for the years 1960, 1970, \u22ef , 2005. First, as can be seen, there is positive assortative mating. That is, the ratios are larger than one, implying that the number of matches between husband and wife with the identical education level is larger than what would occur if matching was random. Second, they increase over time. Greenwood et al. (2012) present a structural model of this rise in positive assortative mating.\n\n## II. Assortative Mating and Income Inequality\n\nTurn to the second question: How does marital sorting affect household income inequality? Interest in this question is not without precedence. For example, Cancian and Reed (1998) and Schwartz (2010) both conclude that an increase in assortative mating has led to a rise in income inequality. Fern\u00e1ndez and Rogerson (2001) study a model of intergenerational mobility and show that higher marital sorting significantly increases long-run inequality. The current research addresses this question using an \u00adaccounting-based methodology, which is quite different from other studies. Some income statistics for married households by educational class are presented in the lower panel of Table 1. Each cell gives the married household's income relative to mean income in the economy across all households, married and/or single. In 1960 if a woman with a less-than-high-school education (HS-) married a similarly educated man their household income would be 77 percent of mean household income. If that same woman married a man with a college education (C ) then household income would be 123 percent of the mean. Alternatively, in 2005 if a woman with post-college education (C+) marries a man with a less-than-high-school education their income would be 92 percent of mean household income. This rises to 219 percent if her husband also has a post-college education. So, at some level, sorting matters for household income.\n\n## A. Constructing Lorenz Curves and Gini Coefficients\n\nLet f ij denote the fraction of households in the United States that are of type i in income percentile j and rij represent the income of such a household relative to mean household income. The percentile index j is expressed in terms of fractions (e.g., 0.10 instead of 10). The types are classified as follows: There are married and single households. In a married household each person is indexed by one of the above educational levels. The wife is also categorized by whether she works or not. Singles are just classified by their educational levels. There are ten income percentiles (deciles) so j \u2208 {0.1, 0.2, \u2026 , 1.0}. This leads to 550 (i, j)-combinations of households in total for each year. The share of aggregate income that percentile j accounts for, sj , is given by sj = \u2211 i f ij rij. The cumulative share of income at percentile p is thus lp \u2261 \u2211 j p sj = \u2211 j p \u2211 i f ij rij . A Lorenz curve plots lp against p = \u2211 j p \u2211 i f ij . The Gini coefficient, g, is twice the area between the Lorenz curve and the 45\u00ba line. If p moves continuously then the Gini coefficient is defined by g = 2 \u222b 0 1 | lp - p | dp, where 0 \u2264 g \u2264 1. A higher value for g implies a greater degree of income inequality. The Lorenz curve and Gini coefficient are clearly functions Notes: In the top panel each cell gives the observed fraction of married households that lie in the indicated educational pairing between husbands and wives. In the bottom panel a cell denotes household income for a pairing relative to mean income across all households. Household income in each cell is adjusted by an equivalence scale to account for the differences in household size (including children). The row marked marginal distribution gives the fraction of females in each educational category; i.e., the marginal distribution over education for females.\n\nTable 1-Contingency Tables: Assortative Mating and Income by Educational Class\n\n|                                        |                                        |                                        |                                        |                                        |                                        |\n|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|\n| Marital sorting by educational pairing | Marital sorting by educational pairing | Marital sorting by educational pairing | Marital sorting by educational pairing | Marital sorting by educational pairing | Marital sorting by educational pairing |\n| Husband                                |                                        |                                        | Wife                                   |                                        |                                        |\n|                                        | HS-                                    | HS                                     | C-                                     | C                                      | C+                                     |\n| 1960                                   |                                        |                                        |                                        |                                        |                                        |\n| HS-                                    | 0.323                                  | 0.138                                  | 0.019                                  | 0.004                                  | 0.001                                  |\n| HS                                     | 0.076                                  | 0.165                                  | 0.028                                  | 0.008                                  | 0.002                                  |\n| C-                                     | 0.018                                  | 0.051                                  | 0.027                                  | 0.008                                  | 0.002                                  |\n| C                                      | 0.005                                  | 0.027                                  | 0.019                                  | 0.018                                  | 0.003                                  |\n| C+                                     | 0.003                                  | 0.016                                  | 0.017                                  | 0.016                                  | 0.008                                  |\n| Marginal distribution, wives           | 0.425                                  | 0.396                                  | 0.110                                  | 0.054                                  | 0.016                                  |\n| 2005                                   |                                        |                                        |                                        |                                        |                                        |\n| HS-                                    | 0.039                                  | 0.031                                  | 0.010                                  | 0.003                                  | 0.001                                  |\n| HS                                     | 0.023                                  | 0.192                                  | 0.082                                  | 0.037                                  | 0.012                                  |\n| C-                                     | 0.005                                  | 0.065                                  | 0.088                                  | 0.047                                  | 0.016                                  |\n| C                                      | 0.002                                  | 0.030                                  | 0.045                                  | 0.104                                  | 0.037                                  |\n| C+                                     | 0.001                                  | 0.010                                  | 0.018                                  | 0.050                                  | 0.053                                  |\n| Marginal distribution, wives           | 0.070                                  | 0.329                                  | 0.242                                  | 0.241                                  | 0.118                                  |\n| Marital income by educational pairing  | Marital income by educational pairing  | Marital income by educational pairing  | Marital income by educational pairing  | Marital income by educational pairing  | Marital income by educational pairing  |\n| 1960                                   |                                        |                                        |                                        |                                        |                                        |\n| HS-                                    | 0.765                                  | 0.918                                  | 1.040                                  | 1.243                                  | 1.395                                  |\n| HS                                     | 0.935                                  | 1.031                                  | 1.148                                  | 1.344                                  | 1.581                                  |\n| C-                                     | 1.071                                  | 1.185                                  | 1.278                                  | 1.442                                  | 1.593                                  |\n| C                                      | 1.234                                  | 1.349                                  | 1.420                                  | 1.529                                  | 1.673                                  |\n| C+                                     | 1.357                                  | 1.476                                  | 1.568                                  | 1.631                                  | 1.764                                  |\n| 2005                                   |                                        |                                        |                                        |                                        |                                        |\n| HS-                                    | 0.409                                  | 0.586                                  | 0.692                                  | 0.904                                  | 0.918                                  |\n| HS                                     | 0.554                                  | 0.827                                  | 0.932                                  | 1.166                                  | 1.327                                  |\n| C-                                     | 0.661                                  | 0.958                                  | 1.042                                  | 1.255                                  | 1.434                                  |\n| C                                      | 0.852                                  | 1.250                                  | 1.335                                  | 1.600                                  | 1.793                                  |\n| C+                                     | 1.303                                  | 1.495                                  | 1.666                                  | 1.896                                  | 2.193                                  |\n\nSource: Again, see the online Appendix for a description of the data used in all figures and tables.\n\nof the f ijs and the rijs, for all i and j, so write lp = Lorenzp({ f ij}, {rij}) and g = Gini({ f ij}, {rij}).\n\nThe Lorenz curves for 1960 and 2005 are pictured in the left-hand-side panel of Figure 2. They show a rise in inequality. The Gini coefficient rises from 0.34 to 0.43. The right-handside panel shows the relative income for each percentile. In 1960 a household at the tenth percentile earned 16 percent of mean income. This dropped to 8 percent in 2005. A household in the ninetieth percentile earned 251 percent of mean income in 1960 versus 317 percent in 2005. Incomes are more polarized in 2005. The change in wages across individuals is the primary driver of this increase in income inequality.\n\n## B. Assortative versus Random Matching\n\nSuppose that matching was random instead of assortative. What would have happened to the Notes: The right-hand-side panel shows average income for a household in the j-th percentile relative to mean household income in the economy. The left-hand-side panel shows the Lorenz curves for 1960 and 2005. See the online Appendix for more detail on how the Lorenz curves are constructed.\n\nFigure 2. Income Inequality, 1960 and 2005\n\n<!-- image -->\n\nLine chart\n\nincome distributions in 1960 and 2005? To do this experiment the observed patterns of matching for married couples shown in the contingency tables are replaced by the patterns that would occur if matching was random-again, see the online Appendix for the random matching contingency tables. Let \uf76d represent that set of indices for married couples and \uf773 be the set for singles. The experiment involves replacing the observed { f ij}s for (i, j) \u2208 \uf76d with the set that would obtain if matching was random, denoted by { \u02dc f ij} for (i, j) \u2208 \uf76d. The counterfactual Lorenz curve and Gini coefficient are given by Lorenzp({ f ij \u2032 }, {rij}) and Gini ({ f ij \u2032 }, {rij}), where { f ij \u2032 } \u2261 { \u02dc f ij}\uf76d \u222a { f ij}\uf773.\n\nThe results of the counterfactual experiment are interesting. Moving from the observed pattern of assortative matching in 1960 to a random pattern has little discernible impact on income inequality. The Gini coefficient drops only slightly to 0.33. Repeating the experiment for 2005 has a marked impact on the income distribution, that is shown in the left-hand-side panel of Figure 3. As can be seen, the Lorenz curve shifts in and the Gini drops from 0.43 to 0.34. (The analogous diagram for 1960 is not shown since the shift in the Lorenz curve is not noticeable.) Why does this experiment affect the Lorenz curve for 2005 but not 1960? This question will be addressed now.\n\nFigure 3. Assortative versus Random Mating, 2005\n\n<!-- image -->\n\nLine chart\n\nNotes: The left-hand-side panel shows the Lorenz curves in 2005 both for the data and when matching is random. The right-hand-side panel shows the Lorenz curves in 2005 both for the data and when matching is done according to a contingency table for 1960 that is standardized using the 2005 marginal distributions over education for men and women.\n\n## C. Matching and Married Female Labor-Force Participation\n\nFor positive assortative matching to have an impact on income inequality married females must work. Married females worked more in 2005 than 1960. The right-hand-side panel of Figure 4 shows married female labor-force participation by percentile. As can be seen, across all income percentiles labor-force participation was higher in 2005 versus 1960, but the increase is most precipitous at the highest percentiles. For example, at the eightieth percentile 42 percent of married women worked in 1960. This rose to 77 percent in 2005. At the twentieth percentile the numbers are 25 and 34 percent. The left-hand-side panel of Figure 4 shows the contribution of the wife's labor income to household labor income, again by percentile. The wife's contribution to household labor income is significantly larger in 2005 relative to 1960. This share rises with the income percentile. At the eightieth percentile the share that married women provided to household income rose from 16 to 34 percent, and from 13 to 25 percent at the twentieth percentile.\n\nTo examine the impact of married female labor-force participation (MFLP) and sorting on Notes: The right-hand-side panel shows married female labor-force participation by income percentile for 1960 and 2005. The left-hand-side panel illustrates the share of the wife's labor income in household labor income income inequality, undertake this thought experiment. Assume that matching is random in the years 1960 and 2005 with one twist: assume that in 1960 married women participate in the labor force at their 2005 levels and\u00ad that in 2005 they work at their 1960 levels. The \u00adresulting Gini coefficients are 0.32 and 0.44. When matching is random, married female \u00adlabor-force participation has a significant dampening effect on income inequality for the year 2005. Random sorting works to equalize incomes across households in 2005 because it diversifies income across husbands and wives. But, this effect is only operational to the extent that married women work. (That is, for 2005 compare 0.34 with 0.44.) Random matching has less of an effect in 1960 than in 2005. Incomes are less polarized in 1960, as Figure 1 and the lower panel of Table 1 both show.\n\nFigure 4. Married Female Labor-Force Participation, 1960 and 2005\n\n<!-- image -->\n\nLine chart\n\nAnother interesting question to ask is what would have happened to income inequality if couples in 2005 matched as in 1960. That is, replace the 2005 contingency table with the 1960 one. This experiment is somewhat tricky to operationalize. In 2005 people were much more educated than in 1960. The fractions of wives (husbands) in the various educational groups can be obtained by summing each column (row) across the rows (columns). In other words, the marginal distributions for husbands and wives linked with the contingency tables have changed across 1960 and 2005. The marginal distributions for females are shown in Table 1, upper panel. The rise in educational attainment for females is readily apparent.\n\nStandardized contingency tables for the years 1960 and 2005 can be constructed to control for this. The essential idea is that shifts in the marginal distributions across non-standardized contingency tables can distort the comparison of the core patterns of association between the variables in the tables. Using the iterative procedure outlined in Mosteller (1968), a contingency table for 1960 can be computed using the 2005 marginal distributions over educational categories for husbands and wives. Another one can be built for 2005 using the 1960 marginal distributions. (These standardized contingency tables, and the method for generating them, are presented in the online Appendix.) A comparison of the 1960 contingency table from the data with the standardized one for 2005 shows an increase in assortative mating. The (straight) sum of the diagonals rises from 0.54 to 0.60. (A comparison of the 1960 standardized contingency table with the one in the data for 2005 also shows an increase along the diagonal from 0.44 to 0.48.) The Gini coefficients associated with these two standardized tables are 0.34 and 0.35. Therefore, if people matched in 2005 \u00adaccording to the 1960 standardized mating pattern there would be a significant reduction in income inequality; i.e., the Gini drops from 0.43 to 0.35. The inward shift in the Lorenz curve is shown in the \u00adright-hand-side panel of Figure 3.\n\nLast, take the 1960 standardized table and additionally impose the 2005 levels of married female labor-force participation. Likewise, force the 1960 levels of married female \u00adlabor-force participation on the 2005 standardized contingency table. Now, the Gini coefficients are 0.33 and 0.44. Income inequality rises for 2005 (from 0.35 to 0.44). By shutting down married female-labor participation for 2005 income inequality worsens. The Lorenz curve for this experiment virtually lies on top of the one from the data for 2005 (but shifts very slightly outward), so it is not shown in Figure 3. This illustrates the importance of married female labor-force participation for understanding income inequality. The results of the experiments are catalogued in Table 2.\n\nTable 2-Gini Coefficients, Data and Experiments\n\n| Basis for Gini coefficient     |   1960 |   2005 |\n|--------------------------------|--------|--------|\n| Data                           |   0.34 |   0.43 |\n| Random Matching                |   0.33 |   0.34 |\n| Random + 2005 MFLP             |   0.32 |        |\n| Random + 1960 MFLP             |        |   0.44 |\n| Standardized table             |   0.34 |   0.35 |\n| Standardized table + 2005 MFLP |   0.33 |        |\n| Standardized table + 1960 MFLP |        |   0.44 |\n\nNote: The online Appendix contains additional information on the methodology used to generate this table.\n\nSo, if people matched in 2005 according to the standardized mating pattern observed in 1960, which showed less positive assortative matching, then income inequality would drop because income is more diversified across husband and wife. For this effect to function females need to work in 2005, as they did, or diversification in household income can't operate.\n\n## REFERENCES\n\n- Cancian, Maria, and Deborah Reed. 1998. \"Assessing the Effects of Wives' Earnings on Family Income Inequality.\" Review of Economics and Statistics 80 (1): 73-79.\n- Fern\u00e1ndez, Raquel, and Richard Rogerson. 2001. \"Sorting And Long-Run Inequality.\" Quarterly Journal of Economics 116 (4): 1305-41.\n- Greenwood, Jeremy, Nezih Guner, Georgi Kocharkov, and Cezar Santos. 2012. \"Technology and the Changing Family: A Unified Model of Marriage, Divorce, Educational Attainment and Married Female Labor-Force Participation.\" National Bureau of Economic Research Working Paper 17735.\n- Mosteller, Frederick. 1968. \"Association and Estimation in Contingency Tables.\" Journal of the American Statistical Association 63 (321): 1-28.\n- Schwartz, Christine R. 2010. \"Earnings Inequality and the Changing Association between Spouses' Earnings.\" American Journal of \u00adSociology 115 (5): 1524-57.\n\nONLINE APPENDIX: GREENWOOD, GUNER, KOCHARKOV AND SANTOS (2014)\n\n## A1. Data\n\nThe data used for this paper is freely available from the Integrated Public Use Microdata Series (IPUMS) website. The samples used in this study are taken from the 1 percent sample of the Census for the years 1960, 1970, 1980, 1990, 2000 and the American Community Survey (ACS) for the year 2005. The following variables were included for every year: year or the survey (variable name: year), spouse location flag (sploc), number of family members in the household (famsize), number of children in the household (nchild), age (age), sex (sex), marital status (marst), educational attainment (educ), employment status (empstat), total family income (ftotinc), wage and salary income (incwage). Only singles and married couples that are 25 to 54 years old are considered. The adults in these households either live by themselves or with their children, who are less than 19 years old. Households in which there are other members such as grandparents, uncles/aunts, or other unrelated individuals are excluded. Households with subfamilies of any other type are also excluded from the analysis. Finally, widows, widowers and married individuals whose spouses are absent are excluded as well. Income variables are restricted to be non-negative.\n\nThere are 560 types of households used in the analysis. Households are broken down into finer categories than are reported in the text. In principle, this doesn't affect the analysis, since the finer classifications can be combined to attain the more aggregated ones. Following a counterfactual experiment, some households are moved into new income percentiles. So, in practice the finer classification allows more accurate re-sorting into the various income percentile when conducting the counterfactual experiments. Households are classified into different types as follows:\n\n- 1) Marital status: married, never married males, never married females, divorced males, divorced females.\n- 2) Education: less than high school, high school, some college, college, more than college. For married households, both the husband and wife will have one of these educational levels.\n- 3) Market work: work, does not work. For married households both the husband and wife will have one of these levels of labor market activity.\n- 4) Children: no children, 1 child, 2 children, more than 2 children.\n\nFinally, households are divided into 10 deciles. So, for every year, there are 5,600 (i, j)-combinations of household types/deciles.\n\n## A2. The Lorenz Curve and Gini Coefficient\n\nThink of a sample of different household types, i \u2208 {1, 2, ..., m}, situated in different percentiles, j \u2208 J , of the income distribution. Again, j is expressed as a fraction. Define fi j as the fraction of households that are of type-i in income percentile j. Let ri j represent household (i, j)'s income, yi j , relative to mean income, y. Each household's income is adjusted to a per-adult-equivalent basis using the OECD modified equivalence scale, which counts the first adult as 1, the second adult as 0.5 and each child as 0.3 adults. Equivalized households incomes are then divided by mean household income across the whole sample.\n\nThe share of income earned by percentile j is\n\n<!-- formula-not-decoded -->\n\nThe Lorenz curve is derived by plotting the cumulative shares of the population indexed by percentile p,\n\n<!-- formula-not-decoded -->\n\nFIGURE A1. THE LORENZ CURVE AND GINI COEFFICIENT\n\n<!-- image -->\n\nLine chart\n\nNote: The figure shows the construction of a Lorenz curve when there are four percentiles (quartiles). The Gini coefficient is twice the area between the 45 degree line and the Lorenz curve.\n\non the x-axis, against the cumulative share of income indexed by percentile p,\n\n<!-- formula-not-decoded -->\n\non the y-axis. Suppose that the unit interval is split up into n equally sized segments. Then, j \u2208 J = {1/n, \u00b7 \u00b7 \u00b7 , 1 - 1/n, 1}.\n\nTake the example of n = 4 (quartiles). The Lorenz curve described above is plotted in Figure 1. The Gini coefficient associated with the Lorenz curve equals twice the area between the Lorenz curve and the 45-degree line. Alternatively, the coefficient can be calculated as equaling 1 - 2\ufffd, where \ufffd is the area below the Lorenz Curve. In the case of quartiles the area \ufffd is the summation of the areas of the right triangle A, the right trapezoids B, C, and D. The coordinates on the x-axis are given by 0, p1 = 0.25, p2 = 0.5, p3 = 0.75, and 1.0. The y-axis coordinates of the Lorenz curve are given by 0, l0.25, l0.5, l0.75, and 1.0.\n\nThen, using the formulas for the geometric areas A, B, C, and D, the Gini coefficient, g, can be derived as\n\n<!-- formula-not-decoded -->\n\nAfter rearranging and canceling out terms, the expression for the Gini coefficient can be simplified to\n\n<!-- formula-not-decoded -->\n\nThe cumulative shares of the population, the p's, are based on quartiles; i.e., p1 = 1/4, p2 = 2/4, \u00b7 \u00b7 \u00b7 . Thus, above expression can be rewritten as\n\n<!-- formula-not-decoded -->\n\nIn the more general case of n percentiles, the Gini coefficient equals\n\n<!-- formula-not-decoded -->\n\nThe version of this formula for an arbitrary number of income groups of any size and an arbitrary number of sub-populations (types) is presented in Rao (1969).\n\n## A3. Counterfactual Experiments\n\n## IMPOSING RANDOM MATCHING\n\nRandom matching can be imposed on the demographic structure of the U.S. population for each of these years in the sample. Table A1 presents the contingency tables that would occur if matching had been random in 1960 and 2005. Counterfactual Gini coefficients can then be computed. How is this done?\n\nFirst a bit of notation. Take the distribution of household, { fi j }. Recall that married households are indexed by the education of the husband, the education of the wife, their labor-force participation, and the number of children in the household. Let the sets MEH contain the indices of all married households with a husband who has the educational level, EH \u2208 {H S-, H S, C-, C, C+}, where H S- refers to a less-than-high-school educated person, H S refers to someone with a high-school education, C- is some college, C is college, and C+ is more-than-college educated. Similarly, the sets MEW contain married households with different educational levels for wives, EW . Furthermore, ML F PH (ML F PW ) contain all the married households with a husband's (wife's) labor-force participation status L F PH(W) \u2208 {W O RK H(W), ~W O RK H(W)}. Finally, the set MK I DS contain married households with a particular number of children K I DS \u2208 {0, 1, 2, 2+}. The set of all married households with a particular mix of the education, MEH ,EW , for the husband and the wife reads\n\n<!-- formula-not-decoded -->\n\nLet M represent the set containing all of the different types of married households. Clearly,\n\nwhere the term in parenthesis is the set of all married households of type (EH , EW , L F PH , L F PW , K I DS).\n\n<!-- formula-not-decoded -->\n\nHere is an example illustrating how the random matching experiment is performed. Take the first element of the matching table in 1960-see Table 1 of the main text. These are the marriages where both the husband and the wife are less-than-high-school educated. In 1960, the fraction of such marriages was 0.32. In terms of the current notation,\n\n<!-- formula-not-decoded -->\n\nNow impose the random matching table entry for type-(H S-, H S-) marriages in 1960; i.e., the first cell of the 1960 panel in Table A1. The fraction of such marriages, if matching in 1960 was random, is 0.21. Denote the counterfactual distribution to be imposed in 1960 by \u02dcf 1960 i j . The following equation must hold for the particular marriage group being discussed\n\nThe elements in the contingency table refer to the fraction of all married households that a particular type of match between husbands' and wives' educational levels constitutes. The elements in the cells are totals across all income percentiles. The fi j 's refer to the fraction of all households, married and single, that are of type i in income percentile j. Therefore, the cells in the contingency table are aggregated over income percentiles (as well as the other non-educational traits characterizing married households). The ratio of the total number of type-(H S-, H S-) marriages under random matching\n\n<!-- formula-not-decoded -->\n\n<!-- formula-not-decoded -->\n\n<!-- formula-not-decoded -->\n\nSo, under random matching the number of type-(H S-, H S-) marriages is reduced by factor of 0.66 = 0.21/0.31. Assume that this reduction is spread out evenly across all of the income percentiles, or across all of the j's. Therefore, when undertaking the random matching experiment, \u02dcf 1960 i j should be constructed as follows:\n\nA similar scaling operation is performed for each of the other 24 possible matches. Thus, there is a scaling factor specific to each type of marriage (in the contingency table). For all single and divorced people, keep the original fractions; i.e., \u02dcf 1960 i j = f 1960 i j .\n\n## IMPOSING RANDOM MATCHING WHILE HOLDING FIXED MARRIED FEMALE LABOR-FORCE PARTICIPATION\n\nThe impact of random matching on inequality can be interacted with changes in the labor-force participation decisions of married females. The procedure for imposing random matching in 1960 is outlined in the previous section. Suppose that in addition to imposing random matching in 1960, married female labor-force participation is fixed at its 2005 level. How can this be implemented?\n\nThe married female labor-force participation rate in 1960 when random matching is imposed is\n\nwhile the labor-force participation rate in 2005 is\n\n<!-- formula-not-decoded -->\n\n<!-- formula-not-decoded -->\n\nDenote the desired new counterfactual distribution for married households in 1960 by \u0302f 1960 i j , for i \u2208 M and all j. This new counterfactual distribution for 1960 must give the 2005 married female labor-force participation rate so Bear in mind that the fraction of married people in 1960 does not change in the counterfactual experiments; i.e., \u2211\n\n<!-- formula-not-decoded -->\n\n<!-- formula-not-decoded -->\n\nImposing a labor-force participation rate from 2005 onto the 1960 counterfactual distribution of random matching amounts to scaling up all (i, j)-combinations of married households in which women work. On the other hand, the married households in which women do not work should be scaled down so that the total fraction of married households does not change.\n\n<!-- formula-not-decoded -->\n\nTherefore, the counterfactual distribution, { \u0302f 1960 i j }, should be constructed in the following way:\n\nand\n\n<!-- formula-not-decoded -->\n\nThis way the total fraction of married households stays constant,\n\n<!-- formula-not-decoded -->\n\n<!-- formula-not-decoded -->\n\nAs with the previous counterfactual distribution adjustment, keep the original fractions, \u0302f 1960 i j = f 1960 i j , for all single and divorced people.\n\n## A4. Standardizing Contingency Tables\n\nMosteller (1968) suggests that when comparing two contingency tables they should first be standardized so that they both have the same marginal distributions associated with the rows and columns. Take a 5\u00d75 table. It can be standardized so that each element of the two marginal distributions is 1/5. This can be done by employing the Sinkhorn-Knopp (1967) algorithm, which iteratively scales each row and column. Standardization preserves the core pattern of association in a contingency table. For example, Tan, Kumar and Srivastava (2004) note that such standardization does not affect the odds ratios in a contingency table, a typical measure used to gauge the pattern of association between variables.\n\n## SINKHORN-KNOPP (1967) ALGORITHM\n\n- 1) Enter an iteration with a contingency table.\n- 2) This contingency table has a marginal distribution associated with the rows (for men) obtained by summing each row along its columns to obtain a total for that row. Divide each row through by 5 times its total. The marginal distribution associated with the rows is now (1/5, 1/5, 1/5, 1/5, 1/5).\n- 3) Compute the marginal distribution associated with the columns (for women) by summing each column along its rows to obtain a total for that column. Divide each column through by its 5 times its total.\n- 4) Recompute the marginal distribution associated with the rows. It has changed following the previous two steps. Check its distance from the desired marginal distribution (1/5, 1/5, 1/5, 1/5, 1/5). If it has reached the desired level of closeness then stop. If not, go back to Step 1.\n\n## THE STANDARDIZED TABLES\n\nThe two resulting standardized tables for 1960 and 2005 are shown in Table A2. The diagonal elements in the 2005 table are larger than in the 1960 one. Assortative mating has increased.\n\nThere is no need to standardize the tables so that each element of the marginal distributions is 1/5. One can standardize the 1960 table so that its marginal distributions coincide with those in the data for 2005, or vice versa. This results are shown in Table A3. This way the standardized table for 1960 (2005) can be compared with the one from the data for 2005 (1960). Both tables will have the same 2005 (1960) marginal distributions. By comparing the standardized contingency table for 1960 (Table A.3) with the contingency table from the data for 2005 (see Table 1 in the text) it can be seen that assortative mating has increased. Once again, the diagonal elements are larger in the table for 2005. Likewise, a comparison of the standardized table for 2005 (Table A.3) with the one in the data for 1960 (again, see Table 1 in the text) shows an increase in assortative mating.\n\n## A5. A Brief Literature Review\n\nThe increase in assortative mating in the U.S. has also been examined by Hou and Myles (2008), Lam (1997), Qian and Preston (1993), and Schwartz and Mare (2005) to name a few papers. Siow (2013) documents an increase in educational homogamy, but not a general increase in positive assortative matching. Lam (1997) and Schwartz (2010) discuss the relationship between assortative mating and income inequality. Cancian and Reed (1998, 1999) also focus on the role that married female-labor force participation plays in the relationship between assortative mating and income inequality.\n\nTABLE A1-RANDOM MATCHING CONTINGENCY TABLES: MATING BY EDUCATIONAL CLASS\n\n| Marital Sorting by Educational Pairing   | Marital Sorting by Educational Pairing   | Marital Sorting by Educational Pairing   | Marital Sorting by Educational Pairing   | Marital Sorting by Educational Pairing   | Marital Sorting by Educational Pairing   |\n|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|\n| Husband                                  | HS-                                      | 1960 HS                                  | Wife C-                                  | C                                        | C+                                       |\n| HS-                                      | 0.207                                    | 0.192                                    | 0.053                                    | 0.026                                    | 0.008                                    |\n| HS                                       | 0.118                                    | 0.110                                    | 0.031                                    | 0.015                                    | 0.004                                    |\n| C-                                       | 0.045                                    | 0.042                                    | 0.012                                    | 0.006                                    | 0.002                                    |\n| C                                        | 0.030                                    | 0.028                                    | 0.008                                    | 0.004                                    | 0.001                                    |\n| C+                                       | 0.025                                    | 0.024                                    | 0.007                                    | 0.003                                    | 0.001                                    |\n| Marginal, Wives                          | 0.425                                    | 0.396                                    | 0.110                                    | 0.054                                    | 0.016                                    |\n|                                          | 2005                                     | 2005                                     | 2005                                     | 2005                                     | 2005                                     |\n| HS-                                      | 0.006                                    | 0.027                                    | 0.020                                    | 0.020                                    | 0.010                                    |\n| HS                                       | 0.024                                    | 0.114                                    | 0.084                                    | 0.084                                    | 0.041                                    |\n| C-                                       | 0.015                                    | 0.073                                    | 0.054                                    | 0.053                                    | 0.026                                    |\n| C                                        | 0.015                                    | 0.072                                    | 0.053                                    | 0.053                                    | 0.026                                    |\n| C+                                       | 0.009                                    | 0.043                                    | 0.032                                    | 0.032                                    | 0.015                                    |\n| Marginal, Wives                          | 0.070                                    | 0.329                                    | 0.242                                    | 0.241                                    | 0.118                                    |\n\nNote: Each cell gives the fraction of married households that would lie in the indicated educational pairing between husbands and wives when matching is random.\n\nTABLE A2-STANDARDIZED CONTINGENCY TABLES: ASSORTATIVE MATING BY EDUCATIONAL CLASS\n\n|                                             |                                             |                                             |                                             |                                             |                                             |\n|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|\n| Marital Sorting by Educational Pairing      | 1960                                        |                                             |                                             |                                             |                                             |\n| Marginal \u00b7 \u00b7 Husband                        | Distributions = HS-                         | (1/5, HS                                    | \u00b7 , 1/5) Wife C-                            | C                                           | C+                                          |\n| HS-                                         | 0.126                                       | 0.043                                       | 0.017                                       | 0.007                                       | 0.007                                       |\n| HS                                          | 0.046                                       | 0.079                                       | 0.038                                       | 0.019                                       | 0.017                                       |\n| C-                                          | 0.020                                       | 0.045                                       | 0.067                                       | 0.037                                       | 0.032                                       |\n| C                                           | 0.005                                       | 0.023                                       | 0.047                                       | 0.081                                       | 0.043                                       |\n| C+                                          | 0.002                                       | 0.010                                       | 0.031                                       | 0.055                                       | 0.102                                       |\n| Marginal Distribution, Wives                | 1/5 2005                                    | 1/5                                         | 1/5                                         | 1/5                                         | 1/5                                         |\n| Marginal Distributions = (1/5, \u00b7 \u00b7 \u00b7 , 1/5) | Marginal Distributions = (1/5, \u00b7 \u00b7 \u00b7 , 1/5) | Marginal Distributions = (1/5, \u00b7 \u00b7 \u00b7 , 1/5) | Marginal Distributions = (1/5, \u00b7 \u00b7 \u00b7 , 1/5) | Marginal Distributions = (1/5, \u00b7 \u00b7 \u00b7 , 1/5) | Marginal Distributions = (1/5, \u00b7 \u00b7 \u00b7 , 1/5) |\n| HS-                                         | 0.146                                       | 0.035                                       | 0.014                                       | 0.004                                       | 0.002                                       |\n| HS                                          | 0.035                                       | 0.088                                       | 0.047                                       | 0.019                                       | 0.011                                       |\n| C-                                          | 0.013                                       | 0.047                                       | 0.079                                       | 0.038                                       | 0.023                                       |\n| C                                           | 0.004                                       | 0.021                                       | 0.039                                       | 0.082                                       | 0.054                                       |\n| C+                                          | 0.002                                       | 0.010                                       | 0.022                                       | 0.057                                       | 0.109                                       |\n| Marginal Distribution, Wives                | 1/5                                         | 1/5                                         | 1/5                                         | 1/5                                         | 1/5                                         |\n\nNote: The upper panel shows the contingency table for 1960 when it has been normalized using the Sinkhorn-Knopp algorithm so that each element of marginal distributions over education for men and women equals 1/5. The lower panel shows the same thing for 2005.\n\nTABLE A3-STANDARDIZED CONTINGENCY TABLES: ASSORTATIVE MATING BY EDUCATIONAL CLASS\n\n| Marital Sorting by Educational Pairing             | Marital Sorting by Educational Pairing   | Marital Sorting by Educational Pairing   | Marital Sorting by Educational Pairing   | Marital Sorting by Educational Pairing   | Marital Sorting by Educational Pairing   |\n|----------------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|\n| 1960 Using the 2005 Marginal Distributions Husband | HS-                                      | HS                                       | Wife C-                                  | C                                        | C+                                       |\n| HS-                                                | 0.029                                    | 0.035                                    | 0.011                                    | 0.005                                    | 0.003                                    |\n| HS                                                 | 0.030                                    | 0.186                                    | 0.072                                    | 0.040                                    | 0.019                                    |\n| C-                                                 | 0.008                                    | 0.065                                    | 0.079                                    | 0.048                                    | 0.022                                    |\n| C                                                  | 0.002                                    | 0.032                                    | 0.055                                    | 0.101                                    | 0.028                                    |\n| C+                                                 | 0.001                                    | 0.010                                    | 0.025                                    | 0.048                                    | 0.047                                    |\n| Marginal Distribution, Wives                       | 0.070                                    | 0.329                                    | 0.242                                    | 0.241                                    | 0.118                                    |\n|                                                    | 2005                                     |                                          |                                          |                                          |                                          |\n| Using the 1960 Marginal Distributions              | Using the 1960 Marginal Distributions    | Using the 1960 Marginal Distributions    | Using the 1960 Marginal Distributions    | Using the 1960 Marginal Distributions    | Using the 1960 Marginal Distributions    |\n| HS-                                                | 0.354                                    | 0.114                                    | 0.015                                    | 0.002                                    | 0.000                                    |\n| HS                                                 | 0.054                                    | 0.183                                    | 0.033                                    | 0.007                                    | 0.001                                    |\n| C-                                                 | 0.011                                    | 0.054                                    | 0.031                                    | 0.008                                    | 0.001                                    |\n| C                                                  | 0.004                                    | 0.027                                    | 0.017                                    | 0.019                                    | 0.003                                    |\n| C+                                                 | 0.002                                    | 0.017                                    | 0.013                                    | 0.017                                    | 0.009                                    |\n| Marginal Distribution, Wives                       | 0.425                                    | 0.396                                    | 0.110                                    | 0.054                                    | 0.016                                    |\n\nNote: The upper panel shows the contingency table for 1960 when it has been normalized using the Sinkhorn-Knopp algorithm so that the marginal distributions for men and women over education equal what there are in the data for 2005. The lower panel shows the contingency table for 2005 when it has been normalized so that the marginal distributions for men and women equal what there are in the data for 1960.\n\n## ADDITIONAL REFERENCES FOR THE ONLINE APPENDIX\n\nCancian, Maria and Deborah Reed. 1999. \"The Impact of Wives' Earnings on Income Inequality: Issues and Estimates.\" Demography, 36, (2): 173-84.\n\nHou, Feng and John Myles. 2008. \"The Changing Role of Education in the Marriage market: Assortative Marriage in Canada and the United States since the 1970s.\" Canadian Journal of Sociology, 33 (2): 337-366.\n\nLam, David. 1997. \"Demographic Variables and Income Inequality.\" In Handbook of Population and Family Economics, edited by Mark R. Rosenzweig and Oded Stark, 1015-1059. Amsterdam, Elsevier North Holland.\n\nMosteller, Frederick. 1968. \"Association and Estimation in Contingency Tables.\" Journal of the American Statistical Association, 63 (321): 1-28.\n\n- Qian, Zhenchao and Samuel H. Preston. 1993. \"Changes in American Marriage, 1972 to 1987: Availability and Forces of Attraction by Age and Education.\" American Sociological Review, 58 (4): 482-495.\n- Rao, V. M. 1969. \"Two Decompositions of Concentration Ratio.\" Journal of the Royal Statistical Society, Series A (General), 132 (3): 418-425.\n- Schwartz, Christine R. and Robert D. Mare. 2005. \"Trends in Educational Assortative Marriage from 1940 to 2003.\" Demography, 42 (4): 621-646.\n\nSinkhorn, Richard and Paul Knopp. 1967. \"Concerning Nonnegative Matrices and Doubly Stochastic Matrices.\" Pacific Journal of Mathematics, 21 (2): 343-348.\n\n- Siow, Aloysius. 2013. \"Testing Becker's Theory of Positive Assortative Matching.\" Journal of Labor Economics, forthcoming.\n\nTan, Pang-Ning, Vipin Kumar, Jaideep Srivastava. 2004. \"Selecting the Right Objective Measure for Association Analysis.\" Information Systems, 29 (4): 293-313.",
+  "tables": [
+    {
+      "table_index": 0,
+      "page_number": 3,
+      "markdown": "Table 1-Contingency Tables: Assortative Mating and Income by Educational Class\n\n|                                        |                                        |                                        |                                        |                                        |                                        |\n|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|\n| Marital sorting by educational pairing | Marital sorting by educational pairing | Marital sorting by educational pairing | Marital sorting by educational pairing | Marital sorting by educational pairing | Marital sorting by educational pairing |\n| Husband                                |                                        |                                        | Wife                                   |                                        |                                        |\n|                                        | HS-                                    | HS                                     | C-                                     | C                                      | C+                                     |\n| 1960                                   |                                        |                                        |                                        |                                        |                                        |\n| HS-                                    | 0.323                                  | 0.138                                  | 0.019                                  | 0.004                                  | 0.001                                  |\n| HS                                     | 0.076                                  | 0.165                                  | 0.028                                  | 0.008                                  | 0.002                                  |\n| C-                                     | 0.018                                  | 0.051                                  | 0.027                                  | 0.008                                  | 0.002                                  |\n| C                                      | 0.005                                  | 0.027                                  | 0.019                                  | 0.018                                  | 0.003                                  |\n| C+                                     | 0.003                                  | 0.016                                  | 0.017                                  | 0.016                                  | 0.008                                  |\n| Marginal distribution, wives           | 0.425                                  | 0.396                                  | 0.110                                  | 0.054                                  | 0.016                                  |\n| 2005                                   |                                        |                                        |                                        |                                        |                                        |\n| HS-                                    | 0.039                                  | 0.031                                  | 0.010                                  | 0.003                                  | 0.001                                  |\n| HS                                     | 0.023                                  | 0.192                                  | 0.082                                  | 0.037                                  | 0.012                                  |\n| C-                                     | 0.005                                  | 0.065                                  | 0.088                                  | 0.047                                  | 0.016                                  |\n| C                                      | 0.002                                  | 0.030                                  | 0.045                                  | 0.104                                  | 0.037                                  |\n| C+                                     | 0.001                                  | 0.010                                  | 0.018                                  | 0.050                                  | 0.053                                  |\n| Marginal distribution, wives           | 0.070                                  | 0.329                                  | 0.242                                  | 0.241                                  | 0.118                                  |\n| Marital income by educational pairing  | Marital income by educational pairing  | Marital income by educational pairing  | Marital income by educational pairing  | Marital income by educational pairing  | Marital income by educational pairing  |\n| 1960                                   |                                        |                                        |                                        |                                        |                                        |\n| HS-                                    | 0.765                                  | 0.918                                  | 1.040                                  | 1.243                                  | 1.395                                  |\n| HS                                     | 0.935                                  | 1.031                                  | 1.148                                  | 1.344                                  | 1.581                                  |\n| C-                                     | 1.071                                  | 1.185                                  | 1.278                                  | 1.442                                  | 1.593                                  |\n| C                                      | 1.234                                  | 1.349                                  | 1.420                                  | 1.529                                  | 1.673                                  |\n| C+                                     | 1.357                                  | 1.476                                  | 1.568                                  | 1.631                                  | 1.764                                  |\n| 2005                                   |                                        |                                        |                                        |                                        |                                        |\n| HS-                                    | 0.409                                  | 0.586                                  | 0.692                                  | 0.904                                  | 0.918                                  |\n| HS                                     | 0.554                                  | 0.827                                  | 0.932                                  | 1.166                                  | 1.327                                  |\n| C-                                     | 0.661                                  | 0.958                                  | 1.042                                  | 1.255                                  | 1.434                                  |\n| C                                      | 0.852                                  | 1.250                                  | 1.335                                  | 1.600                                  | 1.793                                  |\n| C+                                     | 1.303                                  | 1.495                                  | 1.666                                  | 1.896                                  | 2.193                                  |"
+    },
+    {
+      "table_index": 1,
+      "page_number": 6,
+      "markdown": "Table 2-Gini Coefficients, Data and Experiments\n\n| Basis for Gini coefficient     |   1960 |   2005 |\n|--------------------------------|--------|--------|\n| Data                           |   0.34 |   0.43 |\n| Random Matching                |   0.33 |   0.34 |\n| Random + 2005 MFLP             |   0.32 |        |\n| Random + 1960 MFLP             |        |   0.44 |\n| Standardized table             |   0.34 |   0.35 |\n| Standardized table + 2005 MFLP |   0.33 |        |\n| Standardized table + 1960 MFLP |        |   0.44 |"
+    },
+    {
+      "table_index": 2,
+      "page_number": 13,
+      "markdown": "TABLE A1-RANDOM MATCHING CONTINGENCY TABLES: MATING BY EDUCATIONAL CLASS\n\n| Marital Sorting by Educational Pairing   | Marital Sorting by Educational Pairing   | Marital Sorting by Educational Pairing   | Marital Sorting by Educational Pairing   | Marital Sorting by Educational Pairing   | Marital Sorting by Educational Pairing   |\n|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|\n| Husband                                  | HS-                                      | 1960 HS                                  | Wife C-                                  | C                                        | C+                                       |\n| HS-                                      | 0.207                                    | 0.192                                    | 0.053                                    | 0.026                                    | 0.008                                    |\n| HS                                       | 0.118                                    | 0.110                                    | 0.031                                    | 0.015                                    | 0.004                                    |\n| C-                                       | 0.045                                    | 0.042                                    | 0.012                                    | 0.006                                    | 0.002                                    |\n| C                                        | 0.030                                    | 0.028                                    | 0.008                                    | 0.004                                    | 0.001                                    |\n| C+                                       | 0.025                                    | 0.024                                    | 0.007                                    | 0.003                                    | 0.001                                    |\n| Marginal, Wives                          | 0.425                                    | 0.396                                    | 0.110                                    | 0.054                                    | 0.016                                    |\n|                                          | 2005                                     | 2005                                     | 2005                                     | 2005                                     | 2005                                     |\n| HS-                                      | 0.006                                    | 0.027                                    | 0.020                                    | 0.020                                    | 0.010                                    |\n| HS                                       | 0.024                                    | 0.114                                    | 0.084                                    | 0.084                                    | 0.041                                    |\n| C-                                       | 0.015                                    | 0.073                                    | 0.054                                    | 0.053                                    | 0.026                                    |\n| C                                        | 0.015                                    | 0.072                                    | 0.053                                    | 0.053                                    | 0.026                                    |\n| C+                                       | 0.009                                    | 0.043                                    | 0.032                                    | 0.032                                    | 0.015                                    |\n| Marginal, Wives                          | 0.070                                    | 0.329                                    | 0.242                                    | 0.241                                    | 0.118                                    |"
+    },
+    {
+      "table_index": 3,
+      "page_number": 13,
+      "markdown": "TABLE A2-STANDARDIZED CONTINGENCY TABLES: ASSORTATIVE MATING BY EDUCATIONAL CLASS\n\n|                                             |                                             |                                             |                                             |                                             |                                             |\n|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|\n| Marital Sorting by Educational Pairing      | 1960                                        |                                             |                                             |                                             |                                             |\n| Marginal \u00b7 \u00b7 Husband                        | Distributions = HS-                         | (1/5, HS                                    | \u00b7 , 1/5) Wife C-                            | C                                           | C+                                          |\n| HS-                                         | 0.126                                       | 0.043                                       | 0.017                                       | 0.007                                       | 0.007                                       |\n| HS                                          | 0.046                                       | 0.079                                       | 0.038                                       | 0.019                                       | 0.017                                       |\n| C-                                          | 0.020                                       | 0.045                                       | 0.067                                       | 0.037                                       | 0.032                                       |\n| C                                           | 0.005                                       | 0.023                                       | 0.047                                       | 0.081                                       | 0.043                                       |\n| C+                                          | 0.002                                       | 0.010                                       | 0.031                                       | 0.055                                       | 0.102                                       |\n| Marginal Distribution, Wives                | 1/5 2005                                    | 1/5                                         | 1/5                                         | 1/5                                         | 1/5                                         |\n| Marginal Distributions = (1/5, \u00b7 \u00b7 \u00b7 , 1/5) | Marginal Distributions = (1/5, \u00b7 \u00b7 \u00b7 , 1/5) | Marginal Distributions = (1/5, \u00b7 \u00b7 \u00b7 , 1/5) | Marginal Distributions = (1/5, \u00b7 \u00b7 \u00b7 , 1/5) | Marginal Distributions = (1/5, \u00b7 \u00b7 \u00b7 , 1/5) | Marginal Distributions = (1/5, \u00b7 \u00b7 \u00b7 , 1/5) |\n| HS-                                         | 0.146                                       | 0.035                                       | 0.014                                       | 0.004                                       | 0.002                                       |\n| HS                                          | 0.035                                       | 0.088                                       | 0.047                                       | 0.019                                       | 0.011                                       |\n| C-                                          | 0.013                                       | 0.047                                       | 0.079                                       | 0.038                                       | 0.023                                       |\n| C                                           | 0.004                                       | 0.021                                       | 0.039                                       | 0.082                                       | 0.054                                       |\n| C+                                          | 0.002                                       | 0.010                                       | 0.022                                       | 0.057                                       | 0.109                                       |\n| Marginal Distribution, Wives                | 1/5                                         | 1/5                                         | 1/5                                         | 1/5                                         | 1/5                                         |"
+    },
+    {
+      "table_index": 4,
+      "page_number": 14,
+      "markdown": "TABLE A3-STANDARDIZED CONTINGENCY TABLES: ASSORTATIVE MATING BY EDUCATIONAL CLASS\n\n| Marital Sorting by Educational Pairing             | Marital Sorting by Educational Pairing   | Marital Sorting by Educational Pairing   | Marital Sorting by Educational Pairing   | Marital Sorting by Educational Pairing   | Marital Sorting by Educational Pairing   |\n|----------------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|\n| 1960 Using the 2005 Marginal Distributions Husband | HS-                                      | HS                                       | Wife C-                                  | C                                        | C+                                       |\n| HS-                                                | 0.029                                    | 0.035                                    | 0.011                                    | 0.005                                    | 0.003                                    |\n| HS                                                 | 0.030                                    | 0.186                                    | 0.072                                    | 0.040                                    | 0.019                                    |\n| C-                                                 | 0.008                                    | 0.065                                    | 0.079                                    | 0.048                                    | 0.022                                    |\n| C                                                  | 0.002                                    | 0.032                                    | 0.055                                    | 0.101                                    | 0.028                                    |\n| C+                                                 | 0.001                                    | 0.010                                    | 0.025                                    | 0.048                                    | 0.047                                    |\n| Marginal Distribution, Wives                       | 0.070                                    | 0.329                                    | 0.242                                    | 0.241                                    | 0.118                                    |\n|                                                    | 2005                                     |                                          |                                          |                                          |                                          |\n| Using the 1960 Marginal Distributions              | Using the 1960 Marginal Distributions    | Using the 1960 Marginal Distributions    | Using the 1960 Marginal Distributions    | Using the 1960 Marginal Distributions    | Using the 1960 Marginal Distributions    |\n| HS-                                                | 0.354                                    | 0.114                                    | 0.015                                    | 0.002                                    | 0.000                                    |\n| HS                                                 | 0.054                                    | 0.183                                    | 0.033                                    | 0.007                                    | 0.001                                    |\n| C-                                                 | 0.011                                    | 0.054                                    | 0.031                                    | 0.008                                    | 0.001                                    |\n| C                                                  | 0.004                                    | 0.027                                    | 0.017                                    | 0.019                                    | 0.003                                    |\n| C+                                                 | 0.002                                    | 0.017                                    | 0.013                                    | 0.017                                    | 0.009                                    |\n| Marginal Distribution, Wives                       | 0.425                                    | 0.396                                    | 0.110                                    | 0.054                                    | 0.016                                    |"
+    }
+  ],
+  "figures": [
+    {
+      "figure_id": "6077605_fig_000",
+      "figure_index": 0,
+      "page_number": 1,
+      "type": "chart_graph",
+      "classifier_v2_5": {
+        "top_class": "line_chart",
+        "confidence": 0.9973,
+        "predictions": [
+          {
+            "class_name": "line_chart",
+            "confidence": 0.9973
+          },
+          {
+            "class_name": "bar_chart",
+            "confidence": 0.0013
+          },
+          {
+            "class_name": "scatter_plot",
+            "confidence": 0.0012
+          },
+          {
+            "class_name": "table",
+            "confidence": 0.0001
+          },
+          {
+            "class_name": "box_plot",
+            "confidence": 0.0001
+          }
+        ]
+      },
+      "caption": "Figure 1. The Rise In Positive Assortative Mating, 1960-2005",
+      "ocr_text": "95 percent\n\n \n\n \n\n \n\n \n\n1969 1980 1991 2002 1960 1974 1988 2002\nYear. t \u2018Year. t",
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/6077605/6077605_fig_000.png",
+      "image_dimensions": [
+        392,
+        277
+      ],
+      "bbox": {
+        "l": 258.97,
+        "t": 558.27,
+        "r": 454.84,
+        "b": 420.19,
+        "coord_origin": "CoordOrigin.BOTTOMLEFT"
+      },
+      "s3_uri": "s3://multimodal-rag-data-nov14/figures/6077605/6077605_fig_000.png",
+      "s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/6077605/6077605_fig_000.png",
+      "sha256": "aeb5beb5925720bb9cfb93ecdb9810e54f612ba7bbe7e51058320e81322f5cdb"
+    },
+    {
+      "figure_id": "6077605_fig_001",
+      "figure_index": 1,
+      "page_number": 4,
+      "type": "chart_graph",
+      "classifier_v2_5": {
+        "top_class": "line_chart",
+        "confidence": 0.9858,
+        "predictions": [
+          {
+            "class_name": "line_chart",
+            "confidence": 0.9858
+          },
+          {
+            "class_name": "scatter_plot",
+            "confidence": 0.0127
+          },
+          {
+            "class_name": "bar_chart",
+            "confidence": 0.0013
+          },
+          {
+            "class_name": "box_plot",
+            "confidence": 0.0002
+          },
+          {
+            "class_name": "table",
+            "confidence": 0.0
+          }
+        ]
+      },
+      "caption": "Figure 2. Income Inequality, 1960 and 2005",
+      "ocr_text": "o\n\nCumulative share of household income, /,\n\n\u00e9\n\n8\n\n033.\n\nHousehold income relative to mean, s)\n\n \n\n0.\nG0 02\u00b0 04 06\" 08\" 10\n\u2018umulative percentile of households, p\n\n0\n\n \n\n00\" 02\" 04 06 08 1K\nPercentile, j",
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/6077605/6077605_fig_001.png",
+      "image_dimensions": [
+        391,
+        275
+      ],
+      "bbox": {
+        "l": 50.33,
+        "t": 644.43,
+        "r": 246.19,
+        "b": 506.75,
+        "coord_origin": "CoordOrigin.BOTTOMLEFT"
+      },
+      "s3_uri": "s3://multimodal-rag-data-nov14/figures/6077605/6077605_fig_001.png",
+      "s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/6077605/6077605_fig_001.png",
+      "sha256": "fc0dadc28e788d916d4de3c091739192fcb23953026e4b95c394c35b1a63ac91"
+    },
+    {
+      "figure_id": "6077605_fig_002",
+      "figure_index": 2,
+      "page_number": 4,
+      "type": "chart_graph",
+      "classifier_v2_5": {
+        "top_class": "line_chart",
+        "confidence": 0.9983,
+        "predictions": [
+          {
+            "class_name": "line_chart",
+            "confidence": 0.9983
+          },
+          {
+            "class_name": "scatter_plot",
+            "confidence": 0.0008
+          },
+          {
+            "class_name": "bar_chart",
+            "confidence": 0.0008
+          },
+          {
+            "class_name": "engineering_drawing",
+            "confidence": 0.0
+          },
+          {
+            "class_name": "box_plot",
+            "confidence": 0.0
+          }
+        ]
+      },
+      "caption": "Figure 3. Assortative versus Random Mating, 2005",
+      "ocr_text": "Cumulative share of household income, /,,\n\n99\n\n06s\n\n033\n\n\u00b0.\n00 02 04 06 08 10 00 02 04 06 08\nCumulative percentile of households, p\n\n  \n\n19",
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/6077605/6077605_fig_002.png",
+      "image_dimensions": [
+        389,
+        307
+      ],
+      "bbox": {
+        "l": 259.77,
+        "t": 646.74,
+        "r": 454.54,
+        "b": 492.94,
+        "coord_origin": "CoordOrigin.BOTTOMLEFT"
+      },
+      "s3_uri": "s3://multimodal-rag-data-nov14/figures/6077605/6077605_fig_002.png",
+      "s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/6077605/6077605_fig_002.png",
+      "sha256": "6da18c5063b8554e9e0dbc5f2284028d3bb70b16365adc2f30606cc9a5b92304"
+    },
+    {
+      "figure_id": "6077605_fig_003",
+      "figure_index": 3,
+      "page_number": 5,
+      "type": "chart_graph",
+      "classifier_v2_5": {
+        "top_class": "line_chart",
+        "confidence": 0.9985,
+        "predictions": [
+          {
+            "class_name": "line_chart",
+            "confidence": 0.9985
+          },
+          {
+            "class_name": "scatter_plot",
+            "confidence": 0.0013
+          },
+          {
+            "class_name": "bar_chart",
+            "confidence": 0.0002
+          },
+          {
+            "class_name": "box_plot",
+            "confidence": 0.0
+          },
+          {
+            "class_name": "table",
+            "confidence": 0.0
+          }
+        ]
+      },
+      "caption": "Figure 4. Married Female Labor-Force Participation, 1960 and 2005",
+      "ocr_text": "2\n\ness\nBesa\n\nMarried female labor-force participation\ng\n\n  \n\n=\n3\n2\n3\n2\n3.\n2\nE\nS\n&\n\n0 02 04 06 08 10 0 02 04 06 08 10\nPercentile, | Percentile, j",
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/6077605/6077605_fig_003.png",
+      "image_dimensions": [
+        390,
+        277
+      ],
+      "bbox": {
+        "l": 48.91,
+        "t": 645.02,
+        "r": 243.84,
+        "b": 506.42,
+        "coord_origin": "CoordOrigin.BOTTOMLEFT"
+      },
+      "s3_uri": "s3://multimodal-rag-data-nov14/figures/6077605/6077605_fig_003.png",
+      "s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/6077605/6077605_fig_003.png",
+      "sha256": "8279129234c5722d9b678d5658150ef406e78c13a6cd683b10e41ee75bd8ac2f"
+    },
+    {
+      "figure_id": "6077605_fig_004",
+      "figure_index": 4,
+      "page_number": 8,
+      "type": "chart_graph",
+      "classifier_v2_5": {
+        "top_class": "line_chart",
+        "confidence": 0.9349,
+        "predictions": [
+          {
+            "class_name": "line_chart",
+            "confidence": 0.9349
+          },
+          {
+            "class_name": "bar_chart",
+            "confidence": 0.0549
+          },
+          {
+            "class_name": "scatter_plot",
+            "confidence": 0.0093
+          },
+          {
+            "class_name": "engineering_drawing",
+            "confidence": 0.0003
+          },
+          {
+            "class_name": "box_plot",
+            "confidence": 0.0002
+          }
+        ]
+      },
+      "caption": "FIGURE A1. THE LORENZ CURVE AND GINI COEFFICIENT",
+      "ocr_text": "ne 4 = 8\no 6 6 6 6\n\n \n\n \n \n\n \n \n\n\u2018@WODU| PJOYESNOH Jo eieys sANe|nWNO\n\na\n3\n\n  \n\n \n\nCumulative Percentile of Householde, >",
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/6077605/6077605_fig_004.png",
+      "image_dimensions": [
+        654,
+        519
+      ],
+      "bbox": {
+        "l": 137.59,
+        "t": 703.47,
+        "r": 464.32,
+        "b": 444.1,
+        "coord_origin": "CoordOrigin.BOTTOMLEFT"
+      },
+      "s3_uri": "s3://multimodal-rag-data-nov14/figures/6077605/6077605_fig_004.png",
+      "s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/6077605/6077605_fig_004.png",
+      "sha256": "e566a41774562fda23722224636036f0fee49d7fc720aa69e69c5f6a686272d0"
+    }
+  ],
+  "chunks": [
+    {
+      "chunk_id": "6077605_chunk_0000",
+      "chunk_index": 0,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "By Jeremy Greenwood, Nezih Guner, Georgi Kocharkov, and Cezar Santos*\nHas there been an increase in positive assortative mating on the marriage market since 1960? How does positive assortative mating in the marriage market contribute to income inequality across households? These two questions are addressed here. To answer them, samples of hundreds of thousands of households from the United States Census Bureau are analyzed for the period 1960 to 2005.",
+      "token_count": 90,
+      "headings": [
+        "Marry Your Like: Assortative Mating and Income Inequality \u2020"
+      ],
+      "page_numbers": [
+        1
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 455,
+      "word_count": 70,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0001",
+      "chunk_index": 1,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "Start with the first question: Has there been a rise in positive assortative mating in marriage across US households? To address this question, consider a regression between a wife's educational level and her husband's. In particular, a regression of the following form is run for the years y = 1960, 1970, 1980, 1990, 2000, 2005:\n<!-- formula-not-decoded -->",
+      "token_count": 85,
+      "headings": [
+        "I. The Rise in Positive Assortative Mating"
+      ],
+      "page_numbers": [
+        1
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 359,
+      "word_count": 58,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0002",
+      "chunk_index": 2,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "* Greenwood: Department of Economics, University of Pennsylvania, 3718 Locust Walk, Philadelphia, PA 19104-6297; Guner: MOVE, Facultat d'Economia, Edifici B, Campus de Bellaterra, 08193 Bellaterra, Cerdanyola del Vall\u00e8s, Spain (e-mail: nezih.guner@movebarcelona. eu); Kocharkov: Department of Economics, University of Konstanz, Universit\u00e4tsstr. 10, 78457 Konstanz, Germany (e-mail: georgi@georgikocharkov.com); Santos: Department of Economics, University of Mannheim, L7, 3-5, 68131 Mannheim, Germany (e-mail: santos@uni-mannheim.de). Additionally, Nezih Guner thanks the European Research Council (ERC Grant 263600). Additional information about this research is provided in the online Appendix.",
+      "token_count": 210,
+      "headings": [
+        "I. The Rise in Positive Assortative Mating"
+      ],
+      "page_numbers": [
+        1
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 696,
+      "word_count": 82,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0003",
+      "chunk_index": 3,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "\u2020 Go to http://dx.doi.org/10.1257/aer.104.5.348 to visit the article page for additional materials and author disclosure statement(s).\n\u03b3t\nFigure 1. The Rise In Positive Assortative Mating, 1960-2005\n\nLine chart\nNotes: The variables \u03b3t , \u03c4t , and \u03b4t are measures of assortative mating for the years t = 1960, 1970, \u2026 , 2000, 2005. A higher value for a variable shows a higher degree of positive assortative mating. See the text for a description of the variables.\nSource: See the online Appendix for a description of the data used in all figures and tables.",
+      "token_count": 144,
+      "headings": [
+        "I. The Rise in Positive Assortative Mating"
+      ],
+      "page_numbers": [
+        1
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 556,
+      "word_count": 93,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0004",
+      "chunk_index": 4,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "Here edu my h and edu my w represent the years of education for the husband and wife in marriage m for year y. The variable yearty is a time dummy. It is set up so that yearty = 1, if t = y, and yearty = 0, if t \u2260 y, where t \u2208 \uf774 \u2261 {1970, 1980, 1990, 2000, 2005}. The coefficient \u03b2 measures the impact of a husband's education on his wife's for the baseline year 1960, since yearty = 0, for all t, when y = 1960. The coefficient \u03b3t gives the additional impact of a husband's education on his wife's relative to the baseline year, 1960. The evolution of \u03b3t over time speaks to changes in the degree of assortative mating. The regression also includes a fixed effect for each year as measured by the constants \u03b1 and \u03b8t. The \u03b8ts control for the secular rise in the educational levels for the married population.",
+      "token_count": 201,
+      "headings": [
+        "I. The Rise in Positive Assortative Mating"
+      ],
+      "page_numbers": [
+        1,
+        2
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 807,
+      "word_count": 159,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0005",
+      "chunk_index": 5,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "The left-hand-side panel of Figure 1 plots the upshot of the regression analysis. As can be seen, \u03b3t rises over time, implying that the degree of assortative mating has increased.\nThe levels of education are collapsed into five categories for the rest of the analysis: less than high school (HS-), high school (HS ), some \u00adcollege (C-), college (C ), and post college (C+). Kendall's \u03c4 rank correlation is computed between a husband's and wife's education for each year. The changes in Kendall's \u03c4 over time are illustrated in Figure 1, right-hand-side panel. While the series displays some nonmonotonicity, Kendall's \u03c4 is clearly higher in 2005 relative to 1960.",
+      "token_count": 161,
+      "headings": [
+        "I. The Rise in Positive Assortative Mating"
+      ],
+      "page_numbers": [
+        1,
+        2
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 663,
+      "word_count": 109,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0006",
+      "chunk_index": 6,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "Last, the pattern of assortative mating between a husband's and wife's educational levels can be examined in a contingency table, as the upper panel in Table 1 does. Each cell in the contingency table for a year gives the observed fraction of married households that occurs in that educational pairing. The diagonal of the contingency table describes the matches that occur when husband and wife have identical educational levels. One can also construct the contingency tables that would obtain for each year if husbands and wives matched randomly. These are presented in the online Appendix for the years 1960 and 2005. Take the sum along the diagonal for each of these two types of matches, actual and random. Next, compute the ratio of the actual to random matches and denote it by \u03b4. This ratio is also plotted in Figure 1, right-handside panel, for the years 1960, 1970, \u22ef , 2005. First, as can be seen, there is positive assortative mating.",
+      "token_count": 199,
+      "headings": [
+        "I. The Rise in Positive Assortative Mating"
+      ],
+      "page_numbers": [
+        2
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 946,
+      "word_count": 161,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0007",
+      "chunk_index": 7,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "That is, the ratios are larger than one, implying that the number of matches between husband and wife with the identical education level is larger than what would occur if matching was random. Second, they increase over time. Greenwood et al. (2012) present a structural model of this rise in positive assortative mating.",
+      "token_count": 64,
+      "headings": [
+        "I. The Rise in Positive Assortative Mating"
+      ],
+      "page_numbers": [
+        2
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 321,
+      "word_count": 53,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0008",
+      "chunk_index": 8,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "Turn to the second question: How does marital sorting affect household income inequality? Interest in this question is not without precedence. For example, Cancian and Reed (1998) and Schwartz (2010) both conclude that an increase in assortative mating has led to a rise in income inequality. Fern\u00e1ndez and Rogerson (2001) study a model of intergenerational mobility and show that higher marital sorting significantly increases long-run inequality. The current research addresses this question using an \u00adaccounting-based methodology, which is quite different from other studies. Some income statistics for married households by educational class are presented in the lower panel of Table 1. Each cell gives the married household's income relative to mean income in the economy across all households, married and/or single. In 1960 if a woman with a less-than-high-school education (HS-) married a similarly educated man their household income would be 77 percent of mean household income.",
+      "token_count": 189,
+      "headings": [
+        "II. Assortative Mating and Income Inequality"
+      ],
+      "page_numbers": [
+        2
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 988,
+      "word_count": 147,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0009",
+      "chunk_index": 9,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "If that same woman married a man with a college education (C ) then household income would be 123 percent of the mean. Alternatively, in 2005 if a woman with post-college education (C+) marries a man with a less-than-high-school education their income would be 92 percent of mean household income. This rises to 219 percent if her husband also has a post-college education. So, at some level, sorting matters for household income.",
+      "token_count": 93,
+      "headings": [
+        "II. Assortative Mating and Income Inequality"
+      ],
+      "page_numbers": [
+        2
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 430,
+      "word_count": 72,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0010",
+      "chunk_index": 10,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "Let f ij denote the fraction of households in the United States that are of type i in income percentile j and rij represent the income of such a household relative to mean household income. The percentile index j is expressed in terms of fractions (e.g., 0.10 instead of 10). The types are classified as follows: There are married and single households. In a married household each person is indexed by one of the above educational levels. The wife is also categorized by whether she works or not. Singles are just classified by their educational levels. There are ten income percentiles (deciles) so j \u2208 {0.1, 0.2, \u2026 , 1.0}. This leads to 550 (i, j)-combinations of households in total for each year. The share of aggregate income that percentile j accounts for, sj , is given by sj = \u2211 i f ij rij.",
+      "token_count": 195,
+      "headings": [
+        "A. Constructing Lorenz Curves and Gini Coefficients"
+      ],
+      "page_numbers": [
+        2,
+        3
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 799,
+      "word_count": 145,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0011",
+      "chunk_index": 11,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "The cumulative share of income at percentile p is thus lp \u2261 \u2211 j p sj = \u2211 j p \u2211 i f ij rij . A Lorenz curve plots lp against p = \u2211 j p \u2211 i f ij . The Gini coefficient, g, is twice the area between the Lorenz curve and the 45\u00ba line. If p moves continuously then the Gini coefficient is defined by g = 2 \u222b 0 1 | lp - p | dp, where 0 \u2264 g \u2264 1. A higher value for g implies a greater degree of income inequality. The Lorenz curve and Gini coefficient are clearly functions Notes: In the top panel each cell gives the observed fraction of married households that lie in the indicated educational pairing between husbands and wives. In the bottom panel a cell denotes household income for a pairing relative to mean income across all households. Household income in each cell is adjusted by an equivalence scale to account for the differences in household size (including children).",
+      "token_count": 198,
+      "headings": [
+        "A. Constructing Lorenz Curves and Gini Coefficients"
+      ],
+      "page_numbers": [
+        2,
+        3
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 874,
+      "word_count": 173,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0012",
+      "chunk_index": 12,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "The row marked marginal distribution gives the fraction of females in each educational category; i.e., the marginal distribution over education for females.\n",
+      "token_count": 28,
+      "headings": [
+        "A. Constructing Lorenz Curves and Gini Coefficients"
+      ],
+      "page_numbers": [
+        2,
+        3
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 157,
+      "word_count": 22,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0013",
+      "chunk_index": 13,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "| - |\n| Table 1-Contingency Tables: Assortative Mating and Income by Educational Class |\n| Marital sorting by educational pairing, 1 = Marital sorting by educational pairing. Marital sorting by educational pairing, 2 = Marital sorting by educational pairing. Marital sorting by educational pairing, 3 = Marital sorting by educational pairing. Marital sorting by educational pairing, 4 = Marital sorting by educational pairing. Marital sorting by educational pairing, 5 = Marital sorting by educational pairing. Husband, 1 = . Husband, 2 = . Husband, 3 = Wife. Husband, 4 = . Husband, 5 = . , 1 = HS-. , 2 = HS. , 3 = C-. , 4 = C. , 5 = C+. 1960, 1 = . 1960, 2 = . 1960, 3 = . 1960, 4 = . 1960, 5 = . HS-, 1 = 0.323. HS-, 2 = 0.138. HS-, 3 = 0.019. HS-, 4 = 0.004.",
+      "token_count": 210,
+      "headings": [
+        "A. Constructing Lorenz Curves and Gini Coefficients"
+      ],
+      "page_numbers": [
+        3
+      ],
+      "has_table": true,
+      "has_image": false,
+      "char_length": 763,
+      "word_count": 152,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0014",
+      "chunk_index": 14,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "| - |\n HS-, 5 = 0.001. HS, 1 = 0.076. HS, 2 = 0.165. HS, 3 = 0.028. HS, 4 = 0.008. HS, 5 = 0.002. C-, 1 = 0.018. C-, 2 = 0.051. C-, 3 = 0.027. C-, 4 = 0.008. C-, 5 = 0.002. C, 1 = 0.005. C, 2 = 0.027. C, 3 = 0.019. C, 4 = 0.018. C, 5 = 0.003. C+, 1 = 0.003. C+, 2 = 0.016. C+, 3 = 0.017. C+, 4 = 0.016. C+, 5 = 0.008. Marginal distribution, wives, 1 =",
+      "token_count": 208,
+      "headings": [
+        "A. Constructing Lorenz Curves and Gini Coefficients"
+      ],
+      "page_numbers": [
+        3
+      ],
+      "has_table": true,
+      "has_image": false,
+      "char_length": 351,
+      "word_count": 92,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0015",
+      "chunk_index": 15,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "| - |\n 0.425. Marginal distribution, wives, 2 = 0.396. Marginal distribution, wives, 3 = 0.110. Marginal distribution, wives, 4 = 0.054. Marginal distribution, wives, 5 = 0.016. 2005, 1 = . 2005, 2 = . 2005, 3 = . 2005, 4 = . 2005, 5 = . HS-, 1 = 0.039. HS-, 2 = 0.031. HS-, 3 = 0.010. HS-, 4 = 0.003. HS-, 5 = 0.001. HS, 1 = 0.023. HS, 2 = 0.192. HS, 3 = 0.082. HS, 4 = 0.037. HS, 5 = 0.012. C-, 1 = 0.005. C-, 2 = 0.065. C-, 3 = 0.088. C-, 4 =",
+      "token_count": 207,
+      "headings": [
+        "A. Constructing Lorenz Curves and Gini Coefficients"
+      ],
+      "page_numbers": [
+        3
+      ],
+      "has_table": true,
+      "has_image": false,
+      "char_length": 445,
+      "word_count": 103,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0016",
+      "chunk_index": 16,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "| - |\n 0.047. C-, 5 = 0.016. C, 1 = 0.002. C, 2 = 0.030. C, 3 = 0.045. C, 4 = 0.104. C, 5 = 0.037. C+, 1 = 0.001. C+, 2 = 0.010. C+, 3 = 0.018. C+, 4 = 0.050. C+, 5 = 0.053. Marginal distribution, wives, 1 = 0.070. Marginal distribution, wives, 2 = 0.329. Marginal distribution, wives, 3 = 0.242. Marginal distribution, wives, 4 = 0.241. Marginal distribution, wives, 5 = 0.118. Marital income by educational pairing, 1 = Marital income by educational pairing. Marital income by educational pairing, 2 = Marital income by educational pairing. Marital income by educational pairing, 3 = Marital income by educational pairing. Marital",
+      "token_count": 209,
+      "headings": [
+        "A. Constructing Lorenz Curves and Gini Coefficients"
+      ],
+      "page_numbers": [
+        3
+      ],
+      "has_table": true,
+      "has_image": false,
+      "char_length": 632,
+      "word_count": 115,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0017",
+      "chunk_index": 17,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "| - |\n income by educational pairing, 4 = Marital income by educational pairing. Marital income by educational pairing, 5 = Marital income by educational pairing. 1960, 1 = . 1960, 2 = . 1960, 3 = . 1960, 4 = . 1960, 5 = . HS-, 1 = 0.765. HS-, 2 = 0.918. HS-, 3 = 1.040. HS-, 4 = 1.243. HS-, 5 = 1.395. HS, 1 = 0.935. HS, 2 = 1.031. HS, 3 = 1.148. HS, 4 = 1.344. HS, 5 = 1.581. C-, 1 = 1.071. C-, 2 = 1.185. C-, 3 = 1.278. C-, 4 = 1.442. C-, 5 = 1.593. C, 1 = 1.234. C, 2 =",
+      "token_count": 206,
+      "headings": [
+        "A. Constructing Lorenz Curves and Gini Coefficients"
+      ],
+      "page_numbers": [
+        3
+      ],
+      "has_table": true,
+      "has_image": false,
+      "char_length": 473,
+      "word_count": 113,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0018",
+      "chunk_index": 18,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "| - |\n 1.349. C, 3 = 1.420. C, 4 = 1.529. C, 5 = 1.673. C+, 1 = 1.357. C+, 2 = 1.476. C+, 3 = 1.568. C+, 4 = 1.631. C+, 5 = 1.764. 2005, 1 = . 2005, 2 = . 2005, 3 = . 2005, 4 = . 2005, 5 = . HS-, 1 = 0.409. HS-, 2 = 0.586. HS-, 3 = 0.692. HS-, 4 = 0.904. HS-, 5 = 0.918. HS, 1 = 0.554. HS, 2 = 0.827. HS, 3 = 0.932. HS, 4 = 1.166. HS, 5 = 1.327. C-, 1 =",
+      "token_count": 206,
+      "headings": [
+        "A. Constructing Lorenz Curves and Gini Coefficients"
+      ],
+      "page_numbers": [
+        3
+      ],
+      "has_table": true,
+      "has_image": false,
+      "char_length": 353,
+      "word_count": 99,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0019",
+      "chunk_index": 19,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "| - |\n 0.661. C-, 2 = 0.958. C-, 3 = 1.042. C-, 4 = 1.255. C-, 5 = 1.434. C, 1 = 0.852. C, 2 = 1.250. C, 3 = 1.335. C, 4 = 1.600. C, 5 = 1.793. C+, 1 = 1.303. C+, 2 = 1.495. C+, 3 = 1.666. C+, 4 = 1.896. C+, 5 = 2.193 |\n\nSource: Again, see the online Appendix for a description of the data used in all figures and tables.\nof the f ijs and the rijs, for all i and j, so write lp = Lorenzp({ f ij}, {rij}) and g = Gini({ f ij}, {rij}).",
+      "token_count": 210,
+      "headings": [
+        "A. Constructing Lorenz Curves and Gini Coefficients"
+      ],
+      "page_numbers": [
+        3
+      ],
+      "has_table": true,
+      "has_image": false,
+      "char_length": 433,
+      "word_count": 106,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0020",
+      "chunk_index": 20,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "The Lorenz curves for 1960 and 2005 are pictured in the left-hand-side panel of Figure 2. They show a rise in inequality. The Gini coefficient rises from 0.34 to 0.43. The right-handside panel shows the relative income for each percentile. In 1960 a household at the tenth percentile earned 16 percent of mean income. This dropped to 8 percent in 2005. A household in the ninetieth percentile earned 251 percent of mean income in 1960 versus 317 percent in 2005. Incomes are more polarized in 2005. The change in wages across individuals is the primary driver of this increase in income inequality.",
+      "token_count": 130,
+      "headings": [
+        "A. Constructing Lorenz Curves and Gini Coefficients"
+      ],
+      "page_numbers": [
+        3
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 598,
+      "word_count": 102,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0021",
+      "chunk_index": 21,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "Suppose that matching was random instead of assortative. What would have happened to the Notes: The right-hand-side panel shows average income for a household in the j-th percentile relative to mean household income in the economy. The left-hand-side panel shows the Lorenz curves for 1960 and 2005. See the online Appendix for more detail on how the Lorenz curves are constructed.\nFigure 2. Income Inequality, 1960 and 2005\n\nLine chart",
+      "token_count": 92,
+      "headings": [
+        "B. Assortative versus Random Matching"
+      ],
+      "page_numbers": [
+        3,
+        4
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 436,
+      "word_count": 70,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0022",
+      "chunk_index": 22,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "income distributions in 1960 and 2005? To do this experiment the observed patterns of matching for married couples shown in the contingency tables are replaced by the patterns that would occur if matching was random-again, see the online Appendix for the random matching contingency tables. Let \uf76d represent that set of indices for married couples and \uf773 be the set for singles. The experiment involves replacing the observed { f ij}s for (i, j) \u2208 \uf76d with the set that would obtain if matching was random, denoted by { \u02dc f ij} for (i, j) \u2208 \uf76d. The counterfactual Lorenz curve and Gini coefficient are given by Lorenzp({ f ij \u2032 }, {rij}) and Gini ({ f ij \u2032 }, {rij}), where { f ij \u2032 } \u2261 { \u02dc f ij}\uf76d \u222a { f ij}\uf773.",
+      "token_count": 185,
+      "headings": [
+        "B. Assortative versus Random Matching"
+      ],
+      "page_numbers": [
+        4
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 704,
+      "word_count": 136,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0023",
+      "chunk_index": 23,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "The results of the counterfactual experiment are interesting. Moving from the observed pattern of assortative matching in 1960 to a random pattern has little discernible impact on income inequality. The Gini coefficient drops only slightly to 0.33. Repeating the experiment for 2005 has a marked impact on the income distribution, that is shown in the left-hand-side panel of Figure 3. As can be seen, the Lorenz curve shifts in and the Gini drops from 0.43 to 0.34. (The analogous diagram for 1960 is not shown since the shift in the Lorenz curve is not noticeable.) Why does this experiment affect the Lorenz curve for 2005 but not 1960? This question will be addressed now.\nFigure 3. Assortative versus Random Mating, 2005\n\nLine chart",
+      "token_count": 161,
+      "headings": [
+        "B. Assortative versus Random Matching"
+      ],
+      "page_numbers": [
+        4
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 737,
+      "word_count": 123,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0024",
+      "chunk_index": 24,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "Notes: The left-hand-side panel shows the Lorenz curves in 2005 both for the data and when matching is random. The right-hand-side panel shows the Lorenz curves in 2005 both for the data and when matching is done according to a contingency table for 1960 that is standardized using the 2005 marginal distributions over education for men and women.",
+      "token_count": 73,
+      "headings": [
+        "B. Assortative versus Random Matching"
+      ],
+      "page_numbers": [
+        4
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 347,
+      "word_count": 58,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0025",
+      "chunk_index": 25,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "For positive assortative matching to have an impact on income inequality married females must work. Married females worked more in 2005 than 1960. The right-hand-side panel of Figure 4 shows married female labor-force participation by percentile. As can be seen, across all income percentiles labor-force participation was higher in 2005 versus 1960, but the increase is most precipitous at the highest percentiles. For example, at the eightieth percentile 42 percent of married women worked in 1960. This rose to 77 percent in 2005. At the twentieth percentile the numbers are 25 and 34 percent. The left-hand-side panel of Figure 4 shows the contribution of the wife's labor income to household labor income, again by percentile. The wife's contribution to household labor income is significantly larger in 2005 relative to 1960. This share rises with the income percentile.",
+      "token_count": 183,
+      "headings": [
+        "C. Matching and Married Female Labor-Force Participation"
+      ],
+      "page_numbers": [
+        4
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 876,
+      "word_count": 137,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0026",
+      "chunk_index": 26,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "At the eightieth percentile the share that married women provided to household income rose from 16 to 34 percent, and from 13 to 25 percent at the twentieth percentile.",
+      "token_count": 35,
+      "headings": [
+        "C. Matching and Married Female Labor-Force Participation"
+      ],
+      "page_numbers": [
+        4
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 168,
+      "word_count": 29,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0027",
+      "chunk_index": 27,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "To examine the impact of married female labor-force participation (MFLP) and sorting on Notes: The right-hand-side panel shows married female labor-force participation by income percentile for 1960 and 2005. The left-hand-side panel illustrates the share of the wife's labor income in household labor income income inequality, undertake this thought experiment. Assume that matching is random in the years 1960 and 2005 with one twist: assume that in 1960 married women participate in the labor force at their 2005 levels and\u00ad that in 2005 they work at their 1960 levels. The \u00adresulting Gini coefficients are 0.32 and 0.44. When matching is random, married female \u00adlabor-force participation has a significant dampening effect on income inequality for the year 2005. Random sorting works to equalize incomes across households in 2005 because it diversifies income across husbands and wives. But, this effect is only operational to the extent that married women work.",
+      "token_count": 189,
+      "headings": [
+        "C. Matching and Married Female Labor-Force Participation"
+      ],
+      "page_numbers": [
+        4,
+        5
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 965,
+      "word_count": 148,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0028",
+      "chunk_index": 28,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "(That is, for 2005 compare 0.34 with 0.44.) Random matching has less of an effect in 1960 than in 2005. Incomes are less polarized in 1960, as Figure 1 and the lower panel of Table 1 both show.\nFigure 4. Married Female Labor-Force Participation, 1960 and 2005\n\nLine chart\nAnother interesting question to ask is what would have happened to income inequality if couples in 2005 matched as in 1960. That is, replace the 2005 contingency table with the 1960 one. This experiment is somewhat tricky to operationalize. In 2005 people were much more educated than in 1960. The fractions of wives (husbands) in the various educational groups can be obtained by summing each column (row) across the rows (columns). In other words, the marginal distributions for husbands and wives linked with the contingency tables have changed across 1960 and 2005. The marginal distributions for females are shown in Table 1, upper panel. The rise in educational attainment for females is readily apparent.",
+      "token_count": 204,
+      "headings": [
+        "C. Matching and Married Female Labor-Force Participation"
+      ],
+      "page_numbers": [
+        4,
+        5
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 983,
+      "word_count": 163,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0029",
+      "chunk_index": 29,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "Standardized contingency tables for the years 1960 and 2005 can be constructed to control for this. The essential idea is that shifts in the marginal distributions across non-standardized contingency tables can distort the comparison of the core patterns of association between the variables in the tables. Using the iterative procedure outlined in Mosteller (1968), a contingency table for 1960 can be computed using the 2005 marginal distributions over educational categories for husbands and wives. Another one can be built for 2005 using the 1960 marginal distributions. (These standardized contingency tables, and the method for generating them, are presented in the online Appendix.) A comparison of the 1960 contingency table from the data with the standardized one for 2005 shows an increase in assortative mating. The (straight) sum of the diagonals rises from 0.54 to 0.60.",
+      "token_count": 174,
+      "headings": [
+        "C. Matching and Married Female Labor-Force Participation"
+      ],
+      "page_numbers": [
+        5
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 883,
+      "word_count": 135,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0030",
+      "chunk_index": 30,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "(A comparison of the 1960 standardized contingency table with the one in the data for 2005 also shows an increase along the diagonal from 0.44 to 0.48.) The Gini coefficients associated with these two standardized tables are 0.34 and 0.35. Therefore, if people matched in 2005 \u00adaccording to the 1960 standardized mating pattern there would be a significant reduction in income inequality; i.e., the Gini drops from 0.43 to 0.35. The inward shift in the Lorenz curve is shown in the \u00adright-hand-side panel of Figure 3.",
+      "token_count": 119,
+      "headings": [
+        "C. Matching and Married Female Labor-Force Participation"
+      ],
+      "page_numbers": [
+        5
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 517,
+      "word_count": 86,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0031",
+      "chunk_index": 31,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "Last, take the 1960 standardized table and additionally impose the 2005 levels of married female labor-force participation. Likewise, force the 1960 levels of married female \u00adlabor-force participation on the 2005 standardized contingency table. Now, the Gini coefficients are 0.33 and 0.44. Income inequality rises for 2005 (from 0.35 to 0.44). By shutting down married female-labor participation for 2005 income inequality worsens. The Lorenz curve for this experiment virtually lies on top of the one from the data for 2005 (but shifts very slightly outward), so it is not shown in Figure 3. This illustrates the importance of married female labor-force participation for understanding income inequality. The results of the experiments are catalogued in Table 2.",
+      "token_count": 153,
+      "headings": [
+        "C. Matching and Married Female Labor-Force Participation"
+      ],
+      "page_numbers": [
+        5
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 764,
+      "word_count": 115,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0032",
+      "chunk_index": 32,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "Table 2-Gini Coefficients, Data and Experiments\n\nData, 1960 = 0.34. Data, 2005 = 0.43. Random Matching, 1960 = 0.33. Random Matching, 2005 = 0.34. Random + 2005 MFLP, 1960 = 0.32. Random + 2005 MFLP, 2005 = . Random + 1960 MFLP, 1960 = . Random + 1960 MFLP, 2005 = 0.44. Standardized table, 1960 = 0.34. Standardized table, 2005 = 0.35. Standardized table + 2005 MFLP, 1960 = 0.33. Standardized table + 2005 MFLP, 2005 = . Standardized table + 1960 MFLP, 1960 = . Standardized table + 1960 MFLP, 2005 = 0.44\nNote: The online Appendix contains additional information on the methodology used to generate this table.",
+      "token_count": 174,
+      "headings": [
+        "C. Matching and Married Female Labor-Force Participation"
+      ],
+      "page_numbers": [
+        6
+      ],
+      "has_table": true,
+      "has_image": false,
+      "char_length": 613,
+      "word_count": 109,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0033",
+      "chunk_index": 33,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "So, if people matched in 2005 according to the standardized mating pattern observed in 1960, which showed less positive assortative matching, then income inequality would drop because income is more diversified across husband and wife. For this effect to function females need to work in 2005, as they did, or diversification in household income can't operate.",
+      "token_count": 68,
+      "headings": [
+        "C. Matching and Married Female Labor-Force Participation"
+      ],
+      "page_numbers": [
+        6
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 360,
+      "word_count": 56,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0034",
+      "chunk_index": 34,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "- Cancian, Maria, and Deborah Reed. 1998. \"Assessing the Effects of Wives' Earnings on Family Income Inequality.\" Review of Economics and Statistics 80 (1): 73-79.\n- Fern\u00e1ndez, Raquel, and Richard Rogerson. 2001. \"Sorting And Long-Run Inequality.\" Quarterly Journal of Economics 116 (4): 1305-41.\n- Greenwood, Jeremy, Nezih Guner, Georgi Kocharkov, and Cezar Santos. 2012. \"Technology and the Changing Family: A Unified Model of Marriage, Divorce, Educational Attainment and Married Female Labor-Force Participation.\" National Bureau of Economic Research Working Paper 17735.\n- Mosteller, Frederick. 1968. \"Association and Estimation in Contingency Tables.\" Journal of the American Statistical Association 63 (321): 1-28.\n- Schwartz, Christine R. 2010. \"Earnings Inequality and the Changing Association between Spouses' Earnings.\" American Journal of \u00adSociology 115 (5): 1524-57.",
+      "token_count": 207,
+      "headings": [
+        "REFERENCES"
+      ],
+      "page_numbers": [
+        6
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 879,
+      "word_count": 120,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0035",
+      "chunk_index": 35,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "ONLINE APPENDIX: GREENWOOD, GUNER, KOCHARKOV AND SANTOS (2014)",
+      "token_count": 16,
+      "headings": [
+        "REFERENCES"
+      ],
+      "page_numbers": [
+        7
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 62,
+      "word_count": 8,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0036",
+      "chunk_index": 36,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "The data used for this paper is freely available from the Integrated Public Use Microdata Series (IPUMS) website. The samples used in this study are taken from the 1 percent sample of the Census for the years 1960, 1970, 1980, 1990, 2000 and the American Community Survey (ACS) for the year 2005. The following variables were included for every year: year or the survey (variable name: year), spouse location flag (sploc), number of family members in the household (famsize), number of children in the household (nchild), age (age), sex (sex), marital status (marst), educational attainment (educ), employment status (empstat), total family income (ftotinc), wage and salary income (incwage). Only singles and married couples that are 25 to 54 years old are considered. The adults in these households either live by themselves or with their children, who are less than 19 years old.",
+      "token_count": 210,
+      "headings": [
+        "A1. Data"
+      ],
+      "page_numbers": [
+        7
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 882,
+      "word_count": 142,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0037",
+      "chunk_index": 37,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "Households in which there are other members such as grandparents, uncles/aunts, or other unrelated individuals are excluded. Households with subfamilies of any other type are also excluded from the analysis. Finally, widows, widowers and married individuals whose spouses are absent are excluded as well. Income variables are restricted to be non-negative.\nThere are 560 types of households used in the analysis. Households are broken down into finer categories than are reported in the text. In principle, this doesn't affect the analysis, since the finer classifications can be combined to attain the more aggregated ones. Following a counterfactual experiment, some households are moved into new income percentiles. So, in practice the finer classification allows more accurate re-sorting into the various income percentile when conducting the counterfactual experiments. Households are classified into different types as follows:",
+      "token_count": 176,
+      "headings": [
+        "A1. Data"
+      ],
+      "page_numbers": [
+        7
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 933,
+      "word_count": 134,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0038",
+      "chunk_index": 38,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "- 1) Marital status: married, never married males, never married females, divorced males, divorced females.\n- 2) Education: less than high school, high school, some college, college, more than college. For married households, both the husband and wife will have one of these educational levels.\n- 3) Market work: work, does not work. For married households both the husband and wife will have one of these levels of labor market activity.\n- 4) Children: no children, 1 child, 2 children, more than 2 children.\nFinally, households are divided into 10 deciles. So, for every year, there are 5,600 (i, j)-combinations of household types/deciles.",
+      "token_count": 148,
+      "headings": [
+        "A1. Data"
+      ],
+      "page_numbers": [
+        7
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 642,
+      "word_count": 103,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0039",
+      "chunk_index": 39,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "Think of a sample of different household types, i \u2208 {1, 2, ..., m}, situated in different percentiles, j \u2208 J , of the income distribution. Again, j is expressed as a fraction. Define fi j as the fraction of households that are of type-i in income percentile j. Let ri j represent household (i, j)'s income, yi j , relative to mean income, y. Each household's income is adjusted to a per-adult-equivalent basis using the OECD modified equivalence scale, which counts the first adult as 1, the second adult as 0.5 and each child as 0.3 adults. Equivalized households incomes are then divided by mean household income across the whole sample.\nThe share of income earned by percentile j is\n<!-- formula-not-decoded -->\nThe Lorenz curve is derived by plotting the cumulative shares of the population indexed by percentile p,",
+      "token_count": 201,
+      "headings": [
+        "A2. The Lorenz Curve and Gini Coefficient"
+      ],
+      "page_numbers": [
+        7
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 819,
+      "word_count": 141,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0040",
+      "chunk_index": 40,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "<!-- formula-not-decoded -->\nFIGURE A1. THE LORENZ CURVE AND GINI COEFFICIENT\n\nLine chart\nNote: The figure shows the construction of a Lorenz curve when there are four percentiles (quartiles). The Gini coefficient is twice the area between the 45 degree line and the Lorenz curve.\non the x-axis, against the cumulative share of income indexed by percentile p,\n<!-- formula-not-decoded -->\non the y-axis. Suppose that the unit interval is split up into n equally sized segments. Then, j \u2208 J = {1/n, \u00b7 \u00b7 \u00b7 , 1 - 1/n, 1}.",
+      "token_count": 146,
+      "headings": [
+        "A2. The Lorenz Curve and Gini Coefficient"
+      ],
+      "page_numbers": [
+        7,
+        8
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 518,
+      "word_count": 91,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0041",
+      "chunk_index": 41,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "Take the example of n = 4 (quartiles). The Lorenz curve described above is plotted in Figure 1. The Gini coefficient associated with the Lorenz curve equals twice the area between the Lorenz curve and the 45-degree line. Alternatively, the coefficient can be calculated as equaling 1 - 2\ufffd, where \ufffd is the area below the Lorenz Curve. In the case of quartiles the area \ufffd is the summation of the areas of the right triangle A, the right trapezoids B, C, and D. The coordinates on the x-axis are given by 0, p1 = 0.25, p2 = 0.5, p3 = 0.75, and 1.0. The y-axis coordinates of the Lorenz curve are given by 0, l0.25, l0.5, l0.75, and 1.0.",
+      "token_count": 184,
+      "headings": [
+        "A2. The Lorenz Curve and Gini Coefficient"
+      ],
+      "page_numbers": [
+        8
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 633,
+      "word_count": 120,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0042",
+      "chunk_index": 42,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "Then, using the formulas for the geometric areas A, B, C, and D, the Gini coefficient, g, can be derived as\n<!-- formula-not-decoded -->\nAfter rearranging and canceling out terms, the expression for the Gini coefficient can be simplified to\n<!-- formula-not-decoded -->\nThe cumulative shares of the population, the p's, are based on quartiles; i.e., p1 = 1/4, p2 = 2/4, \u00b7 \u00b7 \u00b7 . Thus, above expression can be rewritten as\n<!-- formula-not-decoded -->\nIn the more general case of n percentiles, the Gini coefficient equals\n<!-- formula-not-decoded -->\nThe version of this formula for an arbitrary number of income groups of any size and an arbitrary number of sub-populations (types) is presented in Rao (1969).",
+      "token_count": 204,
+      "headings": [
+        "A2. The Lorenz Curve and Gini Coefficient"
+      ],
+      "page_numbers": [
+        8,
+        9
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 709,
+      "word_count": 118,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0043",
+      "chunk_index": 43,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "Random matching can be imposed on the demographic structure of the U.S. population for each of these years in the sample. Table A1 presents the contingency tables that would occur if matching had been random in 1960 and 2005. Counterfactual Gini coefficients can then be computed. How is this done?",
+      "token_count": 63,
+      "headings": [
+        "IMPOSING RANDOM MATCHING"
+      ],
+      "page_numbers": [
+        9
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 298,
+      "word_count": 50,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0044",
+      "chunk_index": 44,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "First a bit of notation. Take the distribution of household, { fi j }. Recall that married households are indexed by the education of the husband, the education of the wife, their labor-force participation, and the number of children in the household. Let the sets MEH contain the indices of all married households with a husband who has the educational level, EH \u2208 {H S-, H S, C-, C, C+}, where H S- refers to a less-than-high-school educated person, H S refers to someone with a high-school education, C- is some college, C is college, and C+ is more-than-college educated. Similarly, the sets MEW contain married households with different educational levels for wives, EW .",
+      "token_count": 160,
+      "headings": [
+        "IMPOSING RANDOM MATCHING"
+      ],
+      "page_numbers": [
+        9
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 676,
+      "word_count": 115,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0045",
+      "chunk_index": 45,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "Furthermore, ML F PH (ML F PW ) contain all the married households with a husband's (wife's) labor-force participation status L F PH(W) \u2208 {W O RK H(W), ~W O RK H(W)}. Finally, the set MK I DS contain married households with a particular number of children K I DS \u2208 {0, 1, 2, 2+}. The set of all married households with a particular mix of the education, MEH ,EW , for the husband and the wife reads\n<!-- formula-not-decoded -->\nLet M represent the set containing all of the different types of married households. Clearly,\nwhere the term in parenthesis is the set of all married households of type (EH , EW , L F PH , L F PW , K I DS).\n<!-- formula-not-decoded -->",
+      "token_count": 195,
+      "headings": [
+        "IMPOSING RANDOM MATCHING"
+      ],
+      "page_numbers": [
+        9
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 663,
+      "word_count": 128,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0046",
+      "chunk_index": 46,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "Here is an example illustrating how the random matching experiment is performed. Take the first element of the matching table in 1960-see Table 1 of the main text. These are the marriages where both the husband and the wife are less-than-high-school educated. In 1960, the fraction of such marriages was 0.32. In terms of the current notation,\n<!-- formula-not-decoded -->\nNow impose the random matching table entry for type-(H S-, H S-) marriages in 1960; i.e., the first cell of the 1960 panel in Table A1. The fraction of such marriages, if matching in 1960 was random, is 0.21. Denote the counterfactual distribution to be imposed in 1960 by \u02dcf 1960 i j . The following equation must hold for the particular marriage group being discussed",
+      "token_count": 173,
+      "headings": [
+        "IMPOSING RANDOM MATCHING"
+      ],
+      "page_numbers": [
+        9,
+        10
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 742,
+      "word_count": 126,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0047",
+      "chunk_index": 47,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "The elements in the contingency table refer to the fraction of all married households that a particular type of match between husbands' and wives' educational levels constitutes. The elements in the cells are totals across all income percentiles. The fi j 's refer to the fraction of all households, married and single, that are of type i in income percentile j. Therefore, the cells in the contingency table are aggregated over income percentiles (as well as the other non-educational traits characterizing married households). The ratio of the total number of type-(H S-, H S-) marriages under random matching\n<!-- formula-not-decoded -->\n<!-- formula-not-decoded -->\n<!-- formula-not-decoded -->",
+      "token_count": 169,
+      "headings": [
+        "IMPOSING RANDOM MATCHING"
+      ],
+      "page_numbers": [
+        10
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 698,
+      "word_count": 107,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0048",
+      "chunk_index": 48,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "So, under random matching the number of type-(H S-, H S-) marriages is reduced by factor of 0.66 = 0.21/0.31. Assume that this reduction is spread out evenly across all of the income percentiles, or across all of the j's. Therefore, when undertaking the random matching experiment, \u02dcf 1960 i j should be constructed as follows:\nA similar scaling operation is performed for each of the other 24 possible matches. Thus, there is a scaling factor specific to each type of marriage (in the contingency table). For all single and divorced people, keep the original fractions; i.e., \u02dcf 1960 i j = f 1960 i j .",
+      "token_count": 147,
+      "headings": [
+        "IMPOSING RANDOM MATCHING"
+      ],
+      "page_numbers": [
+        10
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 603,
+      "word_count": 107,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0049",
+      "chunk_index": 49,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "The impact of random matching on inequality can be interacted with changes in the labor-force participation decisions of married females. The procedure for imposing random matching in 1960 is outlined in the previous section. Suppose that in addition to imposing random matching in 1960, married female labor-force participation is fixed at its 2005 level. How can this be implemented?\nThe married female labor-force participation rate in 1960 when random matching is imposed is\nwhile the labor-force participation rate in 2005 is\n<!-- formula-not-decoded -->\n<!-- formula-not-decoded -->\nDenote the desired new counterfactual distribution for married households in 1960 by \u0302f 1960 i j , for i \u2208 M and all j. This new counterfactual distribution for 1960 must give the 2005 married female labor-force participation rate so Bear in mind that the fraction of married people in 1960 does not change in the counterfactual experiments; i.e., \u2211",
+      "token_count": 198,
+      "headings": [
+        "IMPOSING RANDOM MATCHING WHILE HOLDING FIXED MARRIED FEMALE LABOR-FORCE PARTICIPATION"
+      ],
+      "page_numbers": [
+        10,
+        11
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 938,
+      "word_count": 147,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0050",
+      "chunk_index": 50,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "<!-- formula-not-decoded -->\n<!-- formula-not-decoded -->\nImposing a labor-force participation rate from 2005 onto the 1960 counterfactual distribution of random matching amounts to scaling up all (i, j)-combinations of married households in which women work. On the other hand, the married households in which women do not work should be scaled down so that the total fraction of married households does not change.\n<!-- formula-not-decoded -->\nTherefore, the counterfactual distribution, { \u0302f 1960 i j }, should be constructed in the following way:\nand\n<!-- formula-not-decoded -->\nThis way the total fraction of married households stays constant,\n<!-- formula-not-decoded -->\n<!-- formula-not-decoded -->",
+      "token_count": 184,
+      "headings": [
+        "IMPOSING RANDOM MATCHING WHILE HOLDING FIXED MARRIED FEMALE LABOR-FORCE PARTICIPATION"
+      ],
+      "page_numbers": [
+        11
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 707,
+      "word_count": 103,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0051",
+      "chunk_index": 51,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "As with the previous counterfactual distribution adjustment, keep the original fractions, \u0302f 1960 i j = f 1960 i j , for all single and divorced people.",
+      "token_count": 34,
+      "headings": [
+        "IMPOSING RANDOM MATCHING WHILE HOLDING FIXED MARRIED FEMALE LABOR-FORCE PARTICIPATION"
+      ],
+      "page_numbers": [
+        11
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 152,
+      "word_count": 27,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0052",
+      "chunk_index": 52,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "Mosteller (1968) suggests that when comparing two contingency tables they should first be standardized so that they both have the same marginal distributions associated with the rows and columns. Take a 5\u00d75 table. It can be standardized so that each element of the two marginal distributions is 1/5. This can be done by employing the Sinkhorn-Knopp (1967) algorithm, which iteratively scales each row and column. Standardization preserves the core pattern of association in a contingency table. For example, Tan, Kumar and Srivastava (2004) note that such standardization does not affect the odds ratios in a contingency table, a typical measure used to gauge the pattern of association between variables.",
+      "token_count": 146,
+      "headings": [
+        "A4. Standardizing Contingency Tables"
+      ],
+      "page_numbers": [
+        11,
+        12
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 705,
+      "word_count": 109,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0053",
+      "chunk_index": 53,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "- 1) Enter an iteration with a contingency table.\n- 2) This contingency table has a marginal distribution associated with the rows (for men) obtained by summing each row along its columns to obtain a total for that row. Divide each row through by 5 times its total. The marginal distribution associated with the rows is now (1/5, 1/5, 1/5, 1/5, 1/5).\n- 3) Compute the marginal distribution associated with the columns (for women) by summing each column along its rows to obtain a total for that column. Divide each column through by its 5 times its total.\n- 4) Recompute the marginal distribution associated with the rows. It has changed following the previous two steps. Check its distance from the desired marginal distribution (1/5, 1/5, 1/5, 1/5, 1/5). If it has reached the desired level of closeness then stop. If not, go back to Step 1.",
+      "token_count": 207,
+      "headings": [
+        "SINKHORN-KNOPP (1967) ALGORITHM"
+      ],
+      "page_numbers": [
+        12
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 843,
+      "word_count": 147,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0054",
+      "chunk_index": 54,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "The two resulting standardized tables for 1960 and 2005 are shown in Table A2. The diagonal elements in the 2005 table are larger than in the 1960 one. Assortative mating has increased.",
+      "token_count": 37,
+      "headings": [
+        "THE STANDARDIZED TABLES"
+      ],
+      "page_numbers": [
+        12
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 185,
+      "word_count": 32,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0055",
+      "chunk_index": 55,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "There is no need to standardize the tables so that each element of the marginal distributions is 1/5. One can standardize the 1960 table so that its marginal distributions coincide with those in the data for 2005, or vice versa. This results are shown in Table A3. This way the standardized table for 1960 (2005) can be compared with the one from the data for 2005 (1960). Both tables will have the same 2005 (1960) marginal distributions. By comparing the standardized contingency table for 1960 (Table A.3) with the contingency table from the data for 2005 (see Table 1 in the text) it can be seen that assortative mating has increased. Once again, the diagonal elements are larger in the table for 2005. Likewise, a comparison of the standardized table for 2005 (Table A.3) with the one in the data for 1960 (again, see Table 1 in the text) shows an increase in assortative mating.",
+      "token_count": 198,
+      "headings": [
+        "THE STANDARDIZED TABLES"
+      ],
+      "page_numbers": [
+        12
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 884,
+      "word_count": 155,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0056",
+      "chunk_index": 56,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "The increase in assortative mating in the U.S. has also been examined by Hou and Myles (2008), Lam (1997), Qian and Preston (1993), and Schwartz and Mare (2005) to name a few papers. Siow (2013) documents an increase in educational homogamy, but not a general increase in positive assortative matching. Lam (1997) and Schwartz (2010) discuss the relationship between assortative mating and income inequality. Cancian and Reed (1998, 1999) also focus on the role that married female-labor force participation plays in the relationship between assortative mating and income inequality.\n",
+      "token_count": 133,
+      "headings": [
+        "A5. A Brief Literature Review"
+      ],
+      "page_numbers": [
+        12,
+        13
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 584,
+      "word_count": 89,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0057",
+      "chunk_index": 57,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "| - |\n| TABLE A1-RANDOM MATCHING CONTINGENCY TABLES: MATING BY EDUCATIONAL CLASS |\n| Husband, Marital Sorting by Educational Pairing = HS-. Husband, Marital Sorting by Educational Pairing = 1960 HS. Husband, Marital Sorting by Educational Pairing = Wife C-. Husband, Marital Sorting by Educational Pairing = C. Husband, Marital Sorting by Educational Pairing = C+. HS-, Marital Sorting by Educational Pairing = 0.207. HS-, Marital Sorting by Educational Pairing = 0.192. HS-, Marital Sorting by Educational Pairing = 0.053. HS-, Marital Sorting by Educational Pairing = 0.026. HS-, Marital Sorting by Educational Pairing = 0.008. HS, Marital Sorting by Educational Pairing = 0.118. HS, Marital Sorting by Educational Pairing = 0.110. HS, Marital Sorting by Educational Pairing = 0.031. HS, Marital Sorting by Educational Pairing = 0.015. HS, Marital Sorting by Educational Pairing = 0.004. C-, Marital Sorting by Educational",
+      "token_count": 213,
+      "headings": [
+        "A5. A Brief Literature Review"
+      ],
+      "page_numbers": [
+        13
+      ],
+      "has_table": true,
+      "has_image": false,
+      "char_length": 924,
+      "word_count": 142,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0058",
+      "chunk_index": 58,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "| - |\n Pairing = 0.045. C-, Marital Sorting by Educational Pairing = 0.042. C-, Marital Sorting by Educational Pairing = 0.012. C-, Marital Sorting by Educational Pairing = 0.006. C-, Marital Sorting by Educational Pairing = 0.002. C, Marital Sorting by Educational Pairing = 0.030. C, Marital Sorting by Educational Pairing = 0.028. C, Marital Sorting by Educational Pairing = 0.008. C, Marital Sorting by Educational Pairing = 0.004. C, Marital Sorting by Educational Pairing = 0.001. C+, Marital Sorting by Educational Pairing = 0.025. C+, Marital Sorting by Educational Pairing = 0.024. C+, Marital Sorting by Educational Pairing = 0.007. C+, Marital Sorting by Educational Pairing = 0.003. C+, Marital Sorting by Educational Pairing = 0.001. Marginal, Wives, Marital Sorting by Educational Pairing = 0.425.",
+      "token_count": 213,
+      "headings": [
+        "A5. A Brief Literature Review"
+      ],
+      "page_numbers": [
+        13
+      ],
+      "has_table": true,
+      "has_image": false,
+      "char_length": 811,
+      "word_count": 127,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0059",
+      "chunk_index": 59,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "| - |\n Marginal, Wives, Marital Sorting by Educational Pairing = 0.396. Marginal, Wives, Marital Sorting by Educational Pairing = 0.110. Marginal, Wives, Marital Sorting by Educational Pairing = 0.054. Marginal, Wives, Marital Sorting by Educational Pairing = 0.016. , Marital Sorting by Educational Pairing = 2005. , Marital Sorting by Educational Pairing = 2005. , Marital Sorting by Educational Pairing = 2005. , Marital Sorting by Educational Pairing = 2005. , Marital Sorting by Educational Pairing = 2005. HS-, Marital Sorting by Educational Pairing = 0.006. HS-, Marital Sorting by Educational Pairing = 0.027. HS-, Marital Sorting by Educational Pairing = 0.020. HS-, Marital Sorting by Educational Pairing = 0.020. HS-, Marital Sorting by Educational Pairing = 0.010. HS, Marital Sorting by Educational Pairing = 0.024. HS, Marital Sorting by Educational Pairing = 0.114. HS, Marital Sorting by Educational Pairing =",
+      "token_count": 210,
+      "headings": [
+        "A5. A Brief Literature Review"
+      ],
+      "page_numbers": [
+        13
+      ],
+      "has_table": true,
+      "has_image": false,
+      "char_length": 925,
+      "word_count": 142,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0060",
+      "chunk_index": 60,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "| - |\n 0.084. HS, Marital Sorting by Educational Pairing = 0.084. HS, Marital Sorting by Educational Pairing = 0.041. C-, Marital Sorting by Educational Pairing = 0.015. C-, Marital Sorting by Educational Pairing = 0.073. C-, Marital Sorting by Educational Pairing = 0.054. C-, Marital Sorting by Educational Pairing = 0.053. C-, Marital Sorting by Educational Pairing = 0.026. C, Marital Sorting by Educational Pairing = 0.015. C, Marital Sorting by Educational Pairing = 0.072. C, Marital Sorting by Educational Pairing = 0.053. C, Marital Sorting by Educational Pairing = 0.053. C, Marital Sorting by Educational Pairing = 0.026. C+, Marital Sorting by Educational Pairing = 0.009. C+, Marital Sorting by Educational Pairing = 0.043. C+, Marital Sorting by Educational Pairing = 0.032.",
+      "token_count": 211,
+      "headings": [
+        "A5. A Brief Literature Review"
+      ],
+      "page_numbers": [
+        13
+      ],
+      "has_table": true,
+      "has_image": false,
+      "char_length": 788,
+      "word_count": 124,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0061",
+      "chunk_index": 61,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "| - |\n C+, Marital Sorting by Educational Pairing = 0.032. C+, Marital Sorting by Educational Pairing = 0.015. Marginal, Wives, Marital Sorting by Educational Pairing = 0.070. Marginal, Wives, Marital Sorting by Educational Pairing = 0.329. Marginal, Wives, Marital Sorting by Educational Pairing = 0.242. Marginal, Wives, Marital Sorting by Educational Pairing = 0.241. Marginal, Wives, Marital Sorting by Educational Pairing = 0.118 |\n\nNote: Each cell gives the fraction of married households that would lie in the indicated educational pairing between husbands and wives when matching is random.\n",
+      "token_count": 129,
+      "headings": [
+        "A5. A Brief Literature Review"
+      ],
+      "page_numbers": [
+        13
+      ],
+      "has_table": true,
+      "has_image": false,
+      "char_length": 599,
+      "word_count": 90,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0062",
+      "chunk_index": 62,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "| - |\n| TABLE A2-STANDARDIZED CONTINGENCY TABLES: ASSORTATIVE MATING BY EDUCATIONAL CLASS |\n| Marital Sorting by Educational Pairing, 1 = 1960. Marital Sorting by Educational Pairing, 2 = . Marital Sorting by Educational Pairing, 3 = . Marital Sorting by Educational Pairing, 4 = . Marital Sorting by Educational Pairing, 5 = . Marginal \u00b7 \u00b7 Husband, 1 = Distributions = HS-. Marginal \u00b7 \u00b7 Husband, 2 = (1/5, HS. Marginal \u00b7 \u00b7 Husband, 3 = \u00b7 , 1/5) Wife C-. Marginal \u00b7 \u00b7 Husband, 4 = C. Marginal \u00b7 \u00b7 Husband, 5 = C+. HS-, 1 = 0.126. HS-, 2 = 0.043. HS-, 3 = 0.017. HS-, 4 = 0.007. HS-, 5 = 0.007. HS, 1 = 0.046. HS, 2 = 0.079. HS, 3 = 0.038. HS, 4 =",
+      "token_count": 210,
+      "headings": [
+        "A5. A Brief Literature Review"
+      ],
+      "page_numbers": [
+        13
+      ],
+      "has_table": true,
+      "has_image": false,
+      "char_length": 646,
+      "word_count": 132,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0063",
+      "chunk_index": 63,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "| - |\n 0.019. HS, 5 = 0.017. C-, 1 = 0.020. C-, 2 = 0.045. C-, 3 = 0.067. C-, 4 = 0.037. C-, 5 = 0.032. C, 1 = 0.005. C, 2 = 0.023. C, 3 = 0.047. C, 4 = 0.081. C, 5 = 0.043. C+, 1 = 0.002. C+, 2 = 0.010. C+, 3 = 0.031. C+, 4 = 0.055. C+, 5 = 0.102. Marginal Distribution, Wives, 1 = 1/5 2005. Marginal Distribution, Wives, 2 = 1/5. Marginal Distribution, Wives, 3 = 1/5. Marginal Distribution, Wives, 4 = 1/5. Marginal Distribution, Wives, 5 =",
+      "token_count": 213,
+      "headings": [
+        "A5. A Brief Literature Review"
+      ],
+      "page_numbers": [
+        13
+      ],
+      "has_table": true,
+      "has_image": false,
+      "char_length": 443,
+      "word_count": 98,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0064",
+      "chunk_index": 64,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "| - |\n 1/5. Marginal Distributions = (1/5, \u00b7 \u00b7 \u00b7 , 1/5), 1 = Marginal Distributions = (1/5, \u00b7 \u00b7 \u00b7 , 1/5). Marginal Distributions = (1/5, \u00b7 \u00b7 \u00b7 , 1/5), 2 = Marginal Distributions = (1/5, \u00b7 \u00b7 \u00b7 , 1/5). Marginal Distributions = (1/5, \u00b7 \u00b7 \u00b7 , 1/5), 3 = Marginal Distributions = (1/5, \u00b7 \u00b7 \u00b7 , 1/5). Marginal Distributions = (1/5, \u00b7 \u00b7 \u00b7 , 1/5), 4 = Marginal Distributions = (1/5, \u00b7 \u00b7 \u00b7 , 1/5). Marginal Distributions = (1/5, \u00b7 \u00b7 \u00b7 , 1/5), 5 = Marginal Distributions = (1/5, \u00b7 \u00b7 \u00b7 , 1/5). HS-, 1 = 0.146. HS-, 2 = 0.035. HS-, 3 =",
+      "token_count": 211,
+      "headings": [
+        "A5. A Brief Literature Review"
+      ],
+      "page_numbers": [
+        13
+      ],
+      "has_table": true,
+      "has_image": false,
+      "char_length": 522,
+      "word_count": 115,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0065",
+      "chunk_index": 65,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "| - |\n 0.014. HS-, 4 = 0.004. HS-, 5 = 0.002. HS, 1 = 0.035. HS, 2 = 0.088. HS, 3 = 0.047. HS, 4 = 0.019. HS, 5 = 0.011. C-, 1 = 0.013. C-, 2 = 0.047. C-, 3 = 0.079. C-, 4 = 0.038. C-, 5 = 0.023. C, 1 = 0.004. C, 2 = 0.021. C, 3 = 0.039. C, 4 = 0.082. C, 5 = 0.054. C+, 1 = 0.002. C+, 2 = 0.010. C+, 3 = 0.022. C+, 4 = 0.057. C+, 5 =",
+      "token_count": 213,
+      "headings": [
+        "A5. A Brief Literature Review"
+      ],
+      "page_numbers": [
+        13
+      ],
+      "has_table": true,
+      "has_image": false,
+      "char_length": 333,
+      "word_count": 91,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0066",
+      "chunk_index": 66,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "| - |\n 0.109. Marginal Distribution, Wives, 1 = 1/5. Marginal Distribution, Wives, 2 = 1/5. Marginal Distribution, Wives, 3 = 1/5. Marginal Distribution, Wives, 4 = 1/5. Marginal Distribution, Wives, 5 = 1/5 |\n\nNote: The upper panel shows the contingency table for 1960 when it has been normalized using the Sinkhorn-Knopp algorithm so that each element of marginal distributions over education for men and women equals 1/5. The lower panel shows the same thing for 2005.\n",
+      "token_count": 118,
+      "headings": [
+        "A5. A Brief Literature Review"
+      ],
+      "page_numbers": [
+        13,
+        14
+      ],
+      "has_table": true,
+      "has_image": false,
+      "char_length": 472,
+      "word_count": 78,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0067",
+      "chunk_index": 67,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "| - |\n| TABLE A3-STANDARDIZED CONTINGENCY TABLES: ASSORTATIVE MATING BY EDUCATIONAL CLASS |\n| 1960 Using the 2005 Marginal Distributions Husband, Marital Sorting by Educational Pairing = HS-. 1960 Using the 2005 Marginal Distributions Husband, Marital Sorting by Educational Pairing = HS. 1960 Using the 2005 Marginal Distributions Husband, Marital Sorting by Educational Pairing = Wife C-. 1960 Using the 2005 Marginal Distributions Husband, Marital Sorting by Educational Pairing = C. 1960 Using the 2005 Marginal Distributions Husband, Marital Sorting by Educational Pairing = C+. HS-, Marital Sorting by Educational Pairing = 0.029. HS-, Marital Sorting by Educational Pairing = 0.035. HS-, Marital Sorting by Educational Pairing = 0.011. HS-, Marital Sorting by Educational Pairing = 0.005. HS-, Marital Sorting by Educational Pairing = 0.003. HS, Marital Sorting by Educational Pairing = 0.030. HS, Marital Sorting by Educational Pairing = 0.186. HS, Marital Sorting by Educational Pairing =",
+      "token_count": 210,
+      "headings": [
+        "A5. A Brief Literature Review"
+      ],
+      "page_numbers": [
+        14
+      ],
+      "has_table": true,
+      "has_image": false,
+      "char_length": 997,
+      "word_count": 149,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0068",
+      "chunk_index": 68,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "| - |\n 0.072. HS, Marital Sorting by Educational Pairing = 0.040. HS, Marital Sorting by Educational Pairing = 0.019. C-, Marital Sorting by Educational Pairing = 0.008. C-, Marital Sorting by Educational Pairing = 0.065. C-, Marital Sorting by Educational Pairing = 0.079. C-, Marital Sorting by Educational Pairing = 0.048. C-, Marital Sorting by Educational Pairing = 0.022. C, Marital Sorting by Educational Pairing = 0.002. C, Marital Sorting by Educational Pairing = 0.032. C, Marital Sorting by Educational Pairing = 0.055. C, Marital Sorting by Educational Pairing = 0.101. C, Marital Sorting by Educational Pairing = 0.028. C+, Marital Sorting by Educational Pairing = 0.001. C+, Marital Sorting by Educational Pairing = 0.010. C+, Marital Sorting by Educational Pairing = 0.025. C+, Marital",
+      "token_count": 213,
+      "headings": [
+        "A5. A Brief Literature Review"
+      ],
+      "page_numbers": [
+        14
+      ],
+      "has_table": true,
+      "has_image": false,
+      "char_length": 800,
+      "word_count": 126,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0069",
+      "chunk_index": 69,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "| - |\n Sorting by Educational Pairing = 0.048. C+, Marital Sorting by Educational Pairing = 0.047. Marginal Distribution, Wives, Marital Sorting by Educational Pairing = 0.070. Marginal Distribution, Wives, Marital Sorting by Educational Pairing = 0.329. Marginal Distribution, Wives, Marital Sorting by Educational Pairing = 0.242. Marginal Distribution, Wives, Marital Sorting by Educational Pairing = 0.241. Marginal Distribution, Wives, Marital Sorting by Educational Pairing = 0.118. , Marital Sorting by Educational Pairing = 2005. , Marital Sorting by Educational Pairing = . , Marital Sorting by Educational Pairing = . , Marital Sorting by Educational Pairing = . , Marital Sorting by Educational Pairing = . Using the 1960 Marginal Distributions, Marital Sorting by Educational Pairing = Using the 1960 Marginal Distributions. Using the 1960 Marginal Distributions, Marital Sorting by Educational Pairing = Using the 1960 Marginal Distributions. Using the 1960 Marginal Distributions, Marital Sorting by Educational Pairing = Using the 1960 Marginal Distributions. Using the 1960 Marginal Distributions, Marital Sorting by Educational Pairing = Using the 1960",
+      "token_count": 213,
+      "headings": [
+        "A5. A Brief Literature Review"
+      ],
+      "page_numbers": [
+        14
+      ],
+      "has_table": true,
+      "has_image": false,
+      "char_length": 1169,
+      "word_count": 169,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0070",
+      "chunk_index": 70,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "| - |\n Marginal Distributions. Using the 1960 Marginal Distributions, Marital Sorting by Educational Pairing = Using the 1960 Marginal Distributions. HS-, Marital Sorting by Educational Pairing = 0.354. HS-, Marital Sorting by Educational Pairing = 0.114. HS-, Marital Sorting by Educational Pairing = 0.015. HS-, Marital Sorting by Educational Pairing = 0.002. HS-, Marital Sorting by Educational Pairing = 0.000. HS, Marital Sorting by Educational Pairing = 0.054. HS, Marital Sorting by Educational Pairing = 0.183. HS, Marital Sorting by Educational Pairing = 0.033. HS, Marital Sorting by Educational Pairing = 0.007. HS, Marital Sorting by Educational Pairing = 0.001. C-, Marital Sorting by Educational Pairing = 0.011. C-, Marital Sorting by Educational Pairing = 0.054. C-, Marital Sorting by Educational Pairing = 0.031. C-, Marital Sorting by Educational Pairing = 0.008. C-,",
+      "token_count": 213,
+      "headings": [
+        "A5. A Brief Literature Review"
+      ],
+      "page_numbers": [
+        14
+      ],
+      "has_table": true,
+      "has_image": false,
+      "char_length": 886,
+      "word_count": 134,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0071",
+      "chunk_index": 71,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "| - |\n Marital Sorting by Educational Pairing = 0.001. C, Marital Sorting by Educational Pairing = 0.004. C, Marital Sorting by Educational Pairing = 0.027. C, Marital Sorting by Educational Pairing = 0.017. C, Marital Sorting by Educational Pairing = 0.019. C, Marital Sorting by Educational Pairing = 0.003. C+, Marital Sorting by Educational Pairing = 0.002. C+, Marital Sorting by Educational Pairing = 0.017. C+, Marital Sorting by Educational Pairing = 0.013. C+, Marital Sorting by Educational Pairing = 0.017. C+, Marital Sorting by Educational Pairing = 0.009. Marginal Distribution, Wives, Marital Sorting by Educational Pairing = 0.425. Marginal Distribution, Wives, Marital Sorting by Educational Pairing = 0.396. Marginal Distribution, Wives, Marital Sorting by Educational Pairing = 0.110. Marginal Distribution, Wives, Marital Sorting by Educational Pairing = 0.054. Marginal",
+      "token_count": 211,
+      "headings": [
+        "A5. A Brief Literature Review"
+      ],
+      "page_numbers": [
+        14
+      ],
+      "has_table": true,
+      "has_image": false,
+      "char_length": 890,
+      "word_count": 131,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0072",
+      "chunk_index": 72,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "| - |\n Distribution, Wives, Marital Sorting by Educational Pairing = 0.016 |\n\nNote: The upper panel shows the contingency table for 1960 when it has been normalized using the Sinkhorn-Knopp algorithm so that the marginal distributions for men and women over education equal what there are in the data for 2005. The lower panel shows the contingency table for 2005 when it has been normalized so that the marginal distributions for men and women equal what there are in the data for 1960.",
+      "token_count": 103,
+      "headings": [
+        "A5. A Brief Literature Review"
+      ],
+      "page_numbers": [
+        14
+      ],
+      "has_table": true,
+      "has_image": false,
+      "char_length": 487,
+      "word_count": 84,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0073",
+      "chunk_index": 73,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "Cancian, Maria and Deborah Reed. 1999. \"The Impact of Wives' Earnings on Income Inequality: Issues and Estimates.\" Demography, 36, (2): 173-84.\nHou, Feng and John Myles. 2008. \"The Changing Role of Education in the Marriage market: Assortative Marriage in Canada and the United States since the 1970s.\" Canadian Journal of Sociology, 33 (2): 337-366.\nLam, David. 1997. \"Demographic Variables and Income Inequality.\" In Handbook of Population and Family Economics, edited by Mark R. Rosenzweig and Oded Stark, 1015-1059. Amsterdam, Elsevier North Holland.\nMosteller, Frederick. 1968. \"Association and Estimation in Contingency Tables.\" Journal of the American Statistical Association, 63 (321): 1-28.",
+      "token_count": 172,
+      "headings": [
+        "ADDITIONAL REFERENCES FOR THE ONLINE APPENDIX"
+      ],
+      "page_numbers": [
+        14
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 699,
+      "word_count": 100,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0074",
+      "chunk_index": 74,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "- Qian, Zhenchao and Samuel H. Preston. 1993. \"Changes in American Marriage, 1972 to 1987: Availability and Forces of Attraction by Age and Education.\" American Sociological Review, 58 (4): 482-495.\n- Rao, V. M. 1969. \"Two Decompositions of Concentration Ratio.\" Journal of the Royal Statistical Society, Series A (General), 132 (3): 418-425.\n- Schwartz, Christine R. and Robert D. Mare. 2005. \"Trends in Educational Assortative Marriage from 1940 to 2003.\" Demography, 42 (4): 621-646.\nSinkhorn, Richard and Paul Knopp. 1967. \"Concerning Nonnegative Matrices and Doubly Stochastic Matrices.\" Pacific Journal of Mathematics, 21 (2): 343-348.\n- Siow, Aloysius. 2013. \"Testing Becker's Theory of Positive Assortative Matching.\" Journal of Labor Economics, forthcoming.",
+      "token_count": 208,
+      "headings": [
+        "ADDITIONAL REFERENCES FOR THE ONLINE APPENDIX"
+      ],
+      "page_numbers": [
+        14
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 766,
+      "word_count": 110,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_chunk_0075",
+      "chunk_index": 75,
+      "document_id": "6077605",
+      "chunk_type": "text_or_table",
+      "text": "Tan, Pang-Ning, Vipin Kumar, Jaideep Srivastava. 2004. \"Selecting the Right Objective Measure for Association Analysis.\" Information Systems, 29 (4): 293-313.",
+      "token_count": 44,
+      "headings": [
+        "ADDITIONAL REFERENCES FOR THE ONLINE APPENDIX"
+      ],
+      "page_numbers": [
+        14
+      ],
+      "has_table": false,
+      "has_image": false,
+      "char_length": 158,
+      "word_count": 20,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf"
+    },
+    {
+      "chunk_id": "6077605_figchunk_000",
+      "chunk_index": 76,
+      "document_id": "6077605",
+      "chunk_type": "figure_graph",
+      "text": "## Visual Chart / Graph: Figure 1. The Rise In Positive Assortative Mating, 1960-2005\n- Source Document: 6077605.pdf (Page 1)\n- Neural Classification: Line Chart (99.7% confidence) [Model: DocumentFigureClassifier-v2.5]\n- Visual Category: Chart Graph\n- Caption / Title: Figure 1. The Rise In Positive Assortative Mating, 1960-2005\n- Extracted Chart Text & Data Points:\n95 percent\n\n \n\n \n\n \n\n \n\n1969 1980 1991 2002 1960 1974 1988 2002\nYear. t \u2018Year. t\n- Image File: /media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/6077605/6077605_fig_000.png\n- S3 Image URL: https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/6077605/6077605_fig_000.png\n- S3 URI: s3://multimodal-rag-data-nov14/figures/6077605/6077605_fig_000.png",
+      "token_count": 173,
+      "headings": [
+        "Figure 1. The Rise In Positive Assortative Mating, 1960-2005"
+      ],
+      "page_numbers": [
+        1
+      ],
+      "has_table": false,
+      "has_image": true,
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/6077605/6077605_fig_000.png",
+      "caption": "Figure 1. The Rise In Positive Assortative Mating, 1960-2005",
+      "ocr_text": "95 percent\n\n \n\n \n\n \n\n \n\n1969 1980 1991 2002 1960 1974 1988 2002\nYear. t \u2018Year. t",
+      "figure_type": "chart_graph",
+      "neural_class": "line_chart",
+      "classification_confidence": 0.9973,
+      "char_length": 588,
+      "word_count": 72,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf",
+      "image_s3_uri": "s3://multimodal-rag-data-nov14/figures/6077605/6077605_fig_000.png",
+      "image_s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/6077605/6077605_fig_000.png",
+      "image_sha256": "aeb5beb5925720bb9cfb93ecdb9810e54f612ba7bbe7e51058320e81322f5cdb"
+    },
+    {
+      "chunk_id": "6077605_figchunk_001",
+      "chunk_index": 77,
+      "document_id": "6077605",
+      "chunk_type": "figure_graph",
+      "text": "## Visual Chart / Graph: Figure 2. Income Inequality, 1960 and 2005\n- Source Document: 6077605.pdf (Page 4)\n- Neural Classification: Line Chart (98.6% confidence) [Model: DocumentFigureClassifier-v2.5]\n- Visual Category: Chart Graph\n- Caption / Title: Figure 2. Income Inequality, 1960 and 2005\n- Extracted Chart Text & Data Points:\no\n\nCumulative share of household income, /,\n\n\u00e9\n\n8\n\n033.\n\nHousehold income relative to mean, s)\n\n \n\n0.\nG0 02\u00b0 04 06\" 08\" 10\n\u2018umulative percentile of households, p\n\n0\n\n \n\n00\" 02\" 04 06 08 1K\nPercentile, j\n- Image File: /media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/6077605/6077605_fig_001.png\n- S3 Image URL: https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/6077605/6077605_fig_001.png\n- S3 URI: s3://multimodal-rag-data-nov14/figures/6077605/6077605_fig_001.png",
+      "token_count": 202,
+      "headings": [
+        "Figure 2. Income Inequality, 1960 and 2005"
+      ],
+      "page_numbers": [
+        4
+      ],
+      "has_table": false,
+      "has_image": true,
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/6077605/6077605_fig_001.png",
+      "caption": "Figure 2. Income Inequality, 1960 and 2005",
+      "ocr_text": "o\n\nCumulative share of household income, /,\n\n\u00e9\n\n8\n\n033.\n\nHousehold income relative to mean, s)\n\n \n\n0.\nG0 02\u00b0 04 06\" 08\" 10\n\u2018umulative percentile of households, p\n\n0\n\n \n\n00\" 02\" 04 06 08 1K\nPercentile, j",
+      "figure_type": "chart_graph",
+      "neural_class": "line_chart",
+      "classification_confidence": 0.9858,
+      "char_length": 674,
+      "word_count": 91,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf",
+      "image_s3_uri": "s3://multimodal-rag-data-nov14/figures/6077605/6077605_fig_001.png",
+      "image_s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/6077605/6077605_fig_001.png",
+      "image_sha256": "fc0dadc28e788d916d4de3c091739192fcb23953026e4b95c394c35b1a63ac91"
+    },
+    {
+      "chunk_id": "6077605_figchunk_002",
+      "chunk_index": 78,
+      "document_id": "6077605",
+      "chunk_type": "figure_graph",
+      "text": "## Visual Chart / Graph: Figure 3. Assortative versus Random Mating, 2005\n- Source Document: 6077605.pdf (Page 4)\n- Neural Classification: Line Chart (99.8% confidence) [Model: DocumentFigureClassifier-v2.5]\n- Visual Category: Chart Graph\n- Caption / Title: Figure 3. Assortative versus Random Mating, 2005\n- Extracted Chart Text & Data Points:\nCumulative share of household income, /,,\n\n99\n\n06s\n\n033\n\n\u00b0.\n00 02 04 06 08 10 00 02 04 06 08\nCumulative percentile of households, p\n\n  \n\n19\n- Image File: /media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/6077605/6077605_fig_002.png\n- S3 Image URL: https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/6077605/6077605_fig_002.png\n- S3 URI: s3://multimodal-rag-data-nov14/figures/6077605/6077605_fig_002.png",
+      "token_count": 184,
+      "headings": [
+        "Figure 3. Assortative versus Random Mating, 2005"
+      ],
+      "page_numbers": [
+        4
+      ],
+      "has_table": false,
+      "has_image": true,
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/6077605/6077605_fig_002.png",
+      "caption": "Figure 3. Assortative versus Random Mating, 2005",
+      "ocr_text": "Cumulative share of household income, /,,\n\n99\n\n06s\n\n033\n\n\u00b0.\n00 02 04 06 08 10 00 02 04 06 08\nCumulative percentile of households, p\n\n  \n\n19",
+      "figure_type": "chart_graph",
+      "neural_class": "line_chart",
+      "classification_confidence": 0.9983,
+      "char_length": 623,
+      "word_count": 81,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf",
+      "image_s3_uri": "s3://multimodal-rag-data-nov14/figures/6077605/6077605_fig_002.png",
+      "image_s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/6077605/6077605_fig_002.png",
+      "image_sha256": "6da18c5063b8554e9e0dbc5f2284028d3bb70b16365adc2f30606cc9a5b92304"
+    },
+    {
+      "chunk_id": "6077605_figchunk_003",
+      "chunk_index": 79,
+      "document_id": "6077605",
+      "chunk_type": "figure_graph",
+      "text": "## Visual Chart / Graph: Figure 4. Married Female Labor-Force Participation, 1960 and 2005\n- Source Document: 6077605.pdf (Page 5)\n- Neural Classification: Line Chart (99.9% confidence) [Model: DocumentFigureClassifier-v2.5]\n- Visual Category: Chart Graph\n- Caption / Title: Figure 4. Married Female Labor-Force Participation, 1960 and 2005\n- Extracted Chart Text & Data Points:\n2\n\ness\nBesa\n\nMarried female labor-force participation\ng\n\n  \n\n=\n3\n2\n3\n2\n3.\n2\nE\nS\n&\n\n0 02 04 06 08 10 0 02 04 06 08 10\nPercentile, | Percentile, j\n- Image File: /media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/6077605/6077605_fig_003.png\n- S3 Image URL: https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/6077605/6077605_fig_003.png\n- S3 URI: s3://multimodal-rag-data-nov14/figures/6077605/6077605_fig_003.png",
+      "token_count": 196,
+      "headings": [
+        "Figure 4. Married Female Labor-Force Participation, 1960 and 2005"
+      ],
+      "page_numbers": [
+        5
+      ],
+      "has_table": false,
+      "has_image": true,
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/6077605/6077605_fig_003.png",
+      "caption": "Figure 4. Married Female Labor-Force Participation, 1960 and 2005",
+      "ocr_text": "2\n\ness\nBesa\n\nMarried female labor-force participation\ng\n\n  \n\n=\n3\n2\n3\n2\n3.\n2\nE\nS\n&\n\n0 02 04 06 08 10 0 02 04 06 08 10\nPercentile, | Percentile, j",
+      "figure_type": "chart_graph",
+      "neural_class": "line_chart",
+      "classification_confidence": 0.9985,
+      "char_length": 662,
+      "word_count": 92,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf",
+      "image_s3_uri": "s3://multimodal-rag-data-nov14/figures/6077605/6077605_fig_003.png",
+      "image_s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/6077605/6077605_fig_003.png",
+      "image_sha256": "8279129234c5722d9b678d5658150ef406e78c13a6cd683b10e41ee75bd8ac2f"
+    },
+    {
+      "chunk_id": "6077605_figchunk_004",
+      "chunk_index": 80,
+      "document_id": "6077605",
+      "chunk_type": "figure_graph",
+      "text": "## Visual Chart / Graph: FIGURE A1. THE LORENZ CURVE AND GINI COEFFICIENT\n- Source Document: 6077605.pdf (Page 8)\n- Neural Classification: Line Chart (93.5% confidence) [Model: DocumentFigureClassifier-v2.5]\n- Visual Category: Chart Graph\n- Caption / Title: FIGURE A1. THE LORENZ CURVE AND GINI COEFFICIENT\n- Extracted Chart Text & Data Points:\nne 4 = 8\no 6 6 6 6\n\n \n\n \n \n\n \n \n\n\u2018@WODU| PJOYESNOH Jo eieys sANe|nWNO\n\na\n3\n\n  \n\n \n\nCumulative Percentile of Householde, >\n- Image File: /media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/6077605/6077605_fig_004.png\n- S3 Image URL: https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/6077605/6077605_fig_004.png\n- S3 URI: s3://multimodal-rag-data-nov14/figures/6077605/6077605_fig_004.png",
+      "token_count": 186,
+      "headings": [
+        "FIGURE A1. THE LORENZ CURVE AND GINI COEFFICIENT"
+      ],
+      "page_numbers": [
+        8
+      ],
+      "has_table": false,
+      "has_image": true,
+      "image_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/processed_chunks/figures/6077605/6077605_fig_004.png",
+      "caption": "FIGURE A1. THE LORENZ CURVE AND GINI COEFFICIENT",
+      "ocr_text": "ne 4 = 8\no 6 6 6 6\n\n \n\n \n \n\n \n \n\n\u2018@WODU| PJOYESNOH Jo eieys sANe|nWNO\n\na\n3\n\n  \n\n \n\nCumulative Percentile of Householde, >",
+      "figure_type": "chart_graph",
+      "neural_class": "line_chart",
+      "classification_confidence": 0.9349,
+      "char_length": 605,
+      "word_count": 77,
+      "source_file": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data_ingestion/raw_documents/6077605/6077605.pdf",
+      "image_s3_uri": "s3://multimodal-rag-data-nov14/figures/6077605/6077605_fig_004.png",
+      "image_s3_url": "https://multimodal-rag-data-nov14.s3.amazonaws.com/figures/6077605/6077605_fig_004.png",
+      "image_sha256": "e566a41774562fda23722224636036f0fee49d7fc720aa69e69c5f6a686272d0"
+    }
+  ]
+}

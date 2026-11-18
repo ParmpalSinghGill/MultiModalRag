@@ -1,0 +1,24 @@
+FROM python:3.12-slim
+
+ENV PYTHONUNBUFFERED=1 HF_HOME=/opt/models DOCLING_ARTIFACTS_PATH=/opt/models/docling
+WORKDIR /app
+
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends tesseract-ocr libgl1 libglib2.0-0 \
+    && rm -rf /var/lib/apt/lists/*
+
+COPY services/requirements-worker.txt /tmp/requirements.txt
+RUN pip install --no-cache-dir torch torchvision --index-url https://download.pytorch.org/whl/cpu \
+    && pip install --no-cache-dir -r /tmp/requirements.txt
+
+# Bake every model so tasks start quickly and repeat no downloads on Spot retries.
+RUN docling-tools models download --output-dir /opt/models/docling \
+    && python -c "from sentence_transformers import SentenceTransformer as S; S('sentence-transformers/all-MiniLM-L6-v2', device='cpu')"
+
+COPY data_ingestion/ data_ingestion/
+COPY services/ services/
+
+RUN useradd --system --uid 10001 --create-home app && chown -R app /opt/models
+USER 10001
+ENV HF_HUB_OFFLINE=1
+ENTRYPOINT ["python", "-m", "services.worker"]

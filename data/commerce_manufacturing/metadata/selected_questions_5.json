@@ -1,0 +1,270 @@
+{
+  "domain": "commerce_manufacturing",
+  "num_questions": 5,
+  "indices": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "unique_document_ids": [
+    "0355944",
+    "3608674",
+    "4350133",
+    "6109033"
+  ],
+  "format_breakdown": {
+    "pdf_questions": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "image_questions": []
+  },
+  "total_pdfs": 4,
+  "total_images": 0,
+  "questions": [
+    {
+      "question_idx": 0,
+      "document_id": "0355944",
+      "format": "pdf",
+      "question": "What are the steps involved in the corrective action process in Hunt Design's QMS?",
+      "answer": "The corrective action process includes the analysis of data, internal audits, implementation of corrective actions, and control of non-conforming products.",
+      "question_type": "factual_retrieval",
+      "answer_type": "image_only",
+      "gt_image_paths_rel": [
+        "images/commerce_manufacturing/0355944/0355944_page_0004.png"
+      ],
+      "longdoc_image_paths_rel": [
+        "images/commerce_manufacturing/0355944/0355944_page_0001.png",
+        "images/commerce_manufacturing/0355944/0355944_page_0002.png",
+        "images/commerce_manufacturing/0355944/0355944_page_0003.png",
+        "images/commerce_manufacturing/0355944/0355944_page_0004.png",
+        "images/commerce_manufacturing/0355944/0355944_page_0005.png"
+      ],
+      "required_images_rel": [
+        "images/commerce_manufacturing/0355944/0355944_page_0001.png",
+        "images/commerce_manufacturing/0355944/0355944_page_0002.png",
+        "images/commerce_manufacturing/0355944/0355944_page_0003.png",
+        "images/commerce_manufacturing/0355944/0355944_page_0004.png",
+        "images/commerce_manufacturing/0355944/0355944_page_0005.png"
+      ],
+      "local_images": [],
+      "local_pdf": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data/commerce_manufacturing/documents/0355944/0355944.pdf",
+      "local_files": [
+        "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data/commerce_manufacturing/documents/0355944/0355944.pdf"
+      ],
+      "gt_local_images": []
+    },
+    {
+      "question_idx": 1,
+      "document_id": "6109033",
+      "format": "pdf",
+      "question": "What products are advertised by A. Borsig in the Nichi-Doku-K\u014dgy\u014d-K\u014dkoku from 1897?",
+      "answer": "Various industrial machinery such as locomotives and steam engines.",
+      "question_type": "factual_retrieval",
+      "answer_type": "image_only",
+      "gt_image_paths_rel": [
+        "images/commerce_manufacturing/6109033/6109033_page_0007.png"
+      ],
+      "longdoc_image_paths_rel": [
+        "images/commerce_manufacturing/6109033/6109033_page_0001.png",
+        "images/commerce_manufacturing/6109033/6109033_page_0002.png",
+        "images/commerce_manufacturing/6109033/6109033_page_0003.png",
+        "images/commerce_manufacturing/6109033/6109033_page_0004.png",
+        "images/commerce_manufacturing/6109033/6109033_page_0005.png",
+        "images/commerce_manufacturing/6109033/6109033_page_0006.png",
+        "images/commerce_manufacturing/6109033/6109033_page_0007.png",
+        "images/commerce_manufacturing/6109033/6109033_page_0008.png",
+        "images/commerce_manufacturing/6109033/6109033_page_0009.png",
+        "images/commerce_manufacturing/6109033/6109033_page_0010.png"
+      ],
+      "required_images_rel": [
+        "images/commerce_manufacturing/6109033/6109033_page_0001.png",
+        "images/commerce_manufacturing/6109033/6109033_page_0002.png",
+        "images/commerce_manufacturing/6109033/6109033_page_0003.png",
+        "images/commerce_manufacturing/6109033/6109033_page_0004.png",
+        "images/commerce_manufacturing/6109033/6109033_page_0005.png",
+        "images/commerce_manufacturing/6109033/6109033_page_0006.png",
+        "images/commerce_manufacturing/6109033/6109033_page_0007.png",
+        "images/commerce_manufacturing/6109033/6109033_page_0008.png",
+        "images/commerce_manufacturing/6109033/6109033_page_0009.png",
+        "images/commerce_manufacturing/6109033/6109033_page_0010.png"
+      ],
+      "local_images": [],
+      "local_pdf": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data/commerce_manufacturing/documents/6109033/6109033.pdf",
+      "local_files": [
+        "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data/commerce_manufacturing/documents/6109033/6109033.pdf"
+      ],
+      "gt_local_images": []
+    },
+    {
+      "question_idx": 2,
+      "document_id": "3608674",
+      "format": "pdf",
+      "question": "What is the approximate circuit area of the TPS62745 Buck Converter Evaluation Module as specified by Texas Instruments?",
+      "answer": "37.7 sq. mm (0.0585 sq. in.)",
+      "question_type": "factual_retrieval",
+      "answer_type": "image_only",
+      "gt_image_paths_rel": [
+        "images/commerce_manufacturing/3608674/3608674_page_0007.png",
+        "images/commerce_manufacturing/3608674/3608674_page_0005.png"
+      ],
+      "longdoc_image_paths_rel": [
+        "images/commerce_manufacturing/3608674/3608674_page_0001.png",
+        "images/commerce_manufacturing/3608674/3608674_page_0002.png",
+        "images/commerce_manufacturing/3608674/3608674_page_0003.png",
+        "images/commerce_manufacturing/3608674/3608674_page_0004.png",
+        "images/commerce_manufacturing/3608674/3608674_page_0005.png",
+        "images/commerce_manufacturing/3608674/3608674_page_0006.png",
+        "images/commerce_manufacturing/3608674/3608674_page_0007.png",
+        "images/commerce_manufacturing/3608674/3608674_page_0008.png",
+        "images/commerce_manufacturing/3608674/3608674_page_0009.png",
+        "images/commerce_manufacturing/3608674/3608674_page_0010.png",
+        "images/commerce_manufacturing/3608674/3608674_page_0011.png",
+        "images/commerce_manufacturing/3608674/3608674_page_0012.png",
+        "images/commerce_manufacturing/3608674/3608674_page_0013.png",
+        "images/commerce_manufacturing/3608674/3608674_page_0014.png",
+        "images/commerce_manufacturing/3608674/3608674_page_0015.png",
+        "images/commerce_manufacturing/3608674/3608674_page_0016.png"
+      ],
+      "required_images_rel": [
+        "images/commerce_manufacturing/3608674/3608674_page_0001.png",
+        "images/commerce_manufacturing/3608674/3608674_page_0002.png",
+        "images/commerce_manufacturing/3608674/3608674_page_0003.png",
+        "images/commerce_manufacturing/3608674/3608674_page_0004.png",
+        "images/commerce_manufacturing/3608674/3608674_page_0005.png",
+        "images/commerce_manufacturing/3608674/3608674_page_0006.png",
+        "images/commerce_manufacturing/3608674/3608674_page_0007.png",
+        "images/commerce_manufacturing/3608674/3608674_page_0008.png",
+        "images/commerce_manufacturing/3608674/3608674_page_0009.png",
+        "images/commerce_manufacturing/3608674/3608674_page_0010.png",
+        "images/commerce_manufacturing/3608674/3608674_page_0011.png",
+        "images/commerce_manufacturing/3608674/3608674_page_0012.png",
+        "images/commerce_manufacturing/3608674/3608674_page_0013.png",
+        "images/commerce_manufacturing/3608674/3608674_page_0014.png",
+        "images/commerce_manufacturing/3608674/3608674_page_0015.png",
+        "images/commerce_manufacturing/3608674/3608674_page_0016.png"
+      ],
+      "local_images": [],
+      "local_pdf": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data/commerce_manufacturing/documents/3608674/3608674.pdf",
+      "local_files": [
+        "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data/commerce_manufacturing/documents/3608674/3608674.pdf"
+      ],
+      "gt_local_images": []
+    },
+    {
+      "question_idx": 3,
+      "document_id": "4350133",
+      "format": "pdf",
+      "question": "What are the primary flows of money, parts, and services in the automotive industry channel model?",
+      "answer": "The primary flows include money ($) and products (P) from manufacturers to importers, dealers, and leasing; parts (PP) from manufacturers and importers to dealers and service shops; and services (S) from service shops to consumers.",
+      "question_type": "factual_retrieval",
+      "answer_type": "image_only",
+      "gt_image_paths_rel": [
+        "images/commerce_manufacturing/4350133/4350133_page_0026.png"
+      ],
+      "longdoc_image_paths_rel": [
+        "images/commerce_manufacturing/4350133/4350133_page_0001.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0002.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0003.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0004.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0005.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0006.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0007.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0008.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0009.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0010.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0011.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0012.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0013.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0014.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0015.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0016.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0017.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0018.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0019.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0020.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0021.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0022.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0023.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0024.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0025.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0026.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0027.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0028.png"
+      ],
+      "required_images_rel": [
+        "images/commerce_manufacturing/4350133/4350133_page_0001.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0002.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0003.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0004.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0005.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0006.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0007.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0008.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0009.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0010.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0011.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0012.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0013.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0014.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0015.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0016.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0017.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0018.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0019.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0020.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0021.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0022.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0023.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0024.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0025.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0026.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0027.png",
+        "images/commerce_manufacturing/4350133/4350133_page_0028.png"
+      ],
+      "local_images": [],
+      "local_pdf": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data/commerce_manufacturing/documents/4350133/4350133.pdf",
+      "local_files": [
+        "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data/commerce_manufacturing/documents/4350133/4350133.pdf"
+      ],
+      "gt_local_images": []
+    },
+    {
+      "question_idx": 4,
+      "document_id": "0355944",
+      "format": "pdf",
+      "question": "What is the process flow for handling a customer purchase order in Hunt Design's QMS?",
+      "answer": "The process flow involves sales, quote determination, order entry, requirements review, production scheduling, receiving and inspection, in-process inspection, final inspection, packaging and labeling, shipping, and finally billing and finance.",
+      "question_type": "factual_retrieval",
+      "answer_type": "image_only",
+      "gt_image_paths_rel": [
+        "images/commerce_manufacturing/0355944/0355944_page_0004.png"
+      ],
+      "longdoc_image_paths_rel": [
+        "images/commerce_manufacturing/0355944/0355944_page_0001.png",
+        "images/commerce_manufacturing/0355944/0355944_page_0002.png",
+        "images/commerce_manufacturing/0355944/0355944_page_0003.png",
+        "images/commerce_manufacturing/0355944/0355944_page_0004.png",
+        "images/commerce_manufacturing/0355944/0355944_page_0005.png"
+      ],
+      "required_images_rel": [
+        "images/commerce_manufacturing/0355944/0355944_page_0001.png",
+        "images/commerce_manufacturing/0355944/0355944_page_0002.png",
+        "images/commerce_manufacturing/0355944/0355944_page_0003.png",
+        "images/commerce_manufacturing/0355944/0355944_page_0004.png",
+        "images/commerce_manufacturing/0355944/0355944_page_0005.png"
+      ],
+      "local_images": [],
+      "local_pdf": "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data/commerce_manufacturing/documents/0355944/0355944.pdf",
+      "local_files": [
+        "/media/parmpal/Data/Codes/VibeCoding/Rags/MultiFormatRag/data/commerce_manufacturing/documents/0355944/0355944.pdf"
+      ],
+      "gt_local_images": []
+    }
+  ]
+}
